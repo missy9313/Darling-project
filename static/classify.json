@@ -1,0 +1,5519 @@
+{
+  "status": true,
+  "data": [
+    {
+      "id": "86",
+      "key": "app_menu_more",
+      "parent_id": "0",
+      "url": "/api/goods/search?tags=推荐",
+      "image_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14302939605036.png",
+      "image_url_1": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14302939703669.png",
+      "ad_image_url": "",
+      "ad_url": "",
+      "group_name": "",
+      "title": "推荐分类",
+      "keywords": "",
+      "description": "",
+      "file_id": "0",
+      "utype": "list",
+      "alt": "推荐分类",
+      "sort": "10",
+      "status": "1",
+      "display_id": "1",
+      "extra": {
+        "tags": "推荐",
+        "id": "86",
+        "key": "app_menu_more"
+      },
+      "spec_ids": "24",
+      "tags": "推荐",
+      "is_show_in_cart": "0",
+      "image_in_cart": "",
+      "sort_in_cart": "1",
+      "highlight_color": "",
+      "is_channel_recommend": "0",
+      "block_list": [
+        {
+          "title": "其它",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528542742699.png",
+              "category_title": "全部分类",
+              "id": "93",
+              "alt": "全部分类",
+              "tags": "",
+              "extra": {
+                "id": "93",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528499951602.png",
+              "category_title": "无敌价",
+              "id": "87",
+              "alt": "无敌价",
+              "tags": "六月无敌",
+              "extra": {
+                "tags": "六月无敌",
+                "is_recommend": "1",
+                "id": "87",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files",
+              "category_title": "海外直邮",
+              "id": "1116",
+              "alt": "海外直邮",
+              "tags": "海外直邮国际",
+              "extra": {
+                "tags": "海外直邮国际",
+                "is_recommend": "1",
+                "id": "1116",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528500487090.png",
+              "category_title": "美女专场",
+              "id": "92",
+              "alt": "美女专场",
+              "tags": "送她",
+              "extra": {
+                "tags": "送她",
+                "is_recommend": "1",
+                "id": "92",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528498532576.png",
+              "category_title": "“鹿”小物",
+              "id": "95",
+              "alt": "“鹿”小物",
+              "tags": "鹿晗",
+              "extra": {
+                "tags": "鹿晗",
+                "is_recommend": "1",
+                "id": "95",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/18/14530868004441.png",
+              "category_title": "极致美护",
+              "id": "929",
+              "alt": "极致美护",
+              "tags": "极致美护",
+              "extra": {
+                "tags": "极致美护",
+                "is_recommend": "1",
+                "id": "929",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/18/14530869281769.png",
+              "category_title": "创意生活",
+              "id": "931",
+              "alt": "创意生活",
+              "tags": "创意生活",
+              "extra": {
+                "tags": "创意生活",
+                "is_recommend": "1",
+                "id": "931",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files",
+              "category_title": "情趣诱惑",
+              "id": "1105",
+              "alt": "情趣诱惑",
+              "tags": "情趣诱惑",
+              "extra": {
+                "tags": "情趣诱惑",
+                "is_recommend": "1",
+                "id": "1105",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/18/14530868845101.png",
+              "category_title": "全球零食",
+              "id": "930",
+              "alt": "全球零食",
+              "tags": "全球零食",
+              "extra": {
+                "tags": "全球零食",
+                "is_recommend": "1",
+                "id": "930",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528500718706.png",
+              "category_title": "极速保税区",
+              "id": "99",
+              "alt": "极速免税区",
+              "tags": "保税",
+              "extra": {
+                "tags": "保税",
+                "is_recommend": "1",
+                "id": "99",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/18/14530871082614.png",
+              "category_title": "时尚配饰",
+              "id": "934",
+              "alt": "时尚配饰",
+              "tags": "时尚配饰",
+              "extra": {
+                "tags": "时尚配饰",
+                "is_recommend": "1",
+                "id": "934",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528500126885.png",
+              "category_title": "表白礼物",
+              "id": "88",
+              "alt": "表白礼物",
+              "tags": "520",
+              "extra": {
+                "tags": "520",
+                "id": "88",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528499366737.png",
+              "category_title": "炫酷数码",
+              "id": "740",
+              "alt": "炫酷数码",
+              "tags": "数码",
+              "extra": {
+                "tags": "数码",
+                "id": "740",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528499164335.png",
+              "category_title": "本周新品",
+              "id": "89",
+              "alt": "本周新品",
+              "tags": "",
+              "extra": {
+                "sale_type": "2",
+                "id": "89",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528499573284.png",
+              "category_title": "创意家电",
+              "id": "739",
+              "alt": "创意家电",
+              "tags": "家电",
+              "extra": {
+                "tags": "家电",
+                "id": "739",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "162",
+      "key": "app_menu_more",
+      "parent_id": "0",
+      "url": "/api/goods/search?tags=极致美护",
+      "image_url": "http://img.cdn.daling.com/data/files/mobile/2015/06/27/14354128349080.png",
+      "image_url_1": "http://img.cdn.daling.com/data/files/mobile/2015/06/27/14354128517616.png",
+      "ad_image_url": "",
+      "ad_url": "",
+      "group_name": "",
+      "title": "极致美护",
+      "keywords": "",
+      "description": "",
+      "file_id": "0",
+      "utype": "list",
+      "alt": "极致美护",
+      "sort": "9",
+      "status": "1",
+      "display_id": "1",
+      "extra": {
+        "tags": "极致美护",
+        "is_show_all": "1",
+        "id": "162",
+        "key": "app_menu_more"
+      },
+      "spec_ids": "25,33,40,50",
+      "tags": "极致美护",
+      "is_show_in_cart": "1",
+      "image_in_cart": "/mobile/2016/01/25/14537201222314.png",
+      "sort_in_cart": "1",
+      "highlight_color": "",
+      "is_channel_recommend": "0",
+      "block_list": [
+        {
+          "title": "地域",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/07/06/14677883717744.png",
+              "category_title": "Top榜",
+              "id": "1090",
+              "alt": "Top榜",
+              "tags": "美妆top",
+              "extra": {
+                "tags": "美妆top",
+                "is_recommend": "1",
+                "id": "1090",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528521837161.png",
+              "category_title": "全部",
+              "id": "163",
+              "alt": "全部",
+              "tags": "极致",
+              "extra": {
+                "tags": "极致",
+                "id": "163",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/08/01/14700445643623.png",
+              "category_title": "日系",
+              "id": "164",
+              "alt": "日系",
+              "tags": "日系美妆",
+              "extra": {
+                "tags": "日系美妆",
+                "id": "164",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/08/01/14700445901094.png",
+              "category_title": "韩系",
+              "id": "165",
+              "alt": "韩系",
+              "tags": "韩系美妆",
+              "extra": {
+                "tags": "韩系美妆",
+                "id": "165",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/08/01/14700446107799.png",
+              "category_title": "欧美",
+              "id": "166",
+              "alt": "欧美",
+              "tags": "欧洲美妆",
+              "extra": {
+                "tags": "欧洲美妆",
+                "id": "166",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/08/01/14700446315199.png",
+              "category_title": "港台",
+              "id": "167",
+              "alt": "港台",
+              "tags": "港台美妆",
+              "extra": {
+                "tags": "港台美妆",
+                "id": "167",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/08/01/14700446486575.png",
+              "category_title": "东南亚",
+              "id": "192",
+              "alt": "东南亚",
+              "tags": "东南亚美妆",
+              "extra": {
+                "tags": "东南亚美妆",
+                "id": "192",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "面部护肤",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/05/26/14957944183373.jpg",
+              "category_title": "面膜",
+              "id": "1155",
+              "alt": "面膜",
+              "tags": "面膜",
+              "extra": {
+                "tags": "面膜",
+                "is_recommend": "1",
+                "id": "1155",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/05/26/14957949214699.jpg",
+              "category_title": "洁面",
+              "id": "177",
+              "alt": "洁面",
+              "tags": "洁面",
+              "extra": {
+                "tags": "洁面",
+                "is_recommend": "1",
+                "id": "177",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528496154158.png",
+              "category_title": "化妆水",
+              "id": "178",
+              "alt": "化妆水",
+              "tags": "化妆水",
+              "extra": {
+                "tags": "化妆水",
+                "is_recommend": "1",
+                "id": "178",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/05/26/14957938365204.jpg",
+              "category_title": "精华",
+              "id": "180",
+              "alt": "精华",
+              "tags": "精华",
+              "extra": {
+                "tags": "精华",
+                "id": "180",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/05/26/14957941073989.jpg",
+              "category_title": "眼部护理",
+              "id": "169",
+              "alt": "眼部护理",
+              "tags": "眼部护理",
+              "extra": {
+                "tags": "眼部护理",
+                "id": "169",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/05/26/14957942749811.jpg",
+              "category_title": "面霜/乳液",
+              "id": "179",
+              "alt": "面霜/乳液",
+              "tags": "乳霜",
+              "extra": {
+                "tags": "乳霜",
+                "is_recommend": "1",
+                "id": "179",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528495208071.png",
+              "category_title": "唇部护理",
+              "id": "170",
+              "alt": "唇部护理",
+              "tags": "唇部护理",
+              "extra": {
+                "tags": "唇部护理",
+                "id": "170",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/04/18/14925076176175.jpg",
+              "category_title": "防晒",
+              "id": "189",
+              "alt": "防晒",
+              "tags": "防晒",
+              "extra": {
+                "tags": "防晒",
+                "is_recommend": "1",
+                "id": "189",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528494709202.png",
+              "category_title": "精油",
+              "id": "191",
+              "alt": "精油",
+              "tags": "精油",
+              "extra": {
+                "tags": "精油",
+                "id": "191",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/04/18/14925076312483.jpg",
+              "category_title": "护肤套装",
+              "id": "186",
+              "alt": "护肤套装",
+              "tags": "护肤套装",
+              "extra": {
+                "tags": "护肤套装",
+                "is_recommend": "1",
+                "id": "186",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528494085572.png",
+              "category_title": "美妆工具",
+              "id": "175",
+              "alt": "美妆工具",
+              "tags": "美妆工具",
+              "extra": {
+                "tags": "美妆工具",
+                "id": "175",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528493865361.png",
+              "category_title": "男士专区",
+              "id": "193",
+              "alt": "男士专区",
+              "tags": "男士专区",
+              "extra": {
+                "tags": "男士专区",
+                "id": "193",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/07/22/1469184168648.jpg",
+              "category_title": "喷雾",
+              "id": "1095",
+              "alt": "喷雾",
+              "tags": "喷雾",
+              "extra": {
+                "tags": "喷雾",
+                "id": "1095",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "彩妆香氛",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528493561247.png",
+              "category_title": "卸妆",
+              "id": "181",
+              "alt": "卸妆",
+              "tags": "卸妆",
+              "extra": {
+                "tags": "卸妆",
+                "id": "181",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528493339657.png",
+              "category_title": "隔离/底妆",
+              "id": "182",
+              "alt": "隔离/底妆",
+              "tags": "底妆",
+              "extra": {
+                "tags": "底妆",
+                "is_recommend": "1",
+                "id": "182",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528493136052.png",
+              "category_title": "唇膏口红",
+              "id": "185",
+              "alt": "唇膏口红",
+              "tags": "口红",
+              "extra": {
+                "tags": "口红",
+                "is_recommend": "1",
+                "id": "185",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528492909011.png",
+              "category_title": "眼妆/腮红",
+              "id": "188",
+              "alt": "眼妆/腮红",
+              "tags": "眼妆",
+              "extra": {
+                "tags": "眼妆",
+                "is_recommend": "1",
+                "id": "188",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528492691702.png",
+              "category_title": "美甲",
+              "id": "184",
+              "alt": "美甲",
+              "tags": "美甲",
+              "extra": {
+                "tags": "美甲",
+                "id": "184",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528492449285.png",
+              "category_title": "女士香水",
+              "id": "176",
+              "alt": "女士香水",
+              "tags": "女士香水",
+              "extra": {
+                "tags": "女士香水",
+                "id": "176",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "个护保健",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528492199971.png",
+              "category_title": "沐浴/体乳",
+              "id": "173",
+              "alt": "沐浴/体乳",
+              "tags": "身体",
+              "extra": {
+                "tags": "身体",
+                "id": "173",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528491958411.png",
+              "category_title": "洗发/护发",
+              "id": "171",
+              "alt": "洗发/护发",
+              "tags": "头发",
+              "extra": {
+                "tags": "头发",
+                "id": "171",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/1452848987987.png",
+              "category_title": "口腔护理",
+              "id": "183",
+              "alt": "口腔护理",
+              "tags": "口腔护理",
+              "extra": {
+                "tags": "口腔护理",
+                "id": "183",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528488919952.png",
+              "category_title": "美体护理",
+              "id": "174",
+              "alt": "美体护理",
+              "tags": "美体护理",
+              "extra": {
+                "tags": "美体护理",
+                "id": "174",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528487916971.png",
+              "category_title": "手足护理",
+              "id": "172",
+              "alt": "手足护理",
+              "tags": "手足护理",
+              "extra": {
+                "tags": "手足护理",
+                "id": "172",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528487655128.png",
+              "category_title": "驱蚊凝露",
+              "id": "190",
+              "alt": "驱蚊凝露",
+              "tags": "驱蚊",
+              "extra": {
+                "tags": "驱蚊",
+                "id": "190",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528487419737.png",
+              "category_title": "女性卫生",
+              "id": "187",
+              "alt": "女性卫生",
+              "tags": "女性卫生",
+              "extra": {
+                "tags": "女性卫生",
+                "id": "187",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528487083468.png",
+              "category_title": "保健品",
+              "id": "194",
+              "alt": "保健品",
+              "tags": "保健品",
+              "extra": {
+                "tags": "保健品",
+                "id": "194",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "热门品牌",
+          "type": "category",
+          "list": [
+            {
+              "category_title": "百雀羚",
+              "url": "/api/goods/search?brand_id=2104",
+              "extra": {
+                "brand_id": "2104"
+              },
+              "alt": "百雀羚",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616612693423.png"
+            },
+            {
+              "category_title": "一叶子",
+              "url": "/api/goods/search?brand_id=1585",
+              "extra": {
+                "brand_id": "1585"
+              },
+              "alt": "一叶子",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615750443133.png"
+            },
+            {
+              "category_title": "兰芝",
+              "url": "/api/goods/search?brand_id=1452",
+              "extra": {
+                "brand_id": "1452"
+              },
+              "alt": "兰芝",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615750612625.png"
+            },
+            {
+              "category_title": "伊思",
+              "url": "/api/goods/search?brand_id=1247",
+              "extra": {
+                "brand_id": "1247"
+              },
+              "alt": "伊思",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615750759995.png"
+            },
+            {
+              "category_title": "悦诗风吟",
+              "url": "/api/goods/search?brand_id=1450",
+              "extra": {
+                "brand_id": "1450"
+              },
+              "alt": "悦诗风吟",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615750916050.png"
+            },
+            {
+              "category_title": "KAO花王",
+              "url": "/api/goods/search?brand_id=420",
+              "extra": {
+                "brand_id": "420"
+              },
+              "alt": "KAO花王",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615751056229.png"
+            },
+            {
+              "category_title": "DHC",
+              "url": "/api/goods/search?brand_id=68",
+              "extra": {
+                "brand_id": "68"
+              },
+              "alt": "DHC",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615751192107.png"
+            },
+            {
+              "category_title": "资生堂",
+              "url": "/api/goods/search?brand_id=306",
+              "extra": {
+                "brand_id": "306"
+              },
+              "alt": "资生堂",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/1461575141748.png"
+            },
+            {
+              "category_title": "科颜氏",
+              "url": "/api/goods/search?brand_id=424",
+              "extra": {
+                "brand_id": "424"
+              },
+              "alt": "科颜氏",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615751605161.png"
+            },
+            {
+              "category_title": "迪奧",
+              "url": "/api/goods/search?brand_id=70",
+              "extra": {
+                "brand_id": "70"
+              },
+              "alt": "迪奧",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615751945538.png"
+            },
+            {
+              "category_title": "兰蔻",
+              "url": "/api/goods/search?brand_id=1434",
+              "extra": {
+                "brand_id": "1434"
+              },
+              "alt": "兰蔻",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615752082929.png"
+            },
+            {
+              "category_title": "雅诗兰黛",
+              "url": "/api/goods/search?brand_id=1539",
+              "extra": {
+                "brand_id": "1539"
+              },
+              "alt": "雅诗兰黛",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615752206266.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "196",
+      "key": "app_menu_more",
+      "parent_id": "0",
+      "url": "/api/goods/search?tags=全球零食",
+      "image_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14302941384501.png",
+      "image_url_1": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14302941466453.png",
+      "ad_image_url": "",
+      "ad_url": "",
+      "group_name": "",
+      "title": "全球零食",
+      "keywords": "",
+      "description": "",
+      "file_id": "0",
+      "utype": "list",
+      "alt": "全球零食",
+      "sort": "8",
+      "status": "1",
+      "display_id": "1",
+      "extra": {
+        "tags": "全球零食",
+        "is_show_all": "1",
+        "id": "196",
+        "key": "app_menu_more"
+      },
+      "spec_ids": "26,34,41",
+      "tags": "全球零食",
+      "is_show_in_cart": "1",
+      "image_in_cart": "/mobile/2016/01/25/1453720093209.png",
+      "sort_in_cart": "2",
+      "highlight_color": "",
+      "is_channel_recommend": "0",
+      "block_list": [
+        {
+          "title": "饼干/糕点",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/07/06/14677890047191.png",
+              "category_title": "Top榜",
+              "id": "1093",
+              "alt": "Top榜",
+              "tags": "零食top",
+              "extra": {
+                "tags": "零食top",
+                "is_recommend": "1",
+                "id": "1093",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528522096703.png",
+              "category_title": "全部",
+              "id": "200",
+              "alt": "全部",
+              "tags": "全球零食",
+              "extra": {
+                "tags": "全球零食",
+                "id": "200",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528483897059.png",
+              "category_title": "饼干",
+              "id": "694",
+              "alt": "饼干",
+              "tags": "饼干",
+              "extra": {
+                "tags": "饼干",
+                "is_recommend": "1",
+                "id": "694",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528483685404.png",
+              "category_title": "糕点",
+              "id": "695",
+              "alt": "糕点",
+              "tags": "糕点",
+              "extra": {
+                "tags": "糕点",
+                "is_recommend": "1",
+                "id": "695",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528483441223.png",
+              "category_title": "曲奇",
+              "id": "696",
+              "alt": "曲奇",
+              "tags": "曲奇",
+              "extra": {
+                "tags": "曲奇",
+                "id": "696",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528483144915.png",
+              "category_title": "威化",
+              "id": "697",
+              "alt": "威化",
+              "tags": "威化",
+              "extra": {
+                "tags": "威化",
+                "id": "697",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "水果",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/06/01/14962823448639.jpg",
+              "category_title": "水果",
+              "id": "1170",
+              "alt": "水果",
+              "tags": "水果",
+              "extra": {
+                "tags": "水果",
+                "is_recommend": "1",
+                "id": "1170",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "咖啡/冲饮",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528482873930.png",
+              "category_title": "咖啡",
+              "id": "698",
+              "alt": "咖啡",
+              "tags": "咖啡",
+              "extra": {
+                "tags": "咖啡",
+                "id": "698",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528482628604.png",
+              "category_title": "养生柚子茶",
+              "id": "699",
+              "alt": "养生柚子茶",
+              "tags": "养生柚子茶",
+              "extra": {
+                "tags": "养生柚子茶",
+                "id": "699",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528482272250.png",
+              "category_title": "麦片",
+              "id": "700",
+              "alt": "麦片",
+              "tags": "麦片",
+              "extra": {
+                "tags": "麦片",
+                "is_recommend": "1",
+                "id": "700",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528481987501.png",
+              "category_title": "冲饮粉奶茶",
+              "id": "693",
+              "alt": "冲饮粉奶茶",
+              "tags": "冲饮",
+              "extra": {
+                "tags": "冲饮",
+                "id": "693",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/1452848174558.png",
+              "category_title": "蜂蜜",
+              "id": "692",
+              "alt": "蜂蜜",
+              "tags": "蜂蜜",
+              "extra": {
+                "tags": "蜂蜜",
+                "id": "692",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528481486211.png",
+              "category_title": "茶/花果茶",
+              "id": "690",
+              "alt": "茶/花果茶",
+              "tags": "花果茶",
+              "extra": {
+                "tags": "花果茶",
+                "is_recommend": "1",
+                "id": "690",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "休闲零食",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528481226673.png",
+              "category_title": "果冻/布丁",
+              "id": "689",
+              "alt": "果冻/布丁",
+              "tags": "果冻",
+              "extra": {
+                "tags": "果冻",
+                "id": "689",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528480963577.png",
+              "category_title": "薯片玉米片",
+              "id": "688",
+              "alt": "薯片玉米片",
+              "tags": "薯片",
+              "extra": {
+                "tags": "薯片",
+                "is_recommend": "1",
+                "id": "688",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528480534870.png",
+              "category_title": "肉干/肉松",
+              "id": "687",
+              "alt": "肉干/肉松",
+              "tags": "肉干",
+              "extra": {
+                "tags": "肉干",
+                "is_recommend": "1",
+                "id": "687",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528480251650.png",
+              "category_title": "海味即食",
+              "id": "686",
+              "alt": "海味即食",
+              "tags": "海味",
+              "extra": {
+                "tags": "海味",
+                "id": "686",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528480009293.png",
+              "category_title": "膨化零食",
+              "id": "685",
+              "alt": "膨化零食",
+              "tags": "膨化零食",
+              "extra": {
+                "tags": "膨化零食",
+                "id": "685",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528479735495.png",
+              "category_title": "蜜饯",
+              "id": "684",
+              "alt": "蜜饯",
+              "tags": "蜜饯",
+              "extra": {
+                "tags": "蜜饯",
+                "id": "684",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "饮料/酒水",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528479452103.png",
+              "category_title": "果汁饮料",
+              "id": "683",
+              "alt": "果汁饮料",
+              "tags": "果汁",
+              "extra": {
+                "tags": "果汁",
+                "id": "683",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528479014006.png",
+              "category_title": "乳饮料",
+              "id": "682",
+              "alt": "乳饮料",
+              "tags": "乳饮料",
+              "extra": {
+                "tags": "乳饮料",
+                "id": "682",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528478749936.png",
+              "category_title": "碳酸饮料",
+              "id": "681",
+              "alt": "碳酸饮料",
+              "tags": "碳酸饮料",
+              "extra": {
+                "tags": "碳酸饮料",
+                "id": "681",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528478223953.png",
+              "category_title": "酒",
+              "id": "679",
+              "alt": "酒",
+              "tags": "酒",
+              "extra": {
+                "tags": "酒",
+                "id": "679",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "果干坚果",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528477789318.png",
+              "category_title": "果干",
+              "id": "678",
+              "alt": "果干",
+              "tags": "果干",
+              "extra": {
+                "tags": "果干",
+                "id": "678",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528477485550.png",
+              "category_title": "坚果",
+              "id": "677",
+              "alt": "坚果",
+              "tags": "坚果",
+              "extra": {
+                "tags": "坚果",
+                "is_recommend": "1",
+                "id": "677",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "速食/早餐",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528477202805.png",
+              "category_title": "方便面速食",
+              "id": "676",
+              "alt": "方便面速食",
+              "tags": "方便",
+              "extra": {
+                "tags": "方便",
+                "is_recommend": "1",
+                "id": "676",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/1452847693647.png",
+              "category_title": "果酱/涂抹",
+              "id": "675",
+              "alt": "果酱/涂抹",
+              "tags": "果酱",
+              "extra": {
+                "tags": "果酱",
+                "id": "675",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "糖果巧克力",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528476068709.png",
+              "category_title": "糖果",
+              "id": "674",
+              "alt": "糖果",
+              "tags": "糖果",
+              "extra": {
+                "tags": "糖果",
+                "id": "674",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528475769843.png",
+              "category_title": "巧克力",
+              "id": "673",
+              "alt": "巧克力",
+              "tags": "巧克力",
+              "extra": {
+                "tags": "巧克力",
+                "is_recommend": "1",
+                "id": "673",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "特别推荐",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/09/05/14730466848639.png",
+              "category_title": "休闲零食",
+              "id": "1111",
+              "alt": "休闲零食",
+              "tags": "休闲零食",
+              "extra": {
+                "tags": "休闲零食",
+                "is_recommend": "1",
+                "id": "1111",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/09/05/14730467136940.png",
+              "category_title": "饼干糕点",
+              "id": "1112",
+              "alt": "饼干糕点",
+              "tags": "饼干糕点",
+              "extra": {
+                "tags": "饼干糕点",
+                "id": "1112",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/09/05/14730467601468.png",
+              "category_title": "酒水冲调",
+              "id": "1113",
+              "alt": "酒水冲调",
+              "tags": "酒水冲调",
+              "extra": {
+                "tags": "酒水冲调",
+                "id": "1113",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/09/05/14730470027156.png",
+              "category_title": "速食调味",
+              "id": "1114",
+              "alt": "速食调味",
+              "tags": "速食调味",
+              "extra": {
+                "tags": "速食调味",
+                "id": "1114",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/09/06/14731467703466.png",
+              "category_title": "无敌价",
+              "id": "1115",
+              "alt": "无敌价",
+              "tags": "零食无敌价",
+              "extra": {
+                "tags": "零食无敌价",
+                "id": "1115",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "地域",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/08/02/14701200007538.png",
+              "category_title": "韩国",
+              "id": "703",
+              "alt": "韩国",
+              "tags": "韩国零食",
+              "extra": {
+                "tags": "韩国零食",
+                "id": "703",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/08/02/14701200394414.png",
+              "category_title": "中国台湾",
+              "id": "701",
+              "alt": "中国台湾",
+              "tags": "台湾零食",
+              "extra": {
+                "tags": "台湾零食",
+                "id": "701",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/08/02/14701200599674.png",
+              "category_title": "美国",
+              "id": "704",
+              "alt": "美国",
+              "tags": "美国零食",
+              "extra": {
+                "tags": "美国零食",
+                "id": "704",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/08/02/14701200744417.png",
+              "category_title": "欧洲",
+              "id": "705",
+              "alt": "欧洲",
+              "tags": "欧洲零食",
+              "extra": {
+                "tags": "欧洲零食",
+                "id": "705",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/08/02/14701200969997.png",
+              "category_title": "东南亚",
+              "id": "702",
+              "alt": "东南亚",
+              "tags": "东南亚零食",
+              "extra": {
+                "tags": "东南亚零食",
+                "id": "702",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/08/02/14701201551072.png",
+              "category_title": "澳洲",
+              "id": "666",
+              "alt": "澳洲",
+              "tags": "澳洲美食",
+              "extra": {
+                "tags": "澳洲美食",
+                "id": "666",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "热门品牌",
+          "type": "category",
+          "list": [
+            {
+              "category_title": "小老板",
+              "url": "/api/goods/search?brand_id=1525",
+              "extra": {
+                "brand_id": "1525"
+              },
+              "alt": "小老板",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615753664429.png"
+            },
+            {
+              "category_title": "张君雅",
+              "url": "/api/goods/search?brand_id=1787",
+              "extra": {
+                "brand_id": "1787"
+              },
+              "alt": "张君雅",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615753879090.png"
+            },
+            {
+              "category_title": "多力多滋",
+              "url": "/api/goods/search?brand_id=1779",
+              "extra": {
+                "brand_id": "1779"
+              },
+              "alt": "多力多滋",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615754307854.png"
+            },
+            {
+              "category_title": "宝氏",
+              "url": "/api/goods/search?brand_id=3101",
+              "extra": {
+                "brand_id": "3101"
+              },
+              "alt": "宝氏",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615754695563.png"
+            },
+            {
+              "category_title": "G7",
+              "url": "/api/goods/search?brand_id=1820",
+              "extra": {
+                "brand_id": "1820"
+              },
+              "alt": "G7",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615754869575.png"
+            },
+            {
+              "category_title": "全南",
+              "url": "/api/goods/search?brand_id=522",
+              "extra": {
+                "brand_id": "522"
+              },
+              "alt": "全南",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615755096508.png"
+            },
+            {
+              "category_title": "金象",
+              "url": "/api/goods/search?brand_id=4604",
+              "extra": {
+                "brand_id": "4604"
+              },
+              "alt": "金象",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615755298814.png"
+            },
+            {
+              "category_title": "费列罗",
+              "url": "/api/goods/search?brand_id=1803",
+              "extra": {
+                "brand_id": "1803"
+              },
+              "alt": "费列罗",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615755438012.png"
+            },
+            {
+              "category_title": "瑞士莲",
+              "url": "/api/goods/search?brand_id=1772",
+              "extra": {
+                "brand_id": "1772"
+              },
+              "alt": "瑞士莲",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615755578313.png"
+            },
+            {
+              "category_title": "乐天",
+              "url": "/api/goods/search?brand_id=513",
+              "extra": {
+                "brand_id": "513"
+              },
+              "alt": "乐天",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615755714383.png"
+            },
+            {
+              "category_title": "非凡农庄",
+              "url": "/api/goods/search?brand_id=1743",
+              "extra": {
+                "brand_id": "1743"
+              },
+              "alt": "非凡农庄",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615755869133.png"
+            },
+            {
+              "category_title": "丽芝士",
+              "url": "/api/goods/search?brand_id=1811",
+              "extra": {
+                "brand_id": "1811"
+              },
+              "alt": "丽芝士",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615756081515.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "824",
+      "key": "app_menu_more",
+      "parent_id": "0",
+      "url": "/api/goods/search?tags=尖货女装",
+      "image_url": "http://img.cdn.daling.com/data/files/mobile/2015/10/26/14458422062739.png",
+      "image_url_1": "http://img.cdn.daling.com/data/files/mobile/2015/10/26/14458422202093.png",
+      "ad_image_url": "",
+      "ad_url": "",
+      "group_name": "",
+      "title": "尖货女装",
+      "keywords": "",
+      "description": "",
+      "file_id": "0",
+      "utype": "list",
+      "alt": "尖货女装",
+      "sort": "7",
+      "status": "1",
+      "display_id": "1",
+      "extra": {
+        "tags": "尖货女装",
+        "is_show_all": "1",
+        "id": "824",
+        "key": "app_menu_more"
+      },
+      "spec_ids": "31,39,46,49",
+      "tags": "尖货女装",
+      "is_show_in_cart": "0",
+      "image_in_cart": "",
+      "sort_in_cart": "1",
+      "highlight_color": "",
+      "is_channel_recommend": "0",
+      "block_list": [
+        {
+          "title": "风格馆",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/07/06/1467789132840.png",
+              "category_title": "Top榜",
+              "id": "1094",
+              "alt": "Top榜",
+              "tags": "女装top",
+              "extra": {
+                "tags": "女装top",
+                "is_recommend": "1",
+                "id": "1094",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/03/27/14905837502322.png",
+              "category_title": "韩系风格",
+              "id": "1029",
+              "alt": "韩系风格",
+              "tags": "韩系风格",
+              "extra": {
+                "tags": "韩系风格",
+                "is_recommend": "1",
+                "id": "1029",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/29/14619115436909.png",
+              "category_title": "简约欧美",
+              "id": "1031",
+              "alt": "简约欧美",
+              "tags": "简约欧美",
+              "extra": {
+                "tags": "简约欧美",
+                "is_recommend": "1",
+                "id": "1031",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/29/14619115127266.png",
+              "category_title": "运动休闲",
+              "id": "1030",
+              "alt": "运动休闲",
+              "tags": "服装运动休闲",
+              "extra": {
+                "tags": "服装运动休闲",
+                "is_recommend": "1",
+                "id": "1030",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/29/14619115751710.png",
+              "category_title": "文艺复古",
+              "id": "1032",
+              "alt": "文艺复古",
+              "tags": "文艺复古",
+              "extra": {
+                "tags": "文艺复古",
+                "is_recommend": "1",
+                "id": "1032",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/29/14619115992201.png",
+              "category_title": "高街潮牌",
+              "id": "1033",
+              "alt": "高街潮牌",
+              "tags": "高街潮牌",
+              "extra": {
+                "tags": "高街潮牌",
+                "is_recommend": "1",
+                "id": "1033",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/05/11/14629613117692.png",
+              "category_title": "套装",
+              "id": "1045",
+              "alt": "套装",
+              "tags": "衣服套装",
+              "extra": {
+                "tags": "衣服套装",
+                "is_recommend": "1",
+                "id": "1045",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/05/11/14629611656888.png",
+              "category_title": "荷叶边",
+              "id": "1046",
+              "alt": "荷叶边",
+              "tags": "荷叶边",
+              "extra": {
+                "tags": "荷叶边",
+                "id": "1046",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/05/11/1462961208392.png",
+              "category_title": "露肩",
+              "id": "1047",
+              "alt": "露肩",
+              "tags": "露肩",
+              "extra": {
+                "tags": "露肩",
+                "id": "1047",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/05/11/1462961251703.png",
+              "category_title": "牛仔",
+              "id": "1048",
+              "alt": "牛仔",
+              "tags": "牛仔",
+              "extra": {
+                "tags": "牛仔",
+                "id": "1048",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/05/11/14629612744469.png",
+              "category_title": "条纹",
+              "id": "1049",
+              "alt": "条纹",
+              "tags": "条纹",
+              "extra": {
+                "tags": "条纹",
+                "id": "1049",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "上装",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/1452852361355.png",
+              "category_title": "全部",
+              "id": "825",
+              "alt": "全部",
+              "tags": "尖货女装",
+              "extra": {
+                "tags": "尖货女装",
+                "id": "825",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/09/22/14745249937818.png",
+              "category_title": "长袖T恤",
+              "id": "1123",
+              "alt": "长袖T恤",
+              "tags": "长袖T恤",
+              "extra": {
+                "tags": "长袖T恤",
+                "id": "1123",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/09/22/14745251404609.png",
+              "category_title": "棒球外套",
+              "id": "1124",
+              "alt": "棒球外套",
+              "tags": "棒球外套",
+              "extra": {
+                "tags": "棒球外套",
+                "id": "1124",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/09/22/14745252165244.png",
+              "category_title": "夹克",
+              "id": "1125",
+              "alt": "夹克",
+              "tags": "夹克",
+              "extra": {
+                "tags": "夹克",
+                "id": "1125",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/09/22/14745252615107.png",
+              "category_title": "短外套",
+              "id": "1126",
+              "alt": "短外套",
+              "tags": "短外套",
+              "extra": {
+                "tags": "短外套",
+                "id": "1126",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/09/22/1474525305539.png",
+              "category_title": "马甲",
+              "id": "1127",
+              "alt": "马甲",
+              "tags": "马甲",
+              "extra": {
+                "tags": "马甲",
+                "id": "1127",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/09/22/14745253459015.png",
+              "category_title": "皮草",
+              "id": "1128",
+              "alt": "皮草",
+              "tags": "皮草",
+              "extra": {
+                "tags": "皮草",
+                "id": "1128",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/09/22/14745255732046.png",
+              "category_title": "棉服",
+              "id": "1130",
+              "alt": "棉服",
+              "tags": "棉服",
+              "extra": {
+                "tags": "棉服",
+                "id": "1130",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/09/22/1474525618412.png",
+              "category_title": "皮衣",
+              "id": "1131",
+              "alt": "皮衣",
+              "tags": "皮衣",
+              "extra": {
+                "tags": "皮衣",
+                "id": "1131",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/03/14/14579381778249.png",
+              "category_title": "毛衣",
+              "id": "827",
+              "alt": "毛衣",
+              "tags": "毛衣",
+              "extra": {
+                "tags": "毛衣",
+                "id": "827",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/09/21/1474443549184.png",
+              "category_title": "棒球衫",
+              "id": "959",
+              "alt": "棒球衫",
+              "tags": "棒球衫",
+              "extra": {
+                "tags": "棒球衫",
+                "id": "959",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/05/09/14627636962560.png",
+              "category_title": "针织衫",
+              "id": "828",
+              "alt": "针织衫",
+              "tags": "针织衫",
+              "extra": {
+                "tags": "针织衫",
+                "id": "828",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/03/27/14905837041772.png",
+              "category_title": "衬衫",
+              "id": "829",
+              "alt": "衬衫",
+              "tags": "衬衫",
+              "extra": {
+                "tags": "衬衫",
+                "is_recommend": "1",
+                "id": "829",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/03/27/14905838329672.png",
+              "category_title": "卫衣",
+              "id": "830",
+              "alt": "卫衣",
+              "tags": "卫衣",
+              "extra": {
+                "tags": "卫衣",
+                "is_recommend": "1",
+                "id": "830",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/05/09/14627625062080.png",
+              "category_title": "风衣",
+              "id": "960",
+              "alt": "风衣",
+              "tags": "风衣",
+              "extra": {
+                "tags": "风衣",
+                "is_recommend": "1",
+                "id": "960",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/09/21/14744434442023.png",
+              "category_title": "羽绒服",
+              "id": "832",
+              "alt": "羽绒服",
+              "tags": "羽绒服",
+              "extra": {
+                "tags": "羽绒服",
+                "id": "832",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/03/14/14579382094607.png",
+              "category_title": "牛仔外套",
+              "id": "961",
+              "alt": "牛仔短外套",
+              "tags": "牛仔短外套",
+              "extra": {
+                "tags": "牛仔短外套",
+                "id": "961",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/05/09/14627625835347.png",
+              "category_title": "雪纺衫",
+              "id": "962",
+              "alt": "雪纺衫",
+              "tags": "雪纺衫",
+              "extra": {
+                "tags": "雪纺衫",
+                "id": "962",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/03/27/14905836652598.png",
+              "category_title": "T恤",
+              "id": "826",
+              "alt": "T恤",
+              "tags": "T恤",
+              "extra": {
+                "tags": "T恤",
+                "id": "826",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/29/1461911634979.png",
+              "category_title": "吊带背心",
+              "id": "1034",
+              "alt": "吊带背心",
+              "tags": "吊带背心",
+              "extra": {
+                "tags": "吊带背心",
+                "id": "1034",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/29/14619117576460.png",
+              "category_title": "西装",
+              "id": "1035",
+              "alt": "西装",
+              "tags": "西装",
+              "extra": {
+                "tags": "西装",
+                "id": "1035",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/09/27/14749648103220.png",
+              "category_title": "毛呢外套",
+              "id": "1134",
+              "alt": "毛呢外套",
+              "tags": "毛呢外套",
+              "extra": {
+                "tags": "毛呢外套",
+                "id": "1134",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "裙装",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/03/27/14905837777706.png",
+              "category_title": "连衣裙",
+              "id": "840",
+              "alt": "连衣裙",
+              "tags": "连衣裙",
+              "extra": {
+                "tags": "连衣裙",
+                "is_recommend": "1",
+                "id": "840",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/03/27/14905836911960.png",
+              "category_title": "半身裙",
+              "id": "841",
+              "alt": "半身裙",
+              "tags": "半身裙",
+              "extra": {
+                "tags": "半身裙",
+                "id": "841",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/05/09/1462762988724.png",
+              "category_title": "印花裙",
+              "id": "968",
+              "alt": "印花裙",
+              "tags": "印花裙",
+              "extra": {
+                "tags": "印花裙",
+                "id": "968",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/29/14619118682393.png",
+              "category_title": "背带裙",
+              "id": "1036",
+              "alt": "背带裙",
+              "tags": "背带裙",
+              "extra": {
+                "tags": "背带裙",
+                "id": "1036",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/29/14619119052329.png",
+              "category_title": "长裙",
+              "id": "1037",
+              "alt": "长裙",
+              "tags": "长裙",
+              "extra": {
+                "tags": "长裙",
+                "id": "1037",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/29/14619119355473.png",
+              "category_title": "百褶裙",
+              "id": "1038",
+              "alt": "百褶裙",
+              "tags": "百褶裙",
+              "extra": {
+                "tags": "百褶裙",
+                "id": "1038",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/29/14619119811305.png",
+              "category_title": "牛仔裙",
+              "id": "1039",
+              "alt": "牛仔裙",
+              "tags": "牛仔裙",
+              "extra": {
+                "tags": "牛仔裙",
+                "id": "1039",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/29/14619120116292.png",
+              "category_title": "直筒裙",
+              "id": "1040",
+              "alt": "直筒裙",
+              "tags": "直筒裙",
+              "extra": {
+                "tags": "直筒裙",
+                "id": "1040",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/05/04/14623299607973.png",
+              "category_title": "蕾丝裙",
+              "id": "1041",
+              "alt": "蕾丝裙",
+              "tags": "蕾丝裙",
+              "extra": {
+                "tags": "蕾丝裙",
+                "id": "1041",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/05/04/14623299969762.png",
+              "category_title": "雪纺裙",
+              "id": "1042",
+              "alt": "雪纺裙",
+              "tags": "雪纺裙",
+              "extra": {
+                "tags": "雪纺裙",
+                "id": "1042",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "下装",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/03/27/14905838021419.png",
+              "category_title": "牛仔裤",
+              "id": "833",
+              "alt": "牛仔裤",
+              "tags": "牛仔裤",
+              "extra": {
+                "tags": "牛仔裤",
+                "id": "833",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/05/04/14623300274244.png",
+              "category_title": "休闲裤",
+              "id": "834",
+              "alt": "休闲裤",
+              "tags": "休闲裤",
+              "extra": {
+                "tags": "休闲裤",
+                "id": "834",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528506754134.png",
+              "category_title": "打底裤",
+              "id": "835",
+              "alt": "打底裤",
+              "tags": "打底裤",
+              "extra": {
+                "tags": "打底裤",
+                "id": "835",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/09/22/14745257377603.png",
+              "category_title": "哈伦裤",
+              "id": "1132",
+              "alt": "哈伦裤",
+              "tags": "哈伦裤",
+              "extra": {
+                "tags": "哈伦裤",
+                "id": "1132",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/09/22/14745257774416.png",
+              "category_title": "高腰裤",
+              "id": "1133",
+              "alt": "高腰裤",
+              "tags": "高腰裤",
+              "extra": {
+                "tags": "高腰裤",
+                "id": "1133",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/05/09/14627627074995.png",
+              "category_title": "阔腿裤",
+              "id": "963",
+              "alt": "阔腿裤",
+              "tags": "阔腿裤",
+              "extra": {
+                "tags": "阔腿裤",
+                "id": "963",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/05/09/14627627346668.png",
+              "category_title": "背带裤",
+              "id": "836",
+              "alt": "背带裤",
+              "tags": "背带裤",
+              "extra": {
+                "tags": "背带裤",
+                "id": "836",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/05/09/14627627656208.png",
+              "category_title": "短裤",
+              "id": "838",
+              "alt": "短裤",
+              "tags": "短裤",
+              "extra": {
+                "tags": "短裤",
+                "id": "838",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/05/09/14627628528931.png",
+              "category_title": "连体裤",
+              "id": "964",
+              "alt": "连体裤",
+              "tags": "连体裤",
+              "extra": {
+                "tags": "连体裤",
+                "id": "964",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/09/21/14744438769246.png",
+              "category_title": "西装裤",
+              "id": "981",
+              "alt": "西装裤",
+              "tags": "西装裤",
+              "extra": {
+                "tags": "西装裤",
+                "id": "981",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/09/21/14744438458928.png",
+              "category_title": "皮裤",
+              "id": "839",
+              "alt": "皮裤",
+              "tags": "皮裤",
+              "extra": {
+                "tags": "皮裤",
+                "id": "839",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/05/09/14627628031048.png",
+              "category_title": "小脚裤",
+              "id": "965",
+              "alt": "小脚裤",
+              "tags": "小脚裤",
+              "extra": {
+                "tags": "小脚裤",
+                "id": "965",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/29/14619120885202.png",
+              "category_title": "喇叭裤",
+              "id": "1043",
+              "alt": "喇叭裤",
+              "tags": "喇叭裤",
+              "extra": {
+                "tags": "喇叭裤",
+                "id": "1043",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "家居内衣",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649497642380.jpg",
+              "category_title": "袜子",
+              "id": "712",
+              "alt": "袜子",
+              "tags": "袜子",
+              "extra": {
+                "tags": "袜子",
+                "id": "712",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/05/27/14958588973282.png",
+              "category_title": "内衣",
+              "id": "1167",
+              "alt": "内衣",
+              "tags": "内衣",
+              "extra": {
+                "tags": "内衣",
+                "id": "1167",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/05/24/14956225794892.png",
+              "category_title": "内裤",
+              "id": "1168",
+              "alt": "内裤",
+              "tags": "内裤",
+              "extra": {
+                "tags": "内裤",
+                "id": "1168",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/05/27/14958588626748.png",
+              "category_title": "家居服",
+              "id": "1169",
+              "alt": "家居服",
+              "tags": "家居服",
+              "extra": {
+                "tags": "家居服",
+                "id": "1169",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "热门品牌",
+          "type": "category",
+          "list": [
+            {
+              "category_title": "QIGIRL",
+              "url": "/api/goods/search?brand_id=4124",
+              "extra": {
+                "brand_id": "4124"
+              },
+              "alt": "QIGIRL",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/11/16/14792847371347.png"
+            },
+            {
+              "category_title": "七格格",
+              "url": "/api/goods/search?brand_id=4325",
+              "extra": {
+                "brand_id": "4325"
+              },
+              "alt": "七格格",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/07/07/14678861133602.jpg"
+            },
+            {
+              "category_title": "CBYZ",
+              "url": "/api/goods/search?brand_id=4392",
+              "extra": {
+                "brand_id": "4392"
+              },
+              "alt": "CBYZ",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/03/27/14905850749439.jpg"
+            },
+            {
+              "category_title": "慕帛",
+              "url": "/api/goods/search?brand_id=4315",
+              "extra": {
+                "brand_id": "4315"
+              },
+              "alt": "慕帛",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/03/27/14905855475034.jpg"
+            },
+            {
+              "category_title": "未若妮卡",
+              "url": "/api/goods/search?brand_id=4649",
+              "extra": {
+                "brand_id": "4649"
+              },
+              "alt": "未若妮卡",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/03/27/1490585613184.jpg"
+            },
+            {
+              "category_title": "宿本 ",
+              "url": "/api/goods/search?brand_id=4133",
+              "extra": {
+                "brand_id": "4133"
+              },
+              "alt": "宿本 ",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/11/16/14792845064326.png"
+            },
+            {
+              "category_title": "格蕾曼",
+              "url": "/api/goods/search?brand_id=4475",
+              "extra": {
+                "brand_id": "4475"
+              },
+              "alt": "格蕾曼",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/03/27/14905853761776.jpg"
+            },
+            {
+              "category_title": "kanfei",
+              "url": "/api/goods/search?brand_id=4404",
+              "extra": {
+                "brand_id": "4404"
+              },
+              "alt": "kanfei",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/03/27/14905851339650.jpg"
+            },
+            {
+              "category_title": "夏天家",
+              "url": "/api/goods/search?brand_id=4429",
+              "extra": {
+                "brand_id": "4429"
+              },
+              "alt": "夏天家",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/03/27/14905856716724.jpg"
+            },
+            {
+              "category_title": "百优好依典",
+              "url": "/api/goods/search?brand_id=4734",
+              "extra": {
+                "brand_id": "4734"
+              },
+              "alt": "百优好依典",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/11/16/14792848408451.png"
+            },
+            {
+              "category_title": "zzlady",
+              "url": "/api/goods/search?brand_id=4022",
+              "extra": {
+                "brand_id": "4022"
+              },
+              "alt": "zzlady",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/11/16/14792844066596.png"
+            },
+            {
+              "category_title": "秋壳",
+              "url": "/api/goods/search?brand_id=4150",
+              "extra": {
+                "brand_id": "4150"
+              },
+              "alt": "秋壳",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/11/16/14792844361125.png"
+            },
+            {
+              "category_title": "LUNA LIMTED  ",
+              "url": "/api/goods/search?brand_id=4096",
+              "extra": {
+                "brand_id": "4096"
+              },
+              "alt": "LUNA LIMTED  ",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/11/16/1479285146858.png"
+            },
+            {
+              "category_title": "珂朵拉",
+              "url": "/api/goods/search?brand_id=4326",
+              "extra": {
+                "brand_id": "4326"
+              },
+              "alt": "珂朵拉",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/03/27/14905860033806.jpg"
+            },
+            {
+              "category_title": "WRZS",
+              "url": "/api/goods/search?brand_id=4049",
+              "extra": {
+                "brand_id": "4049"
+              },
+              "alt": "WRZS",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/03/27/14905852634598.jpg"
+            },
+            {
+              "category_title": "安妮陈",
+              "url": "/api/goods/search?brand_id=3660",
+              "extra": {
+                "brand_id": "3660"
+              },
+              "alt": "安妮陈",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/03/27/1490585315154.jpg"
+            },
+            {
+              "category_title": "MOUSE QUEEN",
+              "url": "/api/goods/search?brand_id=4640",
+              "extra": {
+                "brand_id": "4640"
+              },
+              "alt": "MOUSE QUEEN",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/03/27/14905851979733.jpg"
+            },
+            {
+              "category_title": "焦点空间",
+              "url": "/api/goods/search?brand_id=3906",
+              "extra": {
+                "brand_id": "3906"
+              },
+              "alt": "焦点空间",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/03/27/14905854214658.jpg"
+            },
+            {
+              "category_title": "抹茶生活",
+              "url": "/api/goods/search?brand_id=4414",
+              "extra": {
+                "brand_id": "4414"
+              },
+              "alt": "抹茶生活",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2017/03/27/14905855038995.jpg"
+            },
+            {
+              "category_title": "凡品丹尼",
+              "url": "/api/goods/search?brand_id=4181",
+              "extra": {
+                "brand_id": "4181"
+              },
+              "alt": "凡品丹尼",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/11/16/14792849705775.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "key": "app_menu_more",
+      "parent_id": "0",
+      "url": "/api/goods/search?tags=创意生活",
+      "image_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14302941727852.png",
+      "image_url_1": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14302941819563.png",
+      "ad_image_url": "",
+      "ad_url": "",
+      "group_name": "",
+      "title": "创意生活",
+      "keywords": "",
+      "description": "",
+      "file_id": "0",
+      "utype": "list",
+      "alt": "创意生活",
+      "sort": "6",
+      "status": "1",
+      "display_id": "1",
+      "extra": {
+        "tags": "创意生活",
+        "is_show_all": "1",
+        "id": "18",
+        "key": "app_menu_more"
+      },
+      "spec_ids": "27,35,42",
+      "tags": "创意生活",
+      "is_show_in_cart": "1",
+      "image_in_cart": "/mobile/2016/01/25/14537200658311.png",
+      "sort_in_cart": "4",
+      "highlight_color": "",
+      "is_channel_recommend": "0",
+      "block_list": [
+        {
+          "title": "创意礼物",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/07/06/14677884027803.png",
+              "category_title": "Top榜",
+              "id": "1091",
+              "alt": "Top榜",
+              "tags": "创意生活top",
+              "extra": {
+                "tags": "创意生活top",
+                "is_recommend": "1",
+                "id": "1091",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615676463259.png",
+              "category_title": "玩偶",
+              "id": "24",
+              "alt": "玩偶",
+              "tags": "玩偶",
+              "extra": {
+                "tags": "玩偶",
+                "is_recommend": "1",
+                "id": "24",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615697711089.png",
+              "category_title": "随身小物件",
+              "id": "22",
+              "alt": "随身小物件",
+              "tags": "随身小物件",
+              "extra": {
+                "tags": "随身小物件",
+                "is_recommend": "1",
+                "id": "22",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615704652169.png",
+              "category_title": "钥匙挂件",
+              "id": "23",
+              "alt": "钥匙挂件",
+              "tags": "钥匙挂件",
+              "extra": {
+                "tags": "钥匙挂件",
+                "is_recommend": "1",
+                "id": "23",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615706875485.png",
+              "category_title": "其他创意礼品",
+              "id": "972",
+              "alt": "其他创意礼品",
+              "tags": "其他创意礼品",
+              "extra": {
+                "tags": "其他创意礼品",
+                "is_recommend": "1",
+                "id": "972",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "品质生活",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/03/24/14588076974558.png",
+              "category_title": "情趣诱惑",
+              "id": "42",
+              "alt": "情趣诱惑",
+              "tags": "情趣诱惑",
+              "extra": {
+                "tags": "情趣诱惑",
+                "is_recommend": "1",
+                "id": "42",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615802209697",
+              "category_title": "伞/雨具",
+              "id": "974",
+              "alt": "伞/雨具",
+              "tags": "伞",
+              "extra": {
+                "tags": "伞",
+                "is_recommend": "1",
+                "id": "974",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615715457227.png",
+              "category_title": "衣物清洁",
+              "id": "32",
+              "alt": "衣物清洁",
+              "tags": "衣物清洁",
+              "extra": {
+                "tags": "衣物清洁",
+                "id": "32",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/05/18/14635426698072.jpg",
+              "category_title": "家居服",
+              "id": "1050",
+              "alt": "家居服",
+              "tags": "家居服",
+              "extra": {
+                "tags": "家居服",
+                "id": "1050",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615755891907.png",
+              "category_title": "居室清洁",
+              "id": "29",
+              "alt": "居室清洁",
+              "tags": "居室清洁",
+              "extra": {
+                "tags": "居室清洁",
+                "id": "29",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615834962289.png",
+              "category_title": "宠物用品",
+              "id": "745",
+              "alt": "宠物用品",
+              "tags": "宠物用品",
+              "extra": {
+                "tags": "宠物用品",
+                "id": "745",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615838649168.png",
+              "category_title": "户外用品",
+              "id": "31",
+              "alt": "户外用品",
+              "tags": "户外用品",
+              "extra": {
+                "tags": "户外用品",
+                "id": "31",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/03/24/14588061329377.png",
+              "category_title": "蜡烛/香薰",
+              "id": "26",
+              "alt": "蜡烛/香薰",
+              "tags": "香薰蜡烛",
+              "extra": {
+                "tags": "香薰蜡烛",
+                "id": "26",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615807628387.png",
+              "category_title": "卫浴清洁",
+              "id": "55",
+              "alt": "卫浴清洁",
+              "tags": "卫浴清洁",
+              "extra": {
+                "tags": "卫浴清洁",
+                "id": "55",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615809112171.png",
+              "category_title": "收纳用品",
+              "id": "20",
+              "alt": "收纳用品",
+              "tags": "收纳用品",
+              "extra": {
+                "tags": "收纳用品",
+                "is_recommend": "1",
+                "id": "20",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615815342009",
+              "category_title": "除臭/芳香",
+              "id": "58",
+              "alt": "除臭/芳香",
+              "tags": "除臭芳香",
+              "extra": {
+                "tags": "除臭芳香",
+                "id": "58",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615821194733",
+              "category_title": "驱蚊/防蚊",
+              "id": "28",
+              "alt": "驱蚊/防蚊",
+              "tags": "驱蚊防蚊",
+              "extra": {
+                "tags": "驱蚊防蚊",
+                "id": "28",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615836461562.png",
+              "category_title": "健身器材",
+              "id": "49",
+              "alt": "健身器材",
+              "tags": "健身器材",
+              "extra": {
+                "tags": "健身器材",
+                "id": "49",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/03/24/14588061622368.png",
+              "category_title": "卫浴用品",
+              "id": "52",
+              "alt": "卫浴用品",
+              "tags": "卫浴用品",
+              "extra": {
+                "tags": "卫浴用品",
+                "id": "52",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615823234919.png",
+              "category_title": "纸品湿巾",
+              "id": "975",
+              "alt": "纸品湿巾",
+              "tags": "纸品湿巾",
+              "extra": {
+                "tags": "纸品湿巾",
+                "is_recommend": "1",
+                "id": "975",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615826432908.png",
+              "category_title": "汽车用品",
+              "id": "978",
+              "alt": "汽车用品",
+              "tags": "汽车用品",
+              "extra": {
+                "tags": "汽车用品",
+                "id": "978",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "个人护理",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615708843570.png",
+              "category_title": "口腔护理",
+              "id": "749",
+              "alt": "口腔护理",
+              "tags": "口腔护理",
+              "extra": {
+                "tags": "口腔护理",
+                "is_recommend": "1",
+                "id": "749",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615735712462.png",
+              "category_title": "头发护理",
+              "id": "750",
+              "alt": "头发护理",
+              "tags": "头发护理",
+              "extra": {
+                "tags": "头发护理",
+                "id": "750",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615742612179.png",
+              "category_title": "身体护理",
+              "id": "751",
+              "alt": "身体护理",
+              "tags": "身体护理",
+              "extra": {
+                "tags": "身体护理",
+                "is_recommend": "1",
+                "id": "751",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615745911175.png",
+              "category_title": "私密护理",
+              "id": "62",
+              "alt": "私密护理",
+              "tags": "私密护理",
+              "extra": {
+                "tags": "私密护理",
+                "id": "62",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616392562517.png",
+              "category_title": "电动剃须刀",
+              "id": "1012",
+              "alt": "电动剃须刀",
+              "tags": "电动剃须刀",
+              "extra": {
+                "tags": "电动剃须刀",
+                "is_recommend": "1",
+                "id": "1012",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616392861094.png",
+              "category_title": "吹风机",
+              "id": "1013",
+              "alt": "吹风机",
+              "tags": "吹风机",
+              "extra": {
+                "tags": "吹风机",
+                "id": "1013",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616393211393.png",
+              "category_title": "美容器",
+              "id": "1014",
+              "alt": "美容器",
+              "tags": "美容器",
+              "extra": {
+                "tags": "美容器",
+                "is_recommend": "1",
+                "id": "1014",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616393776949.png",
+              "category_title": "按摩器",
+              "id": "1015",
+              "alt": "按摩器",
+              "tags": "按摩器",
+              "extra": {
+                "tags": "按摩器",
+                "id": "1015",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616394327537.png",
+              "category_title": "美发器",
+              "id": "1016",
+              "alt": "美发器",
+              "tags": "美发器",
+              "extra": {
+                "tags": "美发器",
+                "id": "1016",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616394908389.png",
+              "category_title": "电动剃毛器",
+              "id": "1017",
+              "alt": "电动剃毛器",
+              "tags": "电动剃毛器",
+              "extra": {
+                "tags": "电动剃毛器",
+                "id": "1017",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616395239036.png",
+              "category_title": "电动牙刷",
+              "id": "1018",
+              "alt": "电动牙刷",
+              "tags": "电动牙刷",
+              "extra": {
+                "tags": "电动牙刷",
+                "id": "1018",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616395813141.png",
+              "category_title": "个护其它",
+              "id": "1019",
+              "alt": "个护其它",
+              "tags": "个护其它",
+              "extra": {
+                "tags": "个护其它",
+                "id": "1019",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "3C",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615644881751.png",
+              "category_title": "手机",
+              "id": "755",
+              "alt": "手机",
+              "tags": "手机",
+              "extra": {
+                "tags": "手机",
+                "id": "755",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615645411260.png",
+              "category_title": "平板电脑",
+              "id": "756",
+              "alt": "平板电脑",
+              "tags": "平板电脑",
+              "extra": {
+                "tags": "平板电脑",
+                "id": "756",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615645978443.png",
+              "category_title": "笔记本电脑",
+              "id": "766",
+              "alt": "笔记本电脑",
+              "tags": "笔记本电脑",
+              "extra": {
+                "tags": "笔记本电脑",
+                "id": "766",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615646392342.png",
+              "category_title": "数码相机",
+              "id": "799",
+              "alt": "数码相机",
+              "tags": "数码相机",
+              "extra": {
+                "tags": "数码相机",
+                "id": "799",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615646812083.png",
+              "category_title": "智能玩具",
+              "id": "800",
+              "alt": "智能玩具",
+              "tags": "智能玩具",
+              "extra": {
+                "tags": "智能玩具",
+                "id": "800",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615647288405.png",
+              "category_title": "智能穿戴",
+              "id": "801",
+              "alt": "智能穿戴",
+              "tags": "智能穿戴",
+              "extra": {
+                "tags": "智能穿戴",
+                "id": "801",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615647694743.png",
+              "category_title": "智能监控",
+              "id": "802",
+              "alt": "智能监控",
+              "tags": "智能监控",
+              "extra": {
+                "tags": "智能监控",
+                "is_recommend": "1",
+                "id": "802",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615648144631.png",
+              "category_title": "行车纪录仪",
+              "id": "808",
+              "alt": "行车纪录仪",
+              "tags": "行车纪录仪",
+              "extra": {
+                "tags": "行车纪录仪",
+                "id": "808",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615648621886.png",
+              "category_title": "打印扫描",
+              "id": "784",
+              "alt": "打印扫描",
+              "tags": "打印扫描",
+              "extra": {
+                "tags": "打印扫描",
+                "id": "784",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/1461564910495.png",
+              "category_title": "摄像机",
+              "id": "796",
+              "alt": "摄像机",
+              "tags": "摄像机",
+              "extra": {
+                "tags": "摄像机",
+                "id": "796",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615649818542.png",
+              "category_title": "3C其它",
+              "id": "797",
+              "alt": "3C其它",
+              "tags": "3C其它",
+              "extra": {
+                "tags": "3C其它",
+                "id": "797",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "温馨家居",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616523997520.png",
+              "category_title": "毛巾浴巾",
+              "id": "35",
+              "alt": "毛巾浴巾",
+              "tags": "毛巾浴巾",
+              "extra": {
+                "tags": "毛巾浴巾",
+                "id": "35",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/1461652687326.png",
+              "category_title": "创意家居",
+              "id": "37",
+              "alt": "创意家居",
+              "tags": "创意家居",
+              "extra": {
+                "tags": "创意家居",
+                "id": "37",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616592858807.png",
+              "category_title": "其他家居用品",
+              "id": "51",
+              "alt": "其他家居用品",
+              "tags": "其他家居用品",
+              "extra": {
+                "tags": "其他家居用品",
+                "id": "51",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615847117422.png",
+              "category_title": "床品套件",
+              "id": "61",
+              "alt": "床品套件",
+              "tags": "床品套件",
+              "extra": {
+                "tags": "床品套件",
+                "id": "61",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615848187773.png",
+              "category_title": "抱枕靠垫",
+              "id": "56",
+              "alt": "抱枕靠垫",
+              "tags": "抱枕靠垫",
+              "extra": {
+                "tags": "抱枕靠垫",
+                "id": "56",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528456076216.png",
+              "category_title": "墙贴/装饰贴",
+              "id": "41",
+              "alt": "墙贴/装饰贴",
+              "tags": "墙贴装饰贴",
+              "extra": {
+                "tags": "墙贴装饰贴",
+                "id": "41",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615850027994",
+              "category_title": "被子/毯子",
+              "id": "39",
+              "alt": "被子/毯子",
+              "tags": "被子毯子",
+              "extra": {
+                "tags": "被子毯子",
+                "id": "39",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/1461657619218",
+              "category_title": "相框/照片墙",
+              "id": "54",
+              "alt": "相框/照片墙",
+              "tags": "相框/照片墙",
+              "extra": {
+                "tags": "相框/照片墙",
+                "id": "54",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616577723276.png",
+              "category_title": "钟表",
+              "id": "60",
+              "alt": "钟表",
+              "tags": "钟表",
+              "extra": {
+                "tags": "钟表",
+                "id": "60",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/14528454235853.png",
+              "category_title": "装饰摆件",
+              "id": "30",
+              "alt": "装饰摆件",
+              "tags": "装饰摆件",
+              "extra": {
+                "tags": "装饰摆件",
+                "id": "30",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "厨房伴侣",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616600534732.png",
+              "category_title": "茶具",
+              "id": "36",
+              "alt": "茶具",
+              "tags": "茶具",
+              "extra": {
+                "tags": "茶具",
+                "id": "36",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616602349967",
+              "category_title": "咖啡具/酒具",
+              "id": "21",
+              "alt": "咖啡具/酒具",
+              "tags": "咖啡具酒具",
+              "extra": {
+                "tags": "咖啡具酒具",
+                "id": "21",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616595048101.png",
+              "category_title": "厨房清洁",
+              "id": "25",
+              "alt": "厨房清洁",
+              "tags": "厨房清洁",
+              "extra": {
+                "tags": "厨房清洁",
+                "id": "25",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616597317505",
+              "category_title": "水杯/保温杯",
+              "id": "718",
+              "alt": "水杯/保温杯",
+              "tags": "水杯保温杯",
+              "extra": {
+                "tags": "水杯保温杯",
+                "id": "718",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616599312006",
+              "category_title": "水壶/净水壶",
+              "id": "719",
+              "alt": "水壶/净水壶",
+              "tags": "水壶净水壶",
+              "extra": {
+                "tags": "水壶净水壶",
+                "id": "719",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616603439524.png",
+              "category_title": "餐具",
+              "id": "977",
+              "alt": "餐具",
+              "tags": "餐具",
+              "extra": {
+                "tags": "餐具",
+                "is_recommend": "1",
+                "id": "977",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616606346148.png",
+              "category_title": "厨房配件",
+              "id": "722",
+              "alt": "厨房配件",
+              "tags": "厨房配件",
+              "extra": {
+                "tags": "厨房配件",
+                "id": "722",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "趣味文具",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616607266786.png",
+              "category_title": "记事本",
+              "id": "33",
+              "alt": "记事本",
+              "tags": "记事本",
+              "extra": {
+                "tags": "记事本",
+                "id": "33",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616608051869.png",
+              "category_title": "笔",
+              "id": "34",
+              "alt": "笔",
+              "tags": "铅笔",
+              "extra": {
+                "tags": "铅笔",
+                "id": "34",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616609218553.png",
+              "category_title": "文具收纳",
+              "id": "53",
+              "alt": "文具收纳",
+              "tags": "文具收纳",
+              "extra": {
+                "tags": "文具收纳",
+                "id": "53",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616610204100.png",
+              "category_title": "其他办公文具",
+              "id": "748",
+              "alt": "其他办公文具",
+              "tags": "其他办公文具",
+              "extra": {
+                "tags": "其他办公文具",
+                "id": "748",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "3C配件",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/1461565074374.png",
+              "category_title": "手机壳",
+              "id": "803",
+              "alt": "手机壳",
+              "tags": "手机壳",
+              "extra": {
+                "tags": "手机壳",
+                "is_recommend": "1",
+                "id": "803",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615651113294.png",
+              "category_title": "手机膜",
+              "id": "804",
+              "alt": "手机膜",
+              "tags": "手机膜",
+              "extra": {
+                "tags": "手机膜",
+                "id": "804",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615651543294.png",
+              "category_title": "手机支架",
+              "id": "805",
+              "alt": "手机支架",
+              "tags": "手机支架",
+              "extra": {
+                "tags": "手机支架",
+                "id": "805",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615652007709.png",
+              "category_title": "手机周边",
+              "id": "806",
+              "alt": "手机周边",
+              "tags": "手机周边",
+              "extra": {
+                "tags": "手机周边",
+                "id": "806",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615652388575.png",
+              "category_title": "耳机",
+              "id": "807",
+              "alt": "耳机",
+              "tags": "耳机",
+              "extra": {
+                "tags": "耳机",
+                "id": "807",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615652876489.png",
+              "category_title": "移动电源",
+              "id": "809",
+              "alt": "移动电源",
+              "tags": "移动电源",
+              "extra": {
+                "tags": "移动电源",
+                "is_recommend": "1",
+                "id": "809",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615653487635.png",
+              "category_title": "自拍器",
+              "id": "810",
+              "alt": "自拍器",
+              "tags": "自拍器",
+              "extra": {
+                "tags": "自拍器",
+                "is_recommend": "1",
+                "id": "810",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615654408953.png",
+              "category_title": "录音笔",
+              "id": "757",
+              "alt": "录音笔",
+              "tags": "录音笔",
+              "extra": {
+                "tags": "录音笔",
+                "id": "757",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615654819807.png",
+              "category_title": "U盘",
+              "id": "758",
+              "alt": "U盘",
+              "tags": "U盘",
+              "extra": {
+                "tags": "U盘",
+                "id": "758",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615655166658.png",
+              "category_title": "充电器",
+              "id": "759",
+              "alt": "充电器",
+              "tags": "充电嚣",
+              "extra": {
+                "tags": "充电嚣",
+                "is_recommend": "1",
+                "id": "759",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615655554150.png",
+              "category_title": "线材",
+              "id": "760",
+              "alt": "线材",
+              "tags": "线材",
+              "extra": {
+                "tags": "线材",
+                "id": "760",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615656119240.png",
+              "category_title": "电脑周边",
+              "id": "761",
+              "alt": "电脑周边",
+              "tags": "电脑周边",
+              "extra": {
+                "tags": "电脑周边",
+                "id": "761",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615656789362.png",
+              "category_title": "鼠标键盘",
+              "id": "762",
+              "alt": "鼠标键盘",
+              "tags": "鼠标键盘",
+              "extra": {
+                "tags": "鼠标键盘",
+                "id": "762",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615657193233.png",
+              "category_title": "音响",
+              "id": "763",
+              "alt": "音响",
+              "tags": "音响",
+              "extra": {
+                "tags": "音响",
+                "id": "763",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615657592027.png",
+              "category_title": "游戏手柄",
+              "id": "764",
+              "alt": "游戏手柄",
+              "tags": "游戏手柄",
+              "extra": {
+                "tags": "游戏手柄",
+                "id": "764",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615657979079.png",
+              "category_title": "配件其它",
+              "id": "765",
+              "alt": "配件其它",
+              "tags": "配件其它",
+              "extra": {
+                "tags": "配件其它",
+                "id": "765",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "厨房电器",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616370459058.png",
+              "category_title": "电饭煲",
+              "id": "988",
+              "alt": "电饭煲",
+              "tags": "电饭煲",
+              "extra": {
+                "tags": "电饭煲",
+                "is_recommend": "1",
+                "id": "988",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616372221396.png",
+              "category_title": "榨汁机",
+              "id": "989",
+              "alt": "榨汁机",
+              "tags": "榨汁机",
+              "extra": {
+                "tags": "榨汁机",
+                "is_recommend": "1",
+                "id": "989",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616375141960.png",
+              "category_title": "电炖锅",
+              "id": "990",
+              "alt": "电炖锅",
+              "tags": "电炖锅",
+              "extra": {
+                "tags": "电炖锅",
+                "id": "990",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616375535783.png",
+              "category_title": "电水壶",
+              "id": "991",
+              "alt": "电水壶",
+              "tags": "电水壶",
+              "extra": {
+                "tags": "电水壶",
+                "is_recommend": "1",
+                "id": "991",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616376836257.png",
+              "category_title": "酸奶机",
+              "id": "992",
+              "alt": "酸奶机",
+              "tags": "酸奶机",
+              "extra": {
+                "tags": "酸奶机",
+                "id": "992",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/1461637826865.png",
+              "category_title": "蒸蛋器",
+              "id": "993",
+              "alt": "蒸蛋器",
+              "tags": "蒸蛋器",
+              "extra": {
+                "tags": "蒸蛋器",
+                "id": "993",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/1461637878455.png",
+              "category_title": "面包机",
+              "id": "994",
+              "alt": "面包机",
+              "tags": "面包机",
+              "extra": {
+                "tags": "面包机",
+                "id": "994",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616380195137.png",
+              "category_title": "早餐机",
+              "id": "995",
+              "alt": "早餐机",
+              "tags": "早餐机",
+              "extra": {
+                "tags": "早餐机",
+                "id": "995",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616381617686.png",
+              "category_title": "电蒸锅",
+              "id": "996",
+              "alt": "电蒸锅",
+              "tags": "电蒸锅",
+              "extra": {
+                "tags": "电蒸锅",
+                "id": "996",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616382834790.png",
+              "category_title": "电子饭盒",
+              "id": "997",
+              "alt": "电子饭盒",
+              "tags": "电子饭盒",
+              "extra": {
+                "tags": "电子饭盒",
+                "id": "997",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616384222026.png",
+              "category_title": "咖啡机",
+              "id": "998",
+              "alt": "咖啡机",
+              "tags": "咖啡机",
+              "extra": {
+                "tags": "咖啡机",
+                "id": "998",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616384785299.png",
+              "category_title": "厨房其它",
+              "id": "999",
+              "alt": "厨房其它",
+              "tags": "厨房其它",
+              "extra": {
+                "tags": "厨房其它",
+                "id": "999",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "生活电器",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616385336275.png",
+              "category_title": "风扇",
+              "id": "1000",
+              "alt": "风扇",
+              "tags": "风扇",
+              "extra": {
+                "tags": "风扇",
+                "is_recommend": "1",
+                "id": "1000",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616386039745.png",
+              "category_title": "吸尘器",
+              "id": "1001",
+              "alt": "吸尘器",
+              "tags": "吸尘器",
+              "extra": {
+                "tags": "吸尘器",
+                "is_recommend": "1",
+                "id": "1001",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616386529416.png",
+              "category_title": "挂烫熨斗",
+              "id": "1002",
+              "alt": "挂烫熨斗",
+              "tags": "挂烫熨斗",
+              "extra": {
+                "tags": "挂烫熨斗",
+                "id": "1002",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616387168216.png",
+              "category_title": "电子称",
+              "id": "1003",
+              "alt": "电子称",
+              "tags": "电子称",
+              "extra": {
+                "tags": "电子称",
+                "id": "1003",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616388035114.png",
+              "category_title": "灭蚊灯",
+              "id": "1004",
+              "alt": "灭蚊灯",
+              "tags": "灭蚊灯",
+              "extra": {
+                "tags": "灭蚊灯",
+                "id": "1004",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616389283636.png",
+              "category_title": "空气净化",
+              "id": "1005",
+              "alt": "空气净化",
+              "tags": "空气净化",
+              "extra": {
+                "tags": "空气净化",
+                "id": "1005",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616389779030.png",
+              "category_title": "净水器",
+              "id": "1006",
+              "alt": "净水器",
+              "tags": "净水器",
+              "extra": {
+                "tags": "净水器",
+                "id": "1006",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616390505583.png",
+              "category_title": "照明用品",
+              "id": "1007",
+              "alt": "照明用品",
+              "tags": "照明用品",
+              "extra": {
+                "tags": "照明用品",
+                "id": "1007",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616390907316.png",
+              "category_title": "毛球修剪器",
+              "id": "1008",
+              "alt": "毛球修剪器",
+              "tags": "毛球修剪器",
+              "extra": {
+                "tags": "毛球修剪器",
+                "id": "1008",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616391322428.png",
+              "category_title": "加湿器",
+              "id": "1009",
+              "alt": "加湿器",
+              "tags": "加湿器",
+              "extra": {
+                "tags": "加湿器",
+                "id": "1009",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616391679188.png",
+              "category_title": "取暖器",
+              "id": "1010",
+              "alt": "取暖器",
+              "tags": "取暖器",
+              "extra": {
+                "tags": "取暖器",
+                "id": "1010",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/26/14616392025055.png",
+              "category_title": "生活其它",
+              "id": "1011",
+              "alt": "生活其它",
+              "tags": "生活其它",
+              "extra": {
+                "tags": "生活其它",
+                "id": "1011",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "热门品牌",
+          "type": "category",
+          "list": [
+            {
+              "category_title": "爱敬",
+              "url": "/api/goods/search?brand_id=1960",
+              "extra": {
+                "brand_id": "1960"
+              },
+              "alt": "爱敬",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615756367327.png"
+            },
+            {
+              "category_title": "万特",
+              "url": "/api/goods/search?brand_id=1622",
+              "extra": {
+                "brand_id": "1622"
+              },
+              "alt": "万特",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615756491195.png"
+            },
+            {
+              "category_title": "皓乐齿",
+              "url": "/api/goods/search?brand_id=2108",
+              "extra": {
+                "brand_id": "2108"
+              },
+              "alt": "皓乐齿",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615756623107.png"
+            },
+            {
+              "category_title": "小林制药",
+              "url": "/api/goods/search?brand_id=2427",
+              "extra": {
+                "brand_id": "2427"
+              },
+              "alt": "小林制药",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615756755953.png"
+            },
+            {
+              "category_title": "拓意卡",
+              "url": "/api/goods/search?brand_id=1101",
+              "extra": {
+                "brand_id": "1101"
+              },
+              "alt": "拓意卡",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615756899524.png"
+            },
+            {
+              "category_title": "蔻吉特",
+              "url": "/api/goods/search?brand_id=2067",
+              "extra": {
+                "brand_id": "2067"
+              },
+              "alt": "蔻吉特",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/1461575709963.png"
+            },
+            {
+              "category_title": "Sagami",
+              "url": "/api/goods/search?brand_id=1345",
+              "extra": {
+                "brand_id": "1345"
+              },
+              "alt": "Sagami",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615757237288.png"
+            },
+            {
+              "category_title": "狮王",
+              "url": "/api/goods/search?brand_id=2332",
+              "extra": {
+                "brand_id": "2332"
+              },
+              "alt": "狮王",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615757407040.png"
+            },
+            {
+              "category_title": "贝印",
+              "url": "/api/goods/search?brand_id=1943",
+              "extra": {
+                "brand_id": "1943"
+              },
+              "alt": "贝印",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615757577643.png"
+            },
+            {
+              "category_title": "碧然德",
+              "url": "/api/goods/search?brand_id=2175",
+              "extra": {
+                "brand_id": "2175"
+              },
+              "alt": "碧然德",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615757705088.png"
+            },
+            {
+              "category_title": "花王",
+              "url": "/api/goods/search?brand_id=420",
+              "extra": {
+                "brand_id": "420"
+              },
+              "alt": "花王",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615761902050.png"
+            },
+            {
+              "category_title": "Pylones",
+              "url": "/api/goods/search?brand_id=1128",
+              "extra": {
+                "brand_id": "1128"
+              },
+              "alt": "Pylones",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/1461576213416.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "key": "app_menu_more",
+      "parent_id": "0",
+      "url": "/api/goods/search?tags=时尚配饰",
+      "image_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14302942581458.png",
+      "image_url_1": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14302942748131.png",
+      "ad_image_url": "",
+      "ad_url": "",
+      "group_name": "",
+      "title": "时尚配饰",
+      "keywords": "",
+      "description": "",
+      "file_id": "0",
+      "utype": "list",
+      "alt": "时尚配饰",
+      "sort": "5",
+      "status": "1",
+      "display_id": "1",
+      "extra": {
+        "tags": "时尚配饰",
+        "is_show_all": "1",
+        "id": "1",
+        "key": "app_menu_more"
+      },
+      "spec_ids": "30,38,45",
+      "tags": "时尚配饰",
+      "is_show_in_cart": "0",
+      "image_in_cart": "",
+      "sort_in_cart": "1",
+      "highlight_color": "",
+      "is_channel_recommend": "0",
+      "block_list": [
+        {
+          "title": "时尚配饰",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/07/06/14677884302994.png",
+              "category_title": "Top榜",
+              "id": "1092",
+              "alt": "Top榜",
+              "tags": "时尚配饰top",
+              "extra": {
+                "tags": "时尚配饰top",
+                "is_recommend": "1",
+                "id": "1092",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/01/15/1452852268297.png",
+              "category_title": "全部",
+              "id": "66",
+              "alt": "全部",
+              "tags": "时尚配饰",
+              "extra": {
+                "tags": "时尚配饰",
+                "id": "66",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649474009382.jpg",
+              "category_title": "奢侈品",
+              "id": "84",
+              "alt": "奢侈品",
+              "tags": "奢侈品",
+              "extra": {
+                "tags": "奢侈品",
+                "is_recommend": "1",
+                "id": "84",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649474752330.jpg",
+              "category_title": "配饰",
+              "id": "71",
+              "alt": "配饰",
+              "tags": "配饰",
+              "extra": {
+                "tags": "配饰",
+                "is_recommend": "1",
+                "id": "71",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649475412145.jpg",
+              "category_title": "箱包",
+              "id": "72",
+              "alt": "箱包",
+              "tags": "箱包",
+              "extra": {
+                "tags": "箱包",
+                "id": "72",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "饰品",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649475918311.jpg",
+              "category_title": "项链",
+              "id": "73",
+              "alt": "项链",
+              "tags": "项链",
+              "extra": {
+                "tags": "项链",
+                "is_recommend": "1",
+                "id": "73",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649476573969.jpg",
+              "category_title": "手链",
+              "id": "2",
+              "alt": "手链",
+              "tags": "手链",
+              "extra": {
+                "tags": "手链",
+                "is_recommend": "1",
+                "id": "2",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649477048233.jpg",
+              "category_title": "耳饰",
+              "id": "69",
+              "alt": "耳饰",
+              "tags": "耳饰",
+              "extra": {
+                "tags": "耳饰",
+                "is_recommend": "1",
+                "id": "69",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649477613034.jpg",
+              "category_title": "戒指",
+              "id": "70",
+              "alt": "戒指",
+              "tags": "戒指",
+              "extra": {
+                "tags": "戒指",
+                "id": "70",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649478112559.jpg",
+              "category_title": "太阳镜",
+              "id": "14",
+              "alt": "太阳镜",
+              "tags": "太阳镜",
+              "extra": {
+                "tags": "太阳镜",
+                "id": "14",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649480148273.jpg",
+              "category_title": "发饰",
+              "id": "76",
+              "alt": "发饰",
+              "tags": "发饰",
+              "extra": {
+                "tags": "发饰",
+                "id": "76",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/07/28/14697023043432.png",
+              "category_title": "腕表",
+              "id": "16",
+              "alt": "腕表",
+              "tags": "腕表",
+              "extra": {
+                "tags": "腕表",
+                "is_recommend": "1",
+                "id": "16",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649480828850.jpg",
+              "category_title": "“鹿”小物",
+              "id": "83",
+              "alt": "“鹿”小物",
+              "tags": "鹿小物",
+              "extra": {
+                "tags": "鹿小物",
+                "is_recommend": "1",
+                "id": "83",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/07/28/14697025721096.png",
+              "category_title": "脚链",
+              "id": "15",
+              "alt": "脚链",
+              "tags": "脚链",
+              "extra": {
+                "tags": "脚链",
+                "id": "15",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649482304604.jpg",
+              "category_title": "毛衣链",
+              "id": "82",
+              "alt": "毛衣链",
+              "tags": "毛衣链",
+              "extra": {
+                "tags": "毛衣链",
+                "id": "82",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649482708449.jpg",
+              "category_title": "其它配饰",
+              "id": "74",
+              "alt": "其它配饰",
+              "tags": "其它配饰",
+              "extra": {
+                "tags": "其它配饰",
+                "id": "74",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/06/14651825516013.jpg",
+              "category_title": "镜架",
+              "id": "1083",
+              "alt": "镜架",
+              "tags": "镜架",
+              "extra": {
+                "tags": "镜架",
+                "id": "1083",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "包袋",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649488001638.jpg",
+              "category_title": "双肩包",
+              "id": "5",
+              "alt": "双肩包",
+              "tags": "双肩包",
+              "extra": {
+                "tags": "双肩包",
+                "id": "5",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649488467068.jpg",
+              "category_title": "单肩包",
+              "id": "68",
+              "alt": "单肩包",
+              "tags": "单肩包",
+              "extra": {
+                "tags": "单肩包",
+                "is_recommend": "1",
+                "id": "68",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649488829855.jpg",
+              "category_title": "手提包",
+              "id": "9",
+              "alt": "手提包",
+              "tags": "手提包",
+              "extra": {
+                "tags": "手提包",
+                "is_recommend": "1",
+                "id": "9",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/1464948918254.jpg",
+              "category_title": "钱包",
+              "id": "65",
+              "alt": "钱包",
+              "tags": "钱包",
+              "extra": {
+                "tags": "钱包",
+                "is_recommend": "1",
+                "id": "65",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649489668410.jpg",
+              "category_title": "拉杆箱",
+              "id": "10",
+              "alt": "拉杆箱",
+              "tags": "拉杆箱",
+              "extra": {
+                "tags": "拉杆箱",
+                "id": "10",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649490058697.jpg",
+              "category_title": "功能包",
+              "id": "77",
+              "alt": "功能包",
+              "tags": "功能包",
+              "extra": {
+                "tags": "功能包",
+                "id": "77",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649490464537.jpg",
+              "category_title": "零钱包",
+              "id": "8",
+              "alt": "零钱包",
+              "tags": "零钱包",
+              "extra": {
+                "tags": "零钱包",
+                "id": "8",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "服饰配件",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/07/28/14697024873267.png",
+              "category_title": "丝巾",
+              "id": "67",
+              "alt": "丝巾",
+              "tags": "丝巾",
+              "extra": {
+                "tags": "丝巾",
+                "is_recommend": "1",
+                "id": "67",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649495564170.jpg",
+              "category_title": "帽子",
+              "id": "6",
+              "alt": "帽子",
+              "tags": "帽子",
+              "extra": {
+                "tags": "帽子",
+                "id": "6",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649496159217.jpg",
+              "category_title": "手套",
+              "id": "781",
+              "alt": "手套",
+              "tags": "手套",
+              "extra": {
+                "tags": "手套",
+                "id": "781",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649496801386.jpg",
+              "category_title": "贴身衣物",
+              "id": "7",
+              "alt": "贴身衣物",
+              "tags": "贴身衣物",
+              "extra": {
+                "tags": "贴身衣物",
+                "is_recommend": "1",
+                "id": "7",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649497293873.jpg",
+              "category_title": "腰带",
+              "id": "713",
+              "alt": "腰带",
+              "tags": "腰带",
+              "extra": {
+                "tags": "腰带",
+                "id": "713",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649498815502.jpg",
+              "category_title": "其它服配",
+              "id": "714",
+              "alt": "其它服配",
+              "tags": "其它服配",
+              "extra": {
+                "tags": "其它服配",
+                "id": "714",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/14649499845658.jpg",
+              "category_title": "围巾",
+              "id": "711",
+              "alt": "围巾",
+              "tags": "围巾",
+              "extra": {
+                "tags": "围巾",
+                "id": "711",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "鞋履",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/03/1464950039975.jpg",
+              "category_title": "运动鞋",
+              "id": "715",
+              "alt": "运动鞋",
+              "tags": "运动鞋",
+              "extra": {
+                "tags": "运动鞋",
+                "id": "715",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/07/28/1469702512632.png",
+              "category_title": "拖鞋",
+              "id": "710",
+              "alt": "拖鞋",
+              "tags": "拖鞋",
+              "extra": {
+                "tags": "拖鞋",
+                "is_recommend": "1",
+                "id": "710",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/07/28/14697025368213.png",
+              "category_title": "鞋",
+              "id": "716",
+              "alt": "鞋",
+              "tags": "鞋",
+              "extra": {
+                "tags": "鞋",
+                "id": "716",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        },
+        {
+          "title": "热门品牌",
+          "type": "category",
+          "list": [
+            {
+              "category_title": "AFFINER",
+              "url": "/api/goods/search?brand_id=2624",
+              "extra": {
+                "brand_id": "2624"
+              },
+              "alt": "AFFINER",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/15/1465959840786.jpg"
+            },
+            {
+              "category_title": "KAiLA",
+              "url": "/api/goods/search?brand_id=2092",
+              "extra": {
+                "brand_id": "2092"
+              },
+              "alt": "KAiLA",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/15/14659589463241.jpg"
+            },
+            {
+              "category_title": "Ymall",
+              "url": "/api/goods/search?brand_id=1012",
+              "extra": {
+                "brand_id": "1012"
+              },
+              "alt": "Ymall",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/15/14659588714493.jpg"
+            },
+            {
+              "category_title": "lilin",
+              "url": "/api/goods/search?brand_id=3539",
+              "extra": {
+                "brand_id": "3539"
+              },
+              "alt": "lilin",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/15/14659588294857.jpg"
+            },
+            {
+              "category_title": "Casio",
+              "url": "/api/goods/search?brand_id=2068",
+              "extra": {
+                "brand_id": "2068"
+              },
+              "alt": "Casio",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/15/14659587957414.jpg"
+            },
+            {
+              "category_title": "Qplus",
+              "url": "/api/goods/search?brand_id=2672",
+              "extra": {
+                "brand_id": "2672"
+              },
+              "alt": "Qplus",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/15/14659584001038.jpg"
+            },
+            {
+              "category_title": "欧光",
+              "url": "/api/goods/search?brand_id=3902",
+              "extra": {
+                "brand_id": "3902"
+              },
+              "alt": "欧光",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/15/14659582573479.jpg"
+            },
+            {
+              "category_title": "ESLEYIR",
+              "url": "/api/goods/search?brand_id=3846",
+              "extra": {
+                "brand_id": "3846"
+              },
+              "alt": "ESLEYIR",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/15/14659582078946.jpg"
+            },
+            {
+              "category_title": "IKEWA",
+              "url": "/api/goods/search?brand_id=1177",
+              "extra": {
+                "brand_id": "1177"
+              },
+              "alt": "IKEWA",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/06/15/14659581787959.jpg"
+            },
+            {
+              "category_title": "Zipit",
+              "url": "/api/goods/search?brand_id=1107",
+              "extra": {
+                "brand_id": "1107"
+              },
+              "alt": "Zipit",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615765341588.png"
+            },
+            {
+              "category_title": "Idealitic",
+              "url": "/api/goods/search?brand_id=1050",
+              "extra": {
+                "brand_id": "1050"
+              },
+              "alt": "Idealitic",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/14615765658777.png"
+            },
+            {
+              "category_title": "Sprayground",
+              "url": "/api/goods/search?brand_id=1173",
+              "extra": {
+                "brand_id": "1173"
+              },
+              "alt": "Sprayground",
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/04/25/1461576581660.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "100",
+      "key": "app_menu_more",
+      "parent_id": "0",
+      "url": "/api/goods/search?tags=品牌",
+      "image_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14302943148372.png",
+      "image_url_1": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14302943233110.png",
+      "ad_image_url": "",
+      "ad_url": "",
+      "group_name": "",
+      "title": "品牌精选",
+      "keywords": "",
+      "description": "",
+      "file_id": "0",
+      "utype": "list",
+      "alt": "品牌精选",
+      "sort": "2",
+      "status": "1",
+      "display_id": "1",
+      "extra": {
+        "tags": "品牌",
+        "id": "100",
+        "key": "app_menu_more"
+      },
+      "spec_ids": "32",
+      "tags": "品牌",
+      "is_show_in_cart": "0",
+      "image_in_cart": "",
+      "sort_in_cart": "1",
+      "highlight_color": "",
+      "is_channel_recommend": "0",
+      "block_list": [
+        {
+          "title": "其它",
+          "type": "category",
+          "list": [
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303017221745.png",
+              "category_title": "资生堂",
+              "id": "109",
+              "alt": "资生堂",
+              "tags": "",
+              "extra": {
+                "brand_id": "306",
+                "is_recommend": "1",
+                "id": "109",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/1430304014531.png",
+              "category_title": "Clinie",
+              "id": "128",
+              "alt": "Clinie",
+              "tags": "",
+              "extra": {
+                "brand_id": "492",
+                "id": "128",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303020474497.png",
+              "category_title": "Bioderma",
+              "id": "158",
+              "alt": "Bioderma",
+              "tags": "",
+              "extra": {
+                "brand_id": "34",
+                "is_recommend": "1",
+                "id": "158",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303021773534.png",
+              "category_title": "兰芝",
+              "id": "104",
+              "alt": "兰芝",
+              "tags": "",
+              "extra": {
+                "brand_id": "1452",
+                "is_recommend": "1",
+                "id": "104",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303017735190.png",
+              "category_title": "美都汇",
+              "id": "105",
+              "alt": "美都汇",
+              "tags": "",
+              "extra": {
+                "brand_id": "3758",
+                "id": "105",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/08/02/14701257925963.jpg",
+              "category_title": "七格格",
+              "id": "1102",
+              "alt": "七格格",
+              "tags": "",
+              "extra": {
+                "brand_id": "4325",
+                "id": "1102",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303022043520.png",
+              "category_title": "百依恋歌",
+              "id": "129",
+              "alt": "百依恋歌",
+              "tags": "",
+              "extra": {
+                "brand_id": "3759",
+                "id": "129",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303045293448.png",
+              "category_title": "昆蒂娜",
+              "id": "130",
+              "alt": "昆蒂娜",
+              "tags": "",
+              "extra": {
+                "brand_id": "3954",
+                "id": "130",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303039283305.png",
+              "category_title": "全南",
+              "id": "131",
+              "alt": "全南",
+              "tags": "",
+              "extra": {
+                "brand_id": "522",
+                "id": "131",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2016/08/02/14701252851874.jpg",
+              "category_title": "HAVVA",
+              "id": "1101",
+              "alt": "HAVVA",
+              "tags": "",
+              "extra": {
+                "brand_id": "4139",
+                "id": "1101",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303044707199.png",
+              "category_title": "IKEWA",
+              "id": "124",
+              "alt": "IKEWA",
+              "tags": "",
+              "extra": {
+                "brand_id": "1177",
+                "id": "124",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303018548482.png",
+              "category_title": "锦仕",
+              "id": "132",
+              "alt": "锦仕",
+              "tags": "",
+              "extra": {
+                "brand_id": "3903",
+                "id": "132",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303022615282.png",
+              "category_title": "宝氏",
+              "id": "160",
+              "alt": "宝氏",
+              "tags": "",
+              "extra": {
+                "brand_id": "3101",
+                "id": "160",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/1430302004389.png",
+              "category_title": "IDEALITIC",
+              "id": "125",
+              "alt": "IDEALITIC",
+              "tags": "",
+              "extra": {
+                "brand_id": "1050",
+                "id": "125",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303018795071.png",
+              "category_title": "INVOTIS",
+              "id": "156",
+              "alt": "INVOTIS",
+              "tags": "",
+              "extra": {
+                "brand_id": "1185",
+                "id": "156",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/01/26/14222407217103.png",
+              "category_title": "Incidence",
+              "id": "157",
+              "alt": "Incidence",
+              "tags": "",
+              "extra": {
+                "brand_id": "144",
+                "id": "157",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303043394932.png",
+              "category_title": "IMIXID",
+              "id": "161",
+              "alt": "IMIXID",
+              "tags": "",
+              "extra": {
+                "brand_id": "1385",
+                "id": "161",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303018373932.png",
+              "category_title": " JBL",
+              "id": "107",
+              "alt": " JBL",
+              "tags": "",
+              "extra": {
+                "brand_id": "2469",
+                "id": "107",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303042941203.png",
+              "category_title": "Jolly Bags",
+              "id": "118",
+              "alt": "Jolly Bags",
+              "tags": "",
+              "extra": {
+                "brand_id": "1147",
+                "id": "118",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303020664474.png",
+              "category_title": "KAiLA",
+              "id": "103",
+              "alt": "KAiLA",
+              "tags": "",
+              "extra": {
+                "brand_id": "2092",
+                "id": "103",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303044988637.png",
+              "category_title": "koziol",
+              "id": "136",
+              "alt": "koziol",
+              "tags": "",
+              "extra": {
+                "brand_id": "1162",
+                "id": "136",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/1430304263331.png",
+              "category_title": "Longchamp",
+              "id": "115",
+              "alt": "Longchamp",
+              "tags": "",
+              "extra": {
+                "brand_id": "1068",
+                "id": "115",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303040992382.png",
+              "category_title": "Lulu Guinness",
+              "id": "119",
+              "alt": "Lulu Guinness",
+              "tags": "",
+              "extra": {
+                "brand_id": "1022",
+                "id": "119",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303040596417.png",
+              "category_title": "Lollipops",
+              "id": "120",
+              "alt": "Lollipops",
+              "tags": "",
+              "extra": {
+                "brand_id": "1067",
+                "id": "120",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303042347886.png",
+              "category_title": "LA MER COLLECTIONS",
+              "id": "137",
+              "alt": "LA MER COLLECTIONS",
+              "tags": "",
+              "extra": {
+                "brand_id": "1202",
+                "id": "137",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303017524121.png",
+              "category_title": "laissez lucie faire",
+              "id": "138",
+              "alt": "laissez lucie faire",
+              "tags": "",
+              "extra": {
+                "brand_id": "1203",
+                "id": "138",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303042066527.png",
+              "category_title": "Lavishy",
+              "id": "139",
+              "alt": "Lavishy",
+              "tags": "",
+              "extra": {
+                "brand_id": "1187",
+                "id": "139",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303041813416.png",
+              "category_title": "LEXON",
+              "id": "140",
+              "alt": "LEXON",
+              "tags": "",
+              "extra": {
+                "brand_id": "1183",
+                "id": "140",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303041593550.png",
+              "category_title": "Lingo",
+              "id": "141",
+              "alt": "Lingo",
+              "tags": "",
+              "extra": {
+                "brand_id": "1150",
+                "id": "141",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303041236060.png",
+              "category_title": "Luckies",
+              "id": "142",
+              "alt": "Luckies",
+              "tags": "",
+              "extra": {
+                "brand_id": "1069",
+                "id": "142",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303018156383.png",
+              "category_title": "La Chaise Longue",
+              "id": "155",
+              "alt": "La Chaise Longue",
+              "tags": "",
+              "extra": {
+                "brand_id": "1190",
+                "id": "155",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303039733955.png",
+              "category_title": "Mlavi",
+              "id": "143",
+              "alt": "Mlavi",
+              "tags": "",
+              "extra": {
+                "brand_id": "1188",
+                "id": "143",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303030318066.png",
+              "category_title": "Neolid Twizz",
+              "id": "144",
+              "alt": "Neolid Twizz",
+              "tags": "",
+              "extra": {
+                "brand_id": "1140",
+                "id": "144",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303029798607.png",
+              "category_title": "No.8 Brands",
+              "id": "145",
+              "alt": "No.8 Brands",
+              "tags": "",
+              "extra": {
+                "brand_id": "1164",
+                "id": "145",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303029193000.png",
+              "category_title": "nolee",
+              "id": "146",
+              "alt": "nolee",
+              "tags": "",
+              "extra": {
+                "brand_id": "1161",
+                "id": "146",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/1430302854364.png",
+              "category_title": "Numlock",
+              "id": "147",
+              "alt": "Numlock",
+              "tags": "",
+              "extra": {
+                "brand_id": "1160",
+                "id": "147",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303028208012.png",
+              "category_title": "Oill",
+              "id": "126",
+              "alt": "Oill",
+              "tags": "",
+              "extra": {
+                "brand_id": "1171",
+                "id": "126",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2014/10/14/14132715025933.png",
+              "category_title": "PYLONES",
+              "id": "101",
+              "alt": "PYLONES",
+              "tags": "",
+              "extra": {
+                "brand_id": "1128",
+                "id": "101",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303027962953.png",
+              "category_title": "PHILIPPI",
+              "id": "106",
+              "alt": "PHILIPPI",
+              "tags": "",
+              "extra": {
+                "brand_id": "1019",
+                "id": "106",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303027649036.png",
+              "category_title": "PO",
+              "id": "110",
+              "alt": "PO",
+              "tags": "",
+              "extra": {
+                "brand_id": "1083",
+                "id": "110",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303027334704.png",
+              "category_title": "Papero",
+              "id": "112",
+              "alt": "Papero",
+              "tags": "",
+              "extra": {
+                "brand_id": "1082",
+                "id": "112",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303026722393.png",
+              "category_title": "Puckator",
+              "id": "148",
+              "alt": "Puckator",
+              "tags": "",
+              "extra": {
+                "brand_id": "1149",
+                "id": "148",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303026231606.png",
+              "category_title": "Royal Tartan",
+              "id": "117",
+              "alt": "Royal Tartan",
+              "tags": "",
+              "extra": {
+                "brand_id": "1364",
+                "id": "117",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303027095438.png",
+              "category_title": "REMEMBER",
+              "id": "154",
+              "alt": "REMEMBER",
+              "tags": "",
+              "extra": {
+                "brand_id": "1086",
+                "id": "154",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2014/10/14/1413273870139.png",
+              "category_title": "Seletti",
+              "id": "114",
+              "alt": "Seletti",
+              "tags": "",
+              "extra": {
+                "brand_id": "1090",
+                "id": "114",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303025759276.png",
+              "category_title": "Sprayground",
+              "id": "127",
+              "alt": "Sprayground",
+              "tags": "",
+              "extra": {
+                "brand_id": "1173",
+                "id": "127",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303025525818.png",
+              "category_title": "so charm",
+              "id": "149",
+              "alt": "so charm",
+              "tags": "",
+              "extra": {
+                "brand_id": "1186",
+                "id": "149",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303025252299.png",
+              "category_title": "Streamline",
+              "id": "150",
+              "alt": "Streamline",
+              "tags": "",
+              "extra": {
+                "brand_id": "1166",
+                "id": "150",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303025053586.png",
+              "category_title": "SUCK UK",
+              "id": "151",
+              "alt": "SUCK UK",
+              "tags": "",
+              "extra": {
+                "brand_id": "1204",
+                "id": "151",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303024786955.png",
+              "category_title": "Troika",
+              "id": "108",
+              "alt": "Troika",
+              "tags": "",
+              "extra": {
+                "brand_id": "1101",
+                "id": "108",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303024549089.png",
+              "category_title": "Triple-c",
+              "id": "152",
+              "alt": "Triple-c",
+              "tags": "",
+              "extra": {
+                "brand_id": "1100",
+                "id": "152",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303024284199.png",
+              "category_title": "umbra",
+              "id": "102",
+              "alt": "umbra",
+              "tags": "",
+              "extra": {
+                "brand_id": "1102",
+                "id": "102",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303023827890.png",
+              "category_title": "vigar",
+              "id": "153",
+              "alt": "vigar",
+              "tags": "",
+              "extra": {
+                "brand_id": "1153",
+                "id": "153",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303023407701.png",
+              "category_title": "Xoopar",
+              "id": "122",
+              "alt": "Xoopar",
+              "tags": "",
+              "extra": {
+                "brand_id": "2124",
+                "id": "122",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303023593816.png",
+              "category_title": "XDDESIGN",
+              "id": "123",
+              "alt": "XDDESIGN",
+              "tags": "",
+              "extra": {
+                "brand_id": "1133",
+                "id": "123",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303023221887.png",
+              "category_title": "YAMA",
+              "id": "116",
+              "alt": "YAMA",
+              "tags": "",
+              "extra": {
+                "brand_id": "1199",
+                "id": "116",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303043632452.png",
+              "category_title": "Hikalimedia",
+              "id": "111",
+              "alt": "Hikalimedia",
+              "tags": "",
+              "extra": {
+                "brand_id": "1259",
+                "id": "111",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303023042360.png",
+              "category_title": "ZUNY",
+              "id": "113",
+              "alt": "ZUNY",
+              "tags": "",
+              "extra": {
+                "brand_id": "1130",
+                "id": "113",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303043895282.png",
+              "category_title": "HOBO",
+              "id": "121",
+              "alt": "HOBO",
+              "tags": "",
+              "extra": {
+                "brand_id": "1283",
+                "id": "121",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files",
+              "category_title": "Lancome",
+              "id": "1146",
+              "alt": "Lancome",
+              "tags": "",
+              "extra": {
+                "brand_id": "1434",
+                "is_recommend": "1",
+                "id": "1146",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files",
+              "category_title": "Innisfree",
+              "id": "1147",
+              "alt": "Innisfree",
+              "tags": "",
+              "extra": {
+                "brand_id": "1450",
+                "is_recommend": "1",
+                "id": "1147",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files",
+              "category_title": "爱丽小屋",
+              "id": "1148",
+              "alt": "爱丽小屋",
+              "tags": "",
+              "extra": {
+                "brand_id": "1372",
+                "is_recommend": "1",
+                "id": "1148",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files",
+              "category_title": "boots",
+              "id": "1149",
+              "alt": "boots",
+              "tags": "",
+              "extra": {
+                "brand_id": "1487",
+                "is_recommend": "1",
+                "id": "1149",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files",
+              "category_title": "科颜氏",
+              "id": "1150",
+              "alt": "科颜氏",
+              "tags": "",
+              "extra": {
+                "brand_id": "424",
+                "is_recommend": "1",
+                "id": "1150",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files",
+              "category_title": "YSL",
+              "id": "1151",
+              "alt": "YSL",
+              "tags": "",
+              "extra": {
+                "brand_id": "1121",
+                "is_recommend": "1",
+                "id": "1151",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files",
+              "category_title": "Kose",
+              "id": "1152",
+              "alt": "Kose",
+              "tags": "",
+              "extra": {
+                "brand_id": "1596",
+                "is_recommend": "1",
+                "id": "1152",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files",
+              "category_title": "得鲜",
+              "id": "1153",
+              "alt": "得鲜",
+              "tags": "",
+              "extra": {
+                "brand_id": "1502",
+                "is_recommend": "1",
+                "id": "1153",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files",
+              "category_title": "美迪惠尔",
+              "id": "1154",
+              "alt": "美迪惠尔",
+              "tags": "",
+              "extra": {
+                "brand_id": "213",
+                "is_recommend": "1",
+                "id": "1154",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303020861795.png",
+              "category_title": "Fox Trot",
+              "id": "133",
+              "alt": "Fox Trot",
+              "tags": "",
+              "extra": {
+                "brand_id": "1184",
+                "id": "133",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303044429054.png",
+              "category_title": "Glam Ever",
+              "id": "134",
+              "alt": "Glam Ever",
+              "tags": "",
+              "extra": {
+                "brand_id": "1198",
+                "id": "134",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303044124413.png",
+              "category_title": "Happy Shop",
+              "id": "135",
+              "alt": "Happy Shop",
+              "tags": "",
+              "extra": {
+                "brand_id": "1172",
+                "id": "135",
+                "key": "app_menu_more"
+              }
+            },
+            {
+              "category_img_url": "http://img.cdn.daling.com/data/files/mobile/2015/04/29/14303019469804.png",
+              "category_title": "佐路夫",
+              "id": "159",
+              "alt": "佐路夫",
+              "tags": "",
+              "extra": {
+                "brand_id": "3863",
+                "id": "159",
+                "key": "app_menu_more"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "msg": ""
+}
