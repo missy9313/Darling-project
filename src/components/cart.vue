@@ -9,7 +9,7 @@
        <img src="../assets/sleepCar.png">
        <p>购物车里没有东西哦，快去挑选吧</p>
        <p class="goHome">
-         <a href="http://localhost:8080/#/">逛逛首页</a>
+         <a href="http://localhost:8080/#/home">逛逛首页</a>
        </p>
      </div>
     <!--结算条-->

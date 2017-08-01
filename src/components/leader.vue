@@ -10,14 +10,17 @@
     <div v-else class="all">
       <div class="allList">
         <div v-for="obj in list">
-          <router-link :to="obj.to">{{obj.title}}</router-link>
+          <router-link :to="obj.to" activeClass="aCla" class="atop">{{obj.title}}</router-link>
         </div>
       </div>
 
     </div>
     <div class="see" @click="show">
     </div>
-    <router-view></router-view>
+
+      <router-view></router-view>
+
+
   </div>
 </template>
 
@@ -36,61 +39,61 @@
 
             },
             {
-              "to":"/home/invincible",
+              "to":"/home/ticket",
               "channel_id":"27",
               "title":"用券专区",
               "aCla":'topCla'
             },
             {
-              "to":"/home/invincible",
+              "to":"/home/beauty",
               "channel_id":"6",
               "title":"极致美护",
               "aCla":'topCla'
             },
             {
-              "to":"/home/invincible",
+              "to":"/home/bonded",
               "channel_id":"9",
               "title":"极速保税区",
               "aCla":'topCla'
             },
             {
-              "to":"/home/invincible",
+              "to":"/home/overseas",
               "channel_id":"15",
               "title":"海外直邮",
               "aCla":'topCla'
             },
             {
-              "to":"/home/invincible",
+              "to":"/home/fashion",
               "channel_id":"12",
               "title":"时尚配饰",
               "aCla":'topCla'
             },
             {
-              "to":"/home/invincible",
+              "to":"/home/life",
               "channel_id":"10",
               "title":"创意生活",
               "aCla":'topCla'
             },
             {
-              "to":"/home/invincible",
+              "to":"/home/snacks",
               "channel_id":"1",
               "title":"全球零食",
               "aCla":'topCla'
             },
             {
-              "to":"/home/invincible",
+              "to":"/home/cloth",
               "channel_id":"8",
               "title":"尖货女装",
               "aCla":'topCla'
             },
             {
-              "to":"/home/invincible",
+              "to":"/home/spacial",
               "channel_id":"3",
               "title":"本周特卖",
               "aCla":'topCla'
             },
             {
-              "to":"/home/invincible",
+              "to":"/home/weeknews",
               "channel_id":"4",
               "title":"本周新品",
               "aCla":'topCla'
@@ -112,6 +115,7 @@
 </script>
 
 <style scoped>
+
 .leader{
   height:3.5rem;
   background-color: white;

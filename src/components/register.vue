@@ -1,10 +1,13 @@
 <template>
   <div>
     <input type="text" placeholder="请输入手机号">
-    <input type="text" placeholder="请输入图形验证码">
+    <div class="getMa">
+      <input type="text" placeholder="请输入验证码">
+      <button @click="getMa1" class="Ma1">获取验证码</button>
+    </div>
     <div class="getMa">
       <input type="text" placeholder="请输入短信验证码">
-      <button @click="getMa">获取短信验证码</button>
+      <button @click="getMa2" class="Ma2">获取短信验证码</button>
     </div>
     <button class="login">登录</button>
     <img src="../assets/logo.e8155d.png" alt="">
@@ -15,10 +18,21 @@
 <script>
   export default{
     name:'mine',
+//    data(){
+//        return{
+//          getMa1,
+//          getMa2
+//        }
+//    },
     methods:{
-        getMa(){
-            console.log(1)
-        }
+        getMa1(){
+            let mBtn1=document.querySelector('.Ma1');
+            mBtn1.style.background="#c0c0c0";
+        },
+      getMa2(){
+        let mBtn2=document.querySelector('.Ma2');
+        mBtn2.style.background="#c0c0c0";
+      }
     }
   }
 </script>
@@ -43,7 +57,20 @@
   .getMa{
     display: flex;
   }
-  .getMa button{
+  .Ma1{
+    width:30%;
+    height:4rem;
+    border:none;
+    position: absolute;
+    left:66%;
+    top:6rem;
+    color: white;
+    line-height: 4rem;
+    border-radius: 0 0.5rem 0.5rem 0;
+    background-color: #B349BD;
+    text-align: center;
+  }
+  .Ma2{
     width:30%;
     height:4rem;
     border:none;
@@ -54,6 +81,7 @@
     line-height: 4rem;
     border-radius: 0 0.5rem 0.5rem 0;
     background-color: #B349BD;
+    text-align: center;
   }
   .login{
     display: inline-block;

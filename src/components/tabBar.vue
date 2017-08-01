@@ -62,10 +62,10 @@ export default {
   height:4.9rem;
   background-color: white;
   text-align: center;
-
   display: flex;
   justify-content: space-between;
-  border-top:1px solid #000
+  border-top:1px solid #000;
+  z-index:39;
 }
 .tabBar li{
   width:20%;

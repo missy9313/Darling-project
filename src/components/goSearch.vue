@@ -21,7 +21,7 @@
     position: fixed;
     top:0;
     background-color: #efefef;
-    z-index: 9;
+    z-index: 39;
   }
   .search{
     width:95%;
