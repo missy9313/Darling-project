@@ -1,15 +1,22 @@
 <template>
   <div class="searchWrap">
     <!--搜索栏-->
-    <div class="search">
+    <div class="search" @click="goSearch">
       <img src="../assets/timer.png" alt="">
       <span>搜索商品</span>
     </div>
   </div>
 </template>
 <script>
+
   export default{
-    name:"goSearch"
+    name:"goSearch",
+
+    methods:{
+      goSearch(){
+         this.$router.push("/search")
+      }
+    }
 
   }
 </script>

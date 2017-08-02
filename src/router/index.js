@@ -9,6 +9,9 @@ import Discount from '@/components/discount'
 import Cart from '@/components/cart'
 import Mine from '@/components/mine'
 //
+import Login from '@/components/login'
+import Exit  from '@/components/mine/exit'
+
 import Today from '@/components/today'
 import Notice from '@/components/notice'
 
@@ -24,6 +27,7 @@ import cloth from '@/components/leader/cloth'
 import special from '@/components/leader/special'
 import weeknews from '@/components/leader/weeknews'
 
+import search from '@/components/search/search'
 Vue.use(Router)
 export default new Router({
   routes: [
@@ -129,9 +133,24 @@ export default new Router({
           path:'mine',
           component:Mine,
           name:'mine'
+        },
+        {
+          path:'login',
+          component:Login,
+          name:'login'
+        },
+        {
+          path:'exit',
+          component:Exit,
+          name:'exit'
         }
 
       ]
+    },
+    {
+      path:'/search',
+      name:'search',
+      component:search
     }
 
 

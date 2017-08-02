@@ -24,6 +24,7 @@
 
 <script>
   import axios from 'axios';
+  import {urls} from '../router/urlList'
   export default{
     name:'hotInfo',
     data(){
@@ -33,7 +34,7 @@
     },
     created(){
       var self=this;
-      axios.get('../../static/home.json').then(function(res){
+      axios.get(urls.httpBtUrlOne+urls.httpBtUrlTwo).then(function(res){
         self.infos=res.data.data.complex[5].list
       },function(err){
         console.log(err)

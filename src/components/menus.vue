@@ -22,6 +22,7 @@
 
 <script>
   import axios from 'axios';
+  import {urls} from '../router/urlList'
   export default{
      name:'menus',
      data(){
@@ -32,7 +33,7 @@
      },
     created(){
        var self=this;
-     axios.get('../../static/home.json').then(function(res){
+     axios.get(urls.httpBtUrlOne+urls.httpBtUrlTwo).then(function(res){
          self.ticket=res.data.data.activity_list;
          self.menu=res.data.data.index_select_range
      },function(err){

@@ -2,7 +2,6 @@
   <div>
    <register></register>
   </div>
-
 </template>
 
 <script>
@@ -10,7 +9,12 @@
   export default{
     name:'mine',
     components:{
-        register
+        register,
+    },
+    created(){
+        if(localStorage.getItem('user')){
+          this.$router.push('/login')
+        }
     }
   }
 </script>

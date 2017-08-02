@@ -27,6 +27,7 @@
 
 <script>
   import axios from 'axios';
+  import {urls} from '../router/urlList'
   export default{
     name:'leftBar',
     data(){
@@ -37,7 +38,7 @@
     },
     created(){
         var self=this;
-        axios.get('../../static/classify.json').then(function(res){
+        axios.get(urls.httpBtUrlOne+urls.httpBtUrlFour).then(function(res){
           self.bar=res.data.data;
           self.goods = Object.assign({},  self.goods, res.data.data[0]);
         },function(err){
@@ -61,7 +62,7 @@
             }
         }
           var that=this;
-          axios.get('../../static/classify.json').then(function(res){
+          axios.get(urls.httpBtUrlOne+urls.httpBtUrlFour).then(function(res){
             that.goods = Object.assign({},  that.goods, res.data.data[index]);
 
       },function(err){

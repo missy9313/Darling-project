@@ -1,0 +1,1557 @@
+{
+  "data": {
+    "next": true,
+    "pages": 43,
+    "count": 841,
+    "list": [
+      {
+        "country": "韩国",
+        "prefix": "",
+        "sale_type": [
+          "0",
+          "2",
+          "123",
+          "68888"
+        ],
+        "description": "红参人参果眼膜贴去眼袋黑眼圈抗皱紧(红色 红参果)",
+        "display_type": "flat",
+        "image_pc": "http://img.daling.com/data/files/zin/2017/07/03/FA163E0BD2F9H73F4FCN5JM7805.jpg",
+        "price": 145,
+        "default_thumb": "http://img.daling.com/data/files/zin/2017/07/03/FA163E0BD2F9H73F4F1B0JDCM3V.jpg",
+        "cover_image": "http://img.daling.com/data/files/zin/2017/07/03/FA163E0BD2F9H73F4F1B0JDCM3V.jpg",
+        "stock": 47,
+        "title_desc": "淡化细纹紧致肌肤",
+        "goods_name": "红参人参果眼膜贴去眼袋黑眼圈抗皱紧(红色 红参果)",
+        "sale_type_maps": [
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+              "w": 60,
+              "h": 68,
+              "x": 190,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          },
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/05/11/14629355775248.png",
+              "w": 60,
+              "h": 68,
+              "x": 1,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/05/11/14629355642018.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          }
+        ],
+        "add_cart_num": 61,
+        "old_price": 145,
+        "goods_id": "297639",
+        "price_off": 4.8,
+        "brand_name": "香蒲丽",
+        "if_special": 1,
+        "pc_default_image": "http://img.daling.com/data/files/zin/2017/07/03/FA163E0BD2F9H73F4F1B0JDCM3V.jpg",
+        "short_goods_name": "红参人参果眼膜贴去眼袋黑眼圈抗皱紧(红色 红参果)",
+        "market_price": 299,
+        "default_image": "http://img.daling.com/data/files/zin/2017/07/03/FA163E0BD2F9H73F4F1B0JDCM3V.jpg",
+        "icon_display": [
+          {
+            "txt": "无敌价",
+            "back_ground_color": "#ff5d5a"
+          }
+        ],
+        "sale_type_info": {
+          "small": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+            "w": 60,
+            "h": 68,
+            "x": 190,
+            "y": 1
+          },
+          "big": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+            "w": 60,
+            "h": 68,
+            "x": 550,
+            "y": 1
+          },
+          "mark": true
+        }
+      },
+      {
+        "goods_name": "梦蜗面膜美容仪套装(25ml*20片+270g)",
+        "country": "韩国",
+        "sale_type_maps": [
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581232277639.png",
+              "w": 60,
+              "h": 68,
+              "x": 190,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/1458123221930.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          }
+        ],
+        "prefix": "",
+        "add_cart_num": 53,
+        "old_price": 229,
+        "sale_type": [
+          "0",
+          "2",
+          "123",
+          "190"
+        ],
+        "description": "梦蜗面膜美容仪套装(25ml*20片+270g)",
+        "goods_id": "299447",
+        "price_off": 4.9,
+        "brand_name": "梦蜗",
+        "if_special": 1,
+        "display_type": "flat",
+        "pc_default_image": "http://img.daling.com/data/files/mobile/2017/07/28/15012257227601.jpg",
+        "image_pc": "http://img.daling.com/data/files/mobile/2017/07/28/15012257314489.jpg",
+        "price": 229,
+        "short_goods_name": "梦蜗面膜美容仪套装(25ml*20片+270g)",
+        "default_thumb": "http://img.daling.com/data/files/mobile/2017/07/28/15012257227601.jpg",
+        "market_price": 459,
+        "default_image": "http://img.daling.com/data/files/mobile/2017/07/28/15012257227601.jpg",
+        "cover_image": "http://img.daling.com/data/files/mobile/2017/07/28/15012257227601.jpg",
+        "stock": 77,
+        "title_desc": "一敷一按拥有美肌",
+        "sale_type_info": {
+          "small": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581232277639.png",
+            "w": 60,
+            "h": 68,
+            "x": 190,
+            "y": 1
+          },
+          "big": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/1458123221930.png",
+            "w": 60,
+            "h": 68,
+            "x": 550,
+            "y": 1
+          },
+          "mark": true
+        }
+      },
+      {
+        "country": "韩国",
+        "prefix": "",
+        "sale_type": [
+          "0",
+          "1",
+          "2"
+        ],
+        "description": "水光杰君黑色水晶面膜套组(25ml*5*4盒)",
+        "display_type": "flat",
+        "image_pc": "http://img.daling.com/data/files/mobile/2017/07/21/15006399941642.jpg",
+        "price": 279,
+        "default_thumb": "http://img.daling.com/data/files/mobile/2017/07/21/15006399742451.jpg",
+        "cover_image": "http://img.daling.com/data/files/mobile/2017/07/21/15006399742451.jpg",
+        "stock": 2590,
+        "title_desc": "水光肌养成三部曲",
+        "goods_name": "水光杰君黑色水晶面膜套组(25ml*5*4盒)",
+        "sale_type_maps": [
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+              "w": 60,
+              "h": 68,
+              "x": 230,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          }
+        ],
+        "add_cart_num": 68,
+        "old_price": 279,
+        "goods_id": "299232",
+        "price_off": 10,
+        "brand_name": "JAYJUN",
+        "if_special": 1,
+        "pc_default_image": "http://img.daling.com/data/files/mobile/2017/07/21/15006399742451.jpg",
+        "short_goods_name": "水光杰君黑色水晶面膜套组(25ml*5*4盒)",
+        "market_price": 279,
+        "default_image": "http://img.daling.com/data/files/mobile/2017/07/21/15006399742451.jpg",
+        "icon_display": [
+          {
+            "txt": "满199减100",
+            "back_ground_color": "#3bbbe5"
+          }
+        ],
+        "sale_type_info": {
+          "small": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+            "w": 60,
+            "h": 68,
+            "x": 230,
+            "y": 1
+          },
+          "big": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+            "w": 60,
+            "h": 68,
+            "x": 550,
+            "y": 1
+          },
+          "mark": true
+        }
+      },
+      {
+        "country": "日本",
+        "prefix": "",
+        "sale_type": [
+          "0",
+          "1",
+          "2"
+        ],
+        "description": "VC+nanoC 维C纳米骨胶原面膜(30片)",
+        "display_type": "flat",
+        "image_pc": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0C4D3EH7RK1KK0SL8GI3T.jpg",
+        "price": 79,
+        "default_thumb": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK1KG1MP4FOIZ.jpg",
+        "cover_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK1KG1MP4FOIZ.jpg",
+        "stock": 49,
+        "title_desc": "美白你的肌肤",
+        "goods_name": "VC+nanoC 维C纳米骨胶原面膜(30片)",
+        "sale_type_maps": [
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+              "w": 60,
+              "h": 68,
+              "x": 230,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          },
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+              "w": 60,
+              "h": 68,
+              "x": 190,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          }
+        ],
+        "add_cart_num": 59,
+        "old_price": 79,
+        "goods_id": "299959",
+        "price_off": 5.3,
+        "brand_name": "Japan gals",
+        "if_special": 1,
+        "pc_default_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK1KG1MP4FOIZ.jpg",
+        "short_goods_name": "VC+nanoC 维C纳米骨胶原面膜(30片)",
+        "market_price": 149,
+        "default_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK1KG1MP4FOIZ.jpg",
+        "icon_display": [
+          {
+            "txt": "无敌价",
+            "back_ground_color": "#ff5d5a"
+          }
+        ],
+        "sale_type_info": {
+          "small": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+            "w": 60,
+            "h": 68,
+            "x": 230,
+            "y": 1
+          },
+          "big": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+            "w": 60,
+            "h": 68,
+            "x": 550,
+            "y": 1
+          },
+          "mark": true
+        }
+      },
+      {
+        "country": "韩国",
+        "prefix": "",
+        "sale_type": [
+          "0",
+          "1",
+          "2"
+        ],
+        "description": "特别之处：\r\n“让肌肤‘喝饱水’，水嫩肌肤，不再遥远~无比强大的‘补水神器’丽得姿美蒂优氨基酸保湿面膜，17种氨基酸成分让深层修复效果达到3倍，温和不刺激，也很适合娇嫩肌肤使用~并且采用阿尔卑斯山的冰河水，强效补水，解救肌肤‘干渴’状态，就连毛孔也会消失不见哟~快速补水、方便使用的丽得姿让你随时随地享受它的‘膜’力~”\r\n",
+        "display_type": "flat",
+        "image_pc": "http://img.daling.com/data/files/mobile/2017/07/24/15008695524226.jpg",
+        "price": 109,
+        "default_thumb": "http://img.daling.com/data/files/mobile/2017/07/24/15008695426475.jpg",
+        "cover_image": "http://img.daling.com/data/files/mobile/2017/07/24/15008695426475.jpg",
+        "stock": 4738,
+        "title_desc": "",
+        "goods_name": "丽得姿美蒂优氨基酸保湿面膜套组2盒",
+        "sale_type_maps": [
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+              "w": 60,
+              "h": 68,
+              "x": 230,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          },
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+              "w": 60,
+              "h": 68,
+              "x": 190,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          }
+        ],
+        "add_cart_num": 76,
+        "old_price": 129,
+        "goods_id": "299224",
+        "price_off": 5.4,
+        "brand_name": "丽得姿",
+        "if_special": 1,
+        "pc_default_image": "http://img.daling.com/data/files/mobile/2017/07/24/15008695426475.jpg",
+        "short_goods_name": "丽得姿美蒂优氨基酸保湿面膜套组2盒",
+        "market_price": 199,
+        "default_image": "http://img.daling.com/data/files/mobile/2017/07/24/15008695426475.jpg",
+        "icon_display": [
+          {
+            "txt": "无敌价",
+            "back_ground_color": "#ff5d5a"
+          }
+        ],
+        "sale_type_info": {
+          "small": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+            "w": 60,
+            "h": 68,
+            "x": 230,
+            "y": 1
+          },
+          "big": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+            "w": 60,
+            "h": 68,
+            "x": 550,
+            "y": 1
+          },
+          "mark": true
+        }
+      },
+      {
+        "country": "日本",
+        "prefix": "",
+        "sale_type": [
+          "0",
+          "1",
+          "2"
+        ],
+        "description": "Pure 5 深层玻尿酸补水面膜(30片)",
+        "display_type": "flat",
+        "image_pc": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0C4D3EH7RK15Q4NIGGKF1.jpg",
+        "price": 79,
+        "default_thumb": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK14I44MD5FB5.jpg",
+        "cover_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK14I44MD5FB5.jpg",
+        "stock": 4,
+        "title_desc": "深层补水保湿",
+        "goods_name": "Pure 5 深层玻尿酸补水面膜(30片)",
+        "sale_type_maps": [
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+              "w": 60,
+              "h": 68,
+              "x": 230,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          },
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+              "w": 60,
+              "h": 68,
+              "x": 190,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          }
+        ],
+        "add_cart_num": 53,
+        "old_price": 79,
+        "goods_id": "299953",
+        "price_off": 5.3,
+        "brand_name": "Japan gals",
+        "if_special": 1,
+        "pc_default_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK14I44MD5FB5.jpg",
+        "short_goods_name": "Pure 5 深层玻尿酸补水面膜(30片)",
+        "market_price": 149,
+        "default_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK14I44MD5FB5.jpg",
+        "icon_display": [
+          {
+            "txt": "无敌价",
+            "back_ground_color": "#ff5d5a"
+          }
+        ],
+        "sale_type_info": {
+          "small": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+            "w": 60,
+            "h": 68,
+            "x": 230,
+            "y": 1
+          },
+          "big": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+            "w": 60,
+            "h": 68,
+            "x": 550,
+            "y": 1
+          },
+          "mark": true
+        }
+      },
+      {
+        "country": "日本",
+        "prefix": "",
+        "sale_type": [
+          "0",
+          "1",
+          "2"
+        ],
+        "description": "雪肌美白面膜(30片)",
+        "display_type": "flat",
+        "image_pc": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK1NCMGPJNXF9.jpg",
+        "price": 99,
+        "default_thumb": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0C4D3EH7RK1N8F5LN0UQI.jpg",
+        "cover_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0C4D3EH7RK1N8F5LN0UQI.jpg",
+        "stock": 14,
+        "title_desc": "美白抗过敏",
+        "goods_name": "雪肌美白面膜(30片)",
+        "sale_type_maps": [
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+              "w": 60,
+              "h": 68,
+              "x": 230,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          },
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+              "w": 60,
+              "h": 68,
+              "x": 190,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          }
+        ],
+        "add_cart_num": 54,
+        "old_price": 99,
+        "goods_id": "299954",
+        "price_off": 5.2,
+        "brand_name": "Japan gals",
+        "if_special": 1,
+        "pc_default_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0C4D3EH7RK1N8F5LN0UQI.jpg",
+        "short_goods_name": "雪肌美白面膜(30片)",
+        "market_price": 189,
+        "default_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0C4D3EH7RK1N8F5LN0UQI.jpg",
+        "icon_display": [
+          {
+            "txt": "无敌价",
+            "back_ground_color": "#ff5d5a"
+          }
+        ],
+        "sale_type_info": {
+          "small": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+            "w": 60,
+            "h": 68,
+            "x": 230,
+            "y": 1
+          },
+          "big": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+            "w": 60,
+            "h": 68,
+            "x": 550,
+            "y": 1
+          },
+          "mark": true
+        }
+      },
+      {
+        "country": "日本",
+        "prefix": "",
+        "sale_type": [
+          "0",
+          "1",
+          "2"
+        ],
+        "description": "Pure 5 胎盘精华面膜(30片)",
+        "display_type": "flat",
+        "image_pc": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK1CEJSNZ0PCW.jpg",
+        "price": 79,
+        "default_thumb": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0C4D3EH7RK1C86NK3M2OF.jpg",
+        "cover_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0C4D3EH7RK1C86NK3M2OF.jpg",
+        "stock": 22,
+        "title_desc": "延缓衰老美化肌肤",
+        "goods_name": "Pure 5 胎盘精华面膜(30片)",
+        "sale_type_maps": [
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+              "w": 60,
+              "h": 68,
+              "x": 230,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          },
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+              "w": 60,
+              "h": 68,
+              "x": 190,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          }
+        ],
+        "add_cart_num": 60,
+        "old_price": 79,
+        "goods_id": "299960",
+        "price_off": 5.3,
+        "brand_name": "Japan gals",
+        "if_special": 1,
+        "pc_default_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0C4D3EH7RK1C86NK3M2OF.jpg",
+        "short_goods_name": "Pure 5 胎盘精华面膜(30片)",
+        "market_price": 149,
+        "default_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0C4D3EH7RK1C86NK3M2OF.jpg",
+        "icon_display": [
+          {
+            "txt": "无敌价",
+            "back_ground_color": "#ff5d5a"
+          }
+        ],
+        "sale_type_info": {
+          "small": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+            "w": 60,
+            "h": 68,
+            "x": 230,
+            "y": 1
+          },
+          "big": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+            "w": 60,
+            "h": 68,
+            "x": 550,
+            "y": 1
+          },
+          "mark": true
+        }
+      },
+      {
+        "country": "日本",
+        "prefix": "",
+        "sale_type": [
+          "0",
+          "1",
+          "2"
+        ],
+        "description": "H20+nanoC天然水纳米骨胶原面膜(30片)",
+        "display_type": "flat",
+        "image_pc": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0C4D3EH7RK1EYGCKFKZKM.jpg",
+        "price": 79,
+        "default_thumb": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK1EUAIOBJ4RE.jpg",
+        "cover_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK1EUAIOBJ4RE.jpg",
+        "stock": 47,
+        "title_desc": "胶原蛋白保湿补水",
+        "goods_name": "H20+nanoC天然水纳米骨胶原面膜(30片)",
+        "sale_type_maps": [
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+              "w": 60,
+              "h": 68,
+              "x": 230,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          },
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+              "w": 60,
+              "h": 68,
+              "x": 190,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          }
+        ],
+        "add_cart_num": 52,
+        "old_price": 79,
+        "goods_id": "299952",
+        "price_off": 5.3,
+        "brand_name": "Japan gals",
+        "if_special": 1,
+        "pc_default_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK1EUAIOBJ4RE.jpg",
+        "short_goods_name": "H20+nanoC天然水纳米骨胶原面膜(30片)",
+        "market_price": 149,
+        "default_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK1EUAIOBJ4RE.jpg",
+        "icon_display": [
+          {
+            "txt": "无敌价",
+            "back_ground_color": "#ff5d5a"
+          }
+        ],
+        "sale_type_info": {
+          "small": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+            "w": 60,
+            "h": 68,
+            "x": 230,
+            "y": 1
+          },
+          "big": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+            "w": 60,
+            "h": 68,
+            "x": 550,
+            "y": 1
+          },
+          "mark": true
+        }
+      },
+      {
+        "country": "日本",
+        "prefix": "",
+        "sale_type": [
+          "0",
+          "1",
+          "2"
+        ],
+        "description": "Pure 5 胶原蛋白精华面膜(15片*2袋)",
+        "display_type": "flat",
+        "image_pc": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0C4D3EH7RK19LMSJ6J5JW.jpg",
+        "price": 79,
+        "default_thumb": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK19HJRN1QGBE.jpg",
+        "cover_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK19HJRN1QGBE.jpg",
+        "stock": 16,
+        "title_desc": "提升肌肤弹性",
+        "goods_name": "Pure 5 胶原蛋白精华面膜(15片*2袋)",
+        "sale_type_maps": [
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+              "w": 60,
+              "h": 68,
+              "x": 230,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          },
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+              "w": 60,
+              "h": 68,
+              "x": 190,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          }
+        ],
+        "add_cart_num": 61,
+        "old_price": 79,
+        "goods_id": "299961",
+        "price_off": 5.3,
+        "brand_name": "Japan gals",
+        "if_special": 1,
+        "pc_default_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK19HJRN1QGBE.jpg",
+        "short_goods_name": "Pure 5 胶原蛋白精华面膜(15片*2袋)",
+        "market_price": 149,
+        "default_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK19HJRN1QGBE.jpg",
+        "icon_display": [
+          {
+            "txt": "无敌价",
+            "back_ground_color": "#ff5d5a"
+          }
+        ],
+        "sale_type_info": {
+          "small": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+            "w": 60,
+            "h": 68,
+            "x": 230,
+            "y": 1
+          },
+          "big": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+            "w": 60,
+            "h": 68,
+            "x": 550,
+            "y": 1
+          },
+          "mark": true
+        }
+      },
+      {
+        "country": "日本",
+        "prefix": "",
+        "sale_type": [
+          "0",
+          "1",
+          "2"
+        ],
+        "description": "Pure 5 胎盘素精华面膜(10片)",
+        "display_type": "flat",
+        "image_pc": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK1VQGCQVQA03.jpg",
+        "price": 56,
+        "default_thumb": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0C4D3EH7RK1VKOGMZCH9W.jpg",
+        "cover_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0C4D3EH7RK1VKOGMZCH9W.jpg",
+        "stock": 25,
+        "title_desc": "延缓衰老美化肌肤",
+        "goods_name": "Pure 5 胎盘素精华面膜(10片)",
+        "sale_type_maps": [
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+              "w": 60,
+              "h": 68,
+              "x": 230,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          },
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+              "w": 60,
+              "h": 68,
+              "x": 190,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          }
+        ],
+        "add_cart_num": 57,
+        "old_price": 56,
+        "goods_id": "299957",
+        "price_off": 5.1,
+        "brand_name": "Japan gals",
+        "if_special": 1,
+        "pc_default_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0C4D3EH7RK1VKOGMZCH9W.jpg",
+        "short_goods_name": "Pure 5 胎盘素精华面膜(10片)",
+        "market_price": 109,
+        "default_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0C4D3EH7RK1VKOGMZCH9W.jpg",
+        "icon_display": [
+          {
+            "txt": "无敌价",
+            "back_ground_color": "#ff5d5a"
+          }
+        ],
+        "sale_type_info": {
+          "small": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+            "w": 60,
+            "h": 68,
+            "x": 230,
+            "y": 1
+          },
+          "big": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+            "w": 60,
+            "h": 68,
+            "x": 550,
+            "y": 1
+          },
+          "mark": true
+        }
+      },
+      {
+        "country": "日本",
+        "prefix": "",
+        "sale_type": [
+          "0",
+          "1",
+          "2"
+        ],
+        "description": "Pure 5 玻尿酸精华面膜(10片)",
+        "display_type": "flat",
+        "image_pc": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK1YGI6R81DAO.jpg",
+        "price": 56,
+        "default_thumb": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0C4D3EH7RK1YCLNNDH4L0.jpg",
+        "cover_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0C4D3EH7RK1YCLNNDH4L0.jpg",
+        "stock": 24,
+        "title_desc": "补充水分给予保湿",
+        "goods_name": "Pure 5 玻尿酸精华面膜(10片)",
+        "sale_type_maps": [
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+              "w": 60,
+              "h": 68,
+              "x": 230,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          },
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+              "w": 60,
+              "h": 68,
+              "x": 190,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          }
+        ],
+        "add_cart_num": 62,
+        "old_price": 56,
+        "goods_id": "299962",
+        "price_off": 5.1,
+        "brand_name": "Japan gals",
+        "if_special": 1,
+        "pc_default_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0C4D3EH7RK1YCLNNDH4L0.jpg",
+        "short_goods_name": "Pure 5 玻尿酸精华面膜(10片)",
+        "market_price": 109,
+        "default_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0C4D3EH7RK1YCLNNDH4L0.jpg",
+        "icon_display": [
+          {
+            "txt": "无敌价",
+            "back_ground_color": "#ff5d5a"
+          }
+        ],
+        "sale_type_info": {
+          "small": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+            "w": 60,
+            "h": 68,
+            "x": 230,
+            "y": 1
+          },
+          "big": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+            "w": 60,
+            "h": 68,
+            "x": 550,
+            "y": 1
+          },
+          "mark": true
+        }
+      },
+      {
+        "goods_name": "相宜本草光彩立现白茶莹润亮泽睡眠面膜 (135g )",
+        "country": "国货精选",
+        "sale_type_maps": [
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+              "w": 60,
+              "h": 68,
+              "x": 230,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          }
+        ],
+        "prefix": "",
+        "add_cart_num": 82,
+        "old_price": 39,
+        "sale_type": [
+          "0",
+          "1",
+          "2"
+        ],
+        "description": "相宜本草光彩立现白茶莹润亮泽睡眠面膜 (135g )",
+        "goods_id": "300018",
+        "price_off": 8.6,
+        "brand_name": "相宜本草",
+        "if_special": 1,
+        "display_type": "flat",
+        "pc_default_image": "http://img.daling.com/data/files/mobile/2017/07/31/1501471033136.jpg",
+        "image_pc": "http://img.daling.com/data/files/mobile/2017/07/31/15014710888736.jpg",
+        "price": 39,
+        "short_goods_name": "相宜本草光彩立现白茶莹润亮泽睡眠面膜 (135g )",
+        "default_thumb": "http://img.daling.com/data/files/mobile/2017/07/31/1501471033136.jpg",
+        "market_price": 45,
+        "default_image": "http://img.daling.com/data/files/mobile/2017/07/31/1501471033136.jpg",
+        "cover_image": "http://img.daling.com/data/files/mobile/2017/07/31/1501471033136.jpg",
+        "stock": 143,
+        "title_desc": "补水、修复、亮白一步完成",
+        "sale_type_info": {
+          "small": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+            "w": 60,
+            "h": 68,
+            "x": 230,
+            "y": 1
+          },
+          "big": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+            "w": 60,
+            "h": 68,
+            "x": 550,
+            "y": 1
+          },
+          "mark": true
+        }
+      },
+      {
+        "country": "澳大利亚",
+        "prefix": "",
+        "sale_type": [
+          "0",
+          "2",
+          "68888"
+        ],
+        "description": "麦卢卡蜂蜜面膜(70克)",
+        "display_type": "flat",
+        "image_pc": "http://img.daling.com/data/files/zin/2017/07/20/FA163E0C4D3EH7K93VQ13KWBNF8.jpg",
+        "price": 99,
+        "default_thumb": "http://img.daling.com/data/files/zin/2017/07/20/FA163E0BD2F9H7K93VGMLN8OPCX.jpg",
+        "cover_image": "http://img.daling.com/data/files/zin/2017/07/20/FA163E0BD2F9H7K93VGMLN8OPCX.jpg",
+        "stock": 60,
+        "title_desc": "深层清洁吸附面膜",
+        "goods_name": "麦卢卡蜂蜜面膜(70克)",
+        "sale_type_maps": [
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+              "w": 60,
+              "h": 68,
+              "x": 190,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          },
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/05/11/14629355775248.png",
+              "w": 60,
+              "h": 68,
+              "x": 1,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/05/11/14629355642018.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          }
+        ],
+        "add_cart_num": 62,
+        "old_price": 99,
+        "goods_id": "300062",
+        "price_off": 4.9,
+        "brand_name": "Swisse",
+        "if_special": 1,
+        "pc_default_image": "http://img.daling.com/data/files/zin/2017/07/20/FA163E0BD2F9H7K93VGMLN8OPCX.jpg",
+        "short_goods_name": "麦卢卡蜂蜜面膜(70克)",
+        "market_price": 200,
+        "default_image": "http://img.daling.com/data/files/zin/2017/07/20/FA163E0BD2F9H7K93VGMLN8OPCX.jpg",
+        "icon_display": [
+          {
+            "txt": "无敌价",
+            "back_ground_color": "#ff5d5a"
+          }
+        ],
+        "sale_type_info": {
+          "small": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+            "w": 60,
+            "h": 68,
+            "x": 190,
+            "y": 1
+          },
+          "big": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+            "w": 60,
+            "h": 68,
+            "x": 550,
+            "y": 1
+          },
+          "mark": true
+        }
+      },
+      {
+        "goods_name": "海蓝之谜保湿修护面膜(17g*2*6)",
+        "country": "美国",
+        "prefix": "",
+        "add_cart_num": 89,
+        "old_price": 2499,
+        "sale_type": [
+          "0",
+          "2"
+        ],
+        "description": "海蓝之谜保湿修护面膜(17g*2*6)",
+        "goods_id": "299689",
+        "price_off": 9.6,
+        "brand_name": "lamer海蓝之谜",
+        "if_special": 1,
+        "display_type": "flat",
+        "pc_default_image": "http://img.daling.com/data/files/mobile/2017/07/27/15011380949418.jpg",
+        "image_pc": "http://img.daling.com/data/files/mobile/2017/07/28/15012105213217.jpg",
+        "price": 2499,
+        "short_goods_name": "海蓝之谜保湿修护面膜(17g*2*6)",
+        "default_thumb": "http://img.daling.com/data/files/mobile/2017/07/27/15011380949418.jpg",
+        "market_price": 2600,
+        "default_image": "http://img.daling.com/data/files/mobile/2017/07/27/15011380949418.jpg",
+        "cover_image": "http://img.daling.com/data/files/mobile/2017/07/27/15011380949418.jpg",
+        "stock": 2,
+        "title_desc": "“给肌肤来场奢华SPA”"
+      },
+      {
+        "country": "日本",
+        "prefix": "",
+        "sale_type": [
+          "0",
+          "2"
+        ],
+        "description": "Pure 5 洋甘菊修护舒缓面膜(15片*2袋)",
+        "display_type": "flat",
+        "image_pc": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0C4D3EH7RK1T5EHMLFRC7.jpg",
+        "price": 79,
+        "default_thumb": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK1T1MXQFDU5D.jpg",
+        "cover_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK1T1MXQFDU5D.jpg",
+        "stock": 33,
+        "title_desc": "自然淡香舒缓宁神",
+        "goods_name": "Pure 5 洋甘菊修护舒缓面膜(15片*2袋)",
+        "sale_type_maps": [
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+              "w": 60,
+              "h": 68,
+              "x": 190,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          }
+        ],
+        "add_cart_num": 55,
+        "old_price": 79,
+        "goods_id": "299955",
+        "price_off": 5.3,
+        "brand_name": "Japan gals",
+        "if_special": 1,
+        "pc_default_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK1T1MXQFDU5D.jpg",
+        "short_goods_name": "Pure 5 洋甘菊修护舒缓面膜(15片*2袋)",
+        "market_price": 149,
+        "default_image": "http://img.daling.com/data/files/zin/2017/07/27/FA163E0BD2F9H7RK1T1MXQFDU5D.jpg",
+        "icon_display": [
+          {
+            "txt": "无敌价",
+            "back_ground_color": "#ff5d5a"
+          }
+        ],
+        "sale_type_info": {
+          "small": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+            "w": 60,
+            "h": 68,
+            "x": 190,
+            "y": 1
+          },
+          "big": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+            "w": 60,
+            "h": 68,
+            "x": 550,
+            "y": 1
+          },
+          "mark": true
+        }
+      },
+      {
+        "country": "韩国",
+        "prefix": "",
+        "sale_type": [
+          "0",
+          "2",
+          "68888"
+        ],
+        "description": "雪花秀 撕拉面膜与顺行洁面组合(150ml+200ml)",
+        "display_type": "flat",
+        "image_pc": "http://img.daling.com/data/files/zin/2017/07/28/FA163E0BD2F9H7SA1MMKN4A4PQP.jpg",
+        "price": 499,
+        "default_thumb": "http://img.daling.com/data/files/zin/2017/07/28/FA163E0C4D3EH7SA1L0DN0YBP6R.jpg",
+        "cover_image": "http://img.daling.com/data/files/zin/2017/07/28/FA163E0C4D3EH7SA1L0DN0YBP6R.jpg",
+        "stock": 5,
+        "title_desc": "清洁保湿控油",
+        "goods_name": "雪花秀 撕拉面膜与顺行洁面组合(150ml+200ml)",
+        "sale_type_maps": [
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+              "w": 60,
+              "h": 68,
+              "x": 190,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          },
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/05/11/14629355775248.png",
+              "w": 60,
+              "h": 68,
+              "x": 1,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/05/11/14629355642018.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          }
+        ],
+        "add_cart_num": 53,
+        "old_price": 599,
+        "goods_id": "299947",
+        "price_off": 6.2,
+        "brand_name": "Sulwhasoo",
+        "if_special": 1,
+        "pc_default_image": "http://img.daling.com/data/files/zin/2017/07/28/FA163E0C4D3EH7SA1L0DN0YBP6R.jpg",
+        "short_goods_name": "雪花秀 撕拉面膜与顺行洁面组合(150ml+200ml)",
+        "market_price": 799,
+        "default_image": "http://img.daling.com/data/files/zin/2017/07/28/FA163E0C4D3EH7SA1L0DN0YBP6R.jpg",
+        "icon_display": [
+          {
+            "txt": "无敌价",
+            "back_ground_color": "#ff5d5a"
+          }
+        ],
+        "sale_type_info": {
+          "small": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+            "w": 60,
+            "h": 68,
+            "x": 190,
+            "y": 1
+          },
+          "big": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+            "w": 60,
+            "h": 68,
+            "x": 550,
+            "y": 1
+          },
+          "mark": true
+        }
+      },
+      {
+        "country": "法国",
+        "prefix": "[法国Bioderma]",
+        "sale_type": [
+          "0",
+          "123"
+        ],
+        "description": "贝德玛敏感肌肤卸妆水(法国版/C版)",
+        "display_type": "flat",
+        "image_pc": "http://img.daling.com/data/files/mobile/2017/06/01/14963107673879.jpg",
+        "price": 89,
+        "default_thumb": "http://img.daling.com/data/files/mobile/2017/06/01/14963107573269.jpg",
+        "cover_image": "http://img.daling.com/data/files/mobile/2017/06/01/14963107573269.jpg",
+        "stock": 5600,
+        "title_desc": "敏感党“踏实卸”",
+        "goods_name": "贝德玛敏感肌肤卸妆水(法国版/C版)",
+        "sale_type_maps": [
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+              "w": 60,
+              "h": 68,
+              "x": 190,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          }
+        ],
+        "add_cart_num": 186867,
+        "old_price": 118,
+        "goods_id": "119675",
+        "price_off": 3.9,
+        "brand_name": "Bioderma",
+        "if_special": 1,
+        "pc_default_image": "http://img.daling.com/data/files/mobile/2017/06/01/14963107573269.jpg",
+        "short_goods_name": "贝德玛敏感肌肤卸妆水(法国版/C版)",
+        "market_price": 228,
+        "default_image": "http://img.daling.com/data/files/mobile/2017/06/01/14963107573269.jpg",
+        "icon_display": [
+          {
+            "txt": "无敌价",
+            "back_ground_color": "#ff5d5a"
+          }
+        ],
+        "sale_type_info": {
+          "small": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+            "w": 60,
+            "h": 68,
+            "x": 190,
+            "y": 1
+          },
+          "big": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+            "w": 60,
+            "h": 68,
+            "x": 550,
+            "y": 1
+          },
+          "mark": true
+        }
+      },
+      {
+        "country": "韩国",
+        "prefix": "",
+        "sale_type": [
+          "0",
+          "123"
+        ],
+        "description": "水光樱花三部曲补水焕白面膜(10片)",
+        "display_type": "flat",
+        "image_pc": "http://img.daling.com/data/files/mobile/2016/12/09/14812625507952.jpg",
+        "price": 85,
+        "default_thumb": "http://img.daling.com/data/files/mobile/2016/06/27/14670194402707.jpg",
+        "cover_image": "http://img.daling.com/data/files/mobile/2016/06/27/14670194402707.jpg",
+        "stock": 308,
+        "title_desc": "敷白脸蛋几个度",
+        "goods_name": "水光樱花三部曲补水焕白面膜(10片)",
+        "sale_type_maps": [
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+              "w": 60,
+              "h": 68,
+              "x": 190,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          }
+        ],
+        "add_cart_num": 30659,
+        "old_price": 109,
+        "goods_id": "147798",
+        "price_off": 4.2,
+        "brand_name": "JAYJUN",
+        "if_special": 1,
+        "pc_default_image": "http://img.daling.com/data/files/mobile/2016/06/27/14670194402707.jpg",
+        "short_goods_name": "水光樱花三部曲补水焕白面膜(10片)",
+        "market_price": 199,
+        "default_image": "http://img.daling.com/data/files/mobile/2016/06/27/14670194402707.jpg",
+        "icon_display": [
+          {
+            "txt": "无敌价",
+            "back_ground_color": "#ff5d5a"
+          }
+        ],
+        "sale_type_info": {
+          "small": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+            "w": 60,
+            "h": 68,
+            "x": 190,
+            "y": 1
+          },
+          "big": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+            "w": 60,
+            "h": 68,
+            "x": 550,
+            "y": 1
+          },
+          "mark": true
+        }
+      },
+      {
+        "country": "韩国",
+        "prefix": "[韩国Leaders]",
+        "sale_type": [
+          "0",
+          "123"
+        ],
+        "description": "丽得姿水库面膜贴(25ml*10)",
+        "display_type": "flat",
+        "image_pc": "http://img.daling.com/data/files/mobile/2017/04/10/14917984251549.jpg",
+        "price": 59,
+        "default_thumb": "http://img.daling.com/data/files/mobile/2017/04/10/1491798419100.jpg",
+        "cover_image": "http://img.daling.com/data/files/mobile/2017/04/10/1491798419100.jpg",
+        "stock": 556,
+        "title_desc": "韩国膜界补水神话",
+        "goods_name": "丽得姿水库面膜贴(25ml*10)",
+        "sale_type_maps": [
+          {
+            "small": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+              "w": 60,
+              "h": 68,
+              "x": 190,
+              "y": 1
+            },
+            "big": {
+              "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+              "w": 60,
+              "h": 68,
+              "x": 550,
+              "y": 1
+            },
+            "mark": true
+          }
+        ],
+        "add_cart_num": 241738,
+        "old_price": 69,
+        "goods_id": "112137",
+        "price_off": 4.2,
+        "brand_name": "丽得姿",
+        "if_special": 1,
+        "pc_default_image": "http://img.daling.com/data/files/mobile/2017/04/10/1491798419100.jpg",
+        "short_goods_name": "丽得姿水库面膜贴(25ml*10)",
+        "market_price": 139,
+        "default_image": "http://img.daling.com/data/files/mobile/2017/04/10/1491798419100.jpg",
+        "icon_display": [
+          {
+            "txt": "无敌价",
+            "back_ground_color": "#ff5d5a"
+          }
+        ],
+        "sale_type_info": {
+          "small": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+            "w": 60,
+            "h": 68,
+            "x": 190,
+            "y": 1
+          },
+          "big": {
+            "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+            "w": 60,
+            "h": 68,
+            "x": 550,
+            "y": 1
+          },
+          "mark": true
+        }
+      }
+    ]
+  },
+  "status": 200
+}

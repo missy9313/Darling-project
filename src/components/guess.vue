@@ -30,6 +30,7 @@
 
 <script>
   import axios from 'axios';
+  import {urls}  from '../router/urlList'
   export default{
     name:'guess',
     data(){
@@ -40,7 +41,7 @@
     },
     created(){
       var self=this;
-      axios.get('../../static/guess.json').then(function(res){
+      axios.get(urls.httpBtUrlOne+urls.httpBtUrlThree).then(function(res){
         self.guess=res.data.data;
         self.title=self.guess.txt;
         self.goodsinfo=self.guess.list;

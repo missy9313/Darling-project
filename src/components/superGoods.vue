@@ -16,6 +16,7 @@
 
 <script>
   import axios from 'axios';
+  import {urls} from '../router/urlList'
   export default{
     name:'superGoods',
     data(){
@@ -26,7 +27,7 @@
     },
     created(){
       var self=this;
-      axios.get('../../static/home.json').then(function(res){
+      axios.get(urls.httpBtUrlOne+urls.httpBtUrlTwo).then(function(res){
         self.goods=res.data.data.complex;
         for(var i=0;i<self.goods.length;i++){
           self.title=self.goods[0].txt

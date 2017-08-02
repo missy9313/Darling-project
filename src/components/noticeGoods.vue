@@ -24,7 +24,8 @@
 </template>
 
 <script>
-  import axios from 'axios'
+  import axios from 'axios';
+  import {urls} from '../router/urlList';
   export default{
     name:'noticeGoods',
     data(){
@@ -34,7 +35,7 @@
     },
     created(){
       var self=this;
-      axios.get('../../static/todayNextGoods.json').then(function(res){
+      axios.get(urls.httpBtUrlOne+urls.httpBtUrlSix).then(function(res){
         self.notice=res.data.data.flash_list[0].list
       },function(err){
         console.log(err)

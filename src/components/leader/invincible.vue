@@ -20,11 +20,8 @@
     },
     created(){
       var self=this;
-      axios.get('../../static/home.json').then(function(res){
+      axios.get('http//:localhost:8080/static/home.json').then(function(res){
         self.goods=res.data.data.complex;
-//        for(var i=0;i<self.goods.length;i++){
-//          self.title=self.goods[4].txt
-//        }
         self.goodsinfo=res.data.data.complex[4].list[0].list
       },function(err){
         console.log(err)

@@ -27,6 +27,7 @@
 
 <script>
   import axios from 'axios'
+  import {urls} from '../router/urlList'
   export default{
     name:'todayGoods',
     data(){
@@ -36,7 +37,7 @@
     },
     created(){
       var self=this;
-      axios.get('../../static/todayGoods.json').then(function(res){
+      axios.get(urls.httpBtUrlOne+urls.httpBtUrlFive).then(function(res){
         self.today=res.data.data.flash_list[0].list
       },function(err){
         console.log(err)
