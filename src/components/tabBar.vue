@@ -4,7 +4,6 @@
       <ul class="tabBar" >
         <li  v-for="obj in tablist">
           <router-link :to="obj.to" :class="obj.cla"  :activeClass="obj.activeCla" >
-
           </router-link>
           <p>{{obj.title}}</p>
         </li>

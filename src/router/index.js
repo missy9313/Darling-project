@@ -28,6 +28,9 @@ import special from '@/components/leader/special'
 import weeknews from '@/components/leader/weeknews'
 
 import search from '@/components/search/search'
+import searchgoods from '@/components/search/searchgoods'
+
+import enterGoods from '@/components/enterGoods'
 Vue.use(Router)
 export default new Router({
   routes: [
@@ -144,13 +147,22 @@ export default new Router({
           component:Exit,
           name:'exit'
         }
-
       ]
     },
     {
       path:'/search',
       name:'search',
       component:search
+    },
+    {
+      path:'/searchgoods',
+      name:'/searchgoods',
+      component:searchgoods
+    },
+    {
+      path:'/entergoods',
+      name:'/entergoods',
+      component:enterGoods
     }
 
 

@@ -6,5 +6,6 @@ export const urls={
   httpBtUrlFive:'static/todayGoods.json',
   httpBtUrlSix:'static/todayNextGoods.json',
   httpBtUrlSeven:'static/mine.json',
-  httpBtUrlEight:'static/search.json'
+  httpBtUrlEight:'static/search.json',
+  details:'http://localhost:2403/darling'
 }

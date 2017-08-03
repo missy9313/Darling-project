@@ -1,0 +1,120 @@
+{
+  "add_cart_num": 4021,
+  "brand_country": "英国",
+  "brand_id": 1496,
+  "brand_name": "Dimples",
+  "can_return": 0,
+  "cate_id_1": 1003,
+  "cate_id_2": 1543,
+  "cate_name": "脱毛膏",
+  "color_image": "",
+  "color_name": "200ml",
+  "comment_love_rate": 95.2,
+  "comment_num": 750,
+  "delivery_country": "",
+  "description": "温和脱毛，喷嘴设计更方便，低敏配方，用后留下幼嫩自然细毛，蕴含有效成份，能软化体毛与根部的接触部份，让体毛容易断开，光滑效果相比用一般剃刀更持久。而且再长出的体毛质感柔软；撇除了用剃刀脱毛后，体毛会变得粗硬的烦恼。和蜡纸相比当然就没那么痛啦。喷雾用起来也方便很多哦，夏季必备！",
+  "goods_id": 111244,
+  "goods_name": "杜碧丝柠檬味脱毛喷雾(200ml)",
+  "goods_peak": 6,
+  "goods_show_desc": "[Dimples]温和脱毛，喷嘴设计更方便，低敏配方，用后留下幼嫩自然细毛，蕴含有效成份，能软化体毛与根部的接触部份，让体毛容易断开，光滑效果相比用一般剃刀更持久。而且再长出的体毛质感柔软；撇除了用剃刀脱毛后，体毛会变得粗硬的烦恼。和蜡纸相比当然就没那么痛啦。喷雾用起来也方便很多哦，夏季必备！",
+  "goods_show_name": "英国·杜碧丝柠檬味脱毛喷雾(200ml)",
+  "group_id": "04A2Q2",
+  "group_name": "",
+  "group_pid": "04A2Q2",
+  "icons": [],
+  "if_codpay": 0,
+  "if_special": 1,
+  "image": "http://img.daling.com/data/files/mobile/2015/04/14/14289961922068.jpg",
+  "image_height": 457,
+  "image_pc": "http://img.daling.com/data/files/mobile/2017/06/16/14976028792491.jpg",
+  "image_width": 640,
+  "in_bond_limit": 5,
+  "is_charge_post_fee": 0,
+  "is_foreign_supply": 1,
+  "is_in_bond": 1,
+  "is_main_goods": 1,
+  "market_price": 138,
+  "origin_price": 49,
+  "post_fee": 0,
+  "prefix": "[英国Dimples]",
+  "price": 29,
+  "rate": 0.119,
+  "region": "",
+  "sale_time": 1498867200,
+  "special": [
+    {
+      "txt": "英国\"杜碧丝\"脱毛喷雾，柠檬味道哒，一点臭的味道都没有，在国外是特常用的脱毛畅销产品，香港SASA卖的那是非常火！身体大部分位置都可以用，脱毛同时滋润肌肤，使用非常方便，脱毛效果也很彻底，止敏感配方，让除毛轻松又安心啦。效果果然不错，喷上后5-10分钟后用轻轻一擦，汗毛都掉了，妥妥的好东西，为了光滑一夏，脱毛肯定少不了！",
+      "name": "产品展示",
+      "list": [
+        {
+          "image": "http://img.daling.com/data/files/mobile/2015/04/14/14289962142564.jpg",
+          "width": "640",
+          "big_image": "http://img.daling.com/data/files/mobile/2015/04/14/14289962142564.jpg",
+          "title": "英国",
+          "height": "420"
+        },
+        {
+          "image": "http://img.daling.com/data/files/mobile/2015/04/14/14289962214277.jpg",
+          "width": "640",
+          "big_image": "http://img.daling.com/data/files/mobile/2015/04/14/14289962214277.jpg",
+          "title": "柠檬味道哒",
+          "height": "1036"
+        },
+        {
+          "image": "http://img.daling.com/data/files/mobile/2015/04/14/14289962284849.jpg",
+          "width": "640",
+          "big_image": "http://img.daling.com/data/files/mobile/2015/04/14/14289962284849.jpg",
+          "title": "香港SASA卖的非常火",
+          "height": "1036"
+        }
+      ],
+      "key": "shows"
+    },
+    {
+      "txt": "温和脱毛，喷嘴设计更方便，低敏配方，用后留下幼嫩自然细毛，蕴含有效成份，能软化体毛与根部的接触部份，让体毛容易断开，光滑效果相比用一般剃刀更持久。而且再长出的体毛质感柔软；撇除了用剃刀脱毛后，体毛会变得粗硬的烦恼。和蜡纸相比当然就没那么痛啦。喷雾用起来也方便很多哦，夏季必备！",
+      "name": "特别之处",
+      "list": [
+        {
+          "image": "http://img.daling.com/data/files/mobile/2015/04/14/14289962445794.jpg",
+          "width": "640",
+          "big_image": "http://img.daling.com/data/files/mobile/2015/04/14/14289962445794.jpg",
+          "title": "温和脱毛",
+          "height": "640"
+        },
+        {
+          "image": "http://img.daling.com/data/files/mobile/2015/04/14/14289962569837.jpg",
+          "width": "640",
+          "big_image": "http://img.daling.com/data/files/mobile/2015/04/14/14289962569837.jpg",
+          "title": "喷嘴设计更方便",
+          "height": "640"
+        },
+        {
+          "image": "http://img.daling.com/data/files/mobile/2015/04/14/14289962779728.jpg",
+          "width": "640",
+          "big_image": "http://img.daling.com/data/files/mobile/2015/04/14/14289962779728.jpg",
+          "title": "低敏配方",
+          "height": "1036"
+        },
+        {
+          "image": "http://img.daling.com/data/files/mobile/2015/04/14/14289962849880.jpg",
+          "width": "640",
+          "big_image": "http://img.daling.com/data/files/mobile/2015/04/14/14289962849880.jpg",
+          "title": "用后留下幼嫩自然细毛",
+          "height": "1036"
+        }
+      ],
+      "key": "specials"
+    },
+    {
+      "txt": "身体部位：先以温水弄湿脱毛部位，上下摇均后将脱毛泡沫轻轻涂于脱毛处，10分钟后，用清水洗净即可。约3mm的厚度，月经期间勿用。",
+      "name": "使用方法",
+      "key": "usages"
+    },
+    {
+      "txt": "1.产品止敏感，但也会出现过敏的机率，特别是脸部皮肤本身较敏感的人群。所以初次使用本产品，请先小范围测试了再用；\r\n2.脱毛部位不适用肥皂或及热水洗涤，脱毛后24小时内都不宜使用止汗水或香体剂；\r\n3.如不小心误用脱毛摩丝引起不适，应立即以大量清水冲洗；\r\n4.鼻孔，耳边，乳房，比基尼部位及损伤发炎之皮肤均不适宜适用；\r\n5.经期间勿用。",
+      "name": "注意事项",
+      "key": "details"
+    }
+  ]
+}
+

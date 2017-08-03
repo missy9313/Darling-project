@@ -17,6 +17,8 @@
 </template>
 
 <script>
+  import axios from 'axios'
+  import {urls} from '../router/urlList';
   export default{
     name:'mine',
     data(){
@@ -31,7 +33,9 @@
           bool1:'',
           bool2:'',
           bool3:'',
-         loginBtn:''
+          loginBtn:'',
+          user:'',
+          password:''
         }
 
     },
@@ -47,7 +51,16 @@
         if(mobileReg.test(this.phoneNum.value)){
           this.mBtn1.style.display="block";
           this.mBtn2.style.backgroundColor="#B349BD";
-          localStorage.setItem('user',this.phoneNum.value);
+          this.user=this.phoneNum.value;
+          var self=this;
+          axios.post(urls.details,{
+              username:self.user,
+              password:"123"
+          }).then(function(res){
+            localStorage.setItem('user',self.user);
+            localStorage.setItem('uId',res.data.id)
+          })
+
           return this.bool1=true;
 
         }else{
@@ -96,7 +109,11 @@
         }
       },
       login(){
-        this.$router.push('/login')
+        if(this.bool1 && this.bool2 ){
+          this.loginBtn.style.backgroundColor='#B349BD';
+          this.$router.push('/login')
+        }
+
       }
     }
 

@@ -2,18 +2,18 @@
   <div>
     <!--各种即将抢购产品-->
     <div class="infoWrap">
-      <div v-for="obj in notice" class="infos">
-        <div class="icon">
-          <!--<img v-bind:src="obj.icons.img" >-->
-        </div>
-        <img v-bind:src="obj.image" alt="宝贝没了">
+      <div v-for="obj in notice" class="infos" >
+        <!--<div class="icon">-->
+          <!--&lt;!&ndash;<img v-bind:src="obj.icons.img" >&ndash;&gt;-->
+        <!--</div>-->
+        <img v-bind:src="obj.image" alt="宝贝没了" @click="enterGoods(obj.goods_id)">
         <p class="showName">{{obj.goods_show_name}}
        <!--<span>{{obj.icon_display.txt}}</span>-->
         </p>
         <p class="name">{{obj.goods_name}}</p>
         <div class="buyInfo">
           <p class="price"><span>￥</span>{{obj.price}} <span class="origin">￥{{obj.origin_price}}</span></p>
-          <div class="cart">
+          <div class="cart" @click="addcart(obj.goods_id)">
             <img src="../assets/cart0.png">
           </div>
         </div>
@@ -30,7 +30,13 @@
     name:'noticeGoods',
     data(){
       return{
-        notice:true
+        notice:true,
+        uId:'',
+        arrdata:{},
+        num:1,
+        d:[],
+        arrdataStr:"",
+        detailsId:''
       }
     },
     created(){
@@ -41,20 +47,80 @@
         console.log(err)
       })
 
+
+    },
+    methods:{
+//        加入购物车
+      addcart(id){
+        axios.get(urls.httpBtUrlOne +"static/"+ id + '.json').then((res) => {
+            this.d = res.data;
+          })
+          .catch((error) => {
+            console.log(error + "err");
+          });
+//        获取用户Id
+        this.uId=localStorage.getItem('uId');
+//        判断用户是否存在
+        if(!this.uId){
+          this.$router.push('/mine');
+        }
+//        先获取数据
+
+        axios.get(urls.details+"/"+this.uId).then((res)=>{
+//            如果数据为空时，获取可简化
+            if(res.data.data==="" || !res.data.data ){
+              this.arrdata[id]={
+//                 商品id 做key 下面为传值
+                "id":id,
+                "num":this.num,
+                "price":this.d.origin_price,
+                "name":this.d.goods_name,
+                "info":this.d.color_name,
+                "img":this.d.image,
+                "sum":this.d.origin_price*this.num,
+              };
+              this.arrdataStr=JSON.stringify(this.arrdata);
+            }
+           else{
+                this.arrdata=JSON.parse(res.data.data);
+                this.arrdata[id]={
+//                 商品id 做key 下面为传值
+                  "id":id,
+                  "num":this.num,
+                  "price":this.d.origin_price,
+                  "name":this.d.goods_name,
+                  "info":this.d.color_name,
+                  "img":this.d.image,
+                  "sum":this.d.origin_price*this.num
+              };
+              this.arrdataStr=JSON.stringify(this.arrdata);
+            }
+            axios.put(urls.details+"/"+this.uId,{
+                data:this.arrdataStr
+            }).then(function(res){
+                console.log('成功')
+              localStorage.setItem('goodsId',id)
+            },function(err){
+                console.log("错误"+err)
+            },function(err){
+              console.log("错误"+err)
+            })
+        })
+      },
+//      进入详情页
+      enterGoods(ids){
+        this.$router.push({path:"/entergoods", query: {key:ids}})
+      }
     }
   }
 </script>
 
 <style scoped>
-  .goodsWrap{
-    width:100%;
-    margin-top:1rem;
-    background-color: white;
-  }
+
 
   .infoWrap{
     width:100%;
-    margin-top: -3rem;
+
     padding-bottom: 2rem;
     display: flex;
     flex-wrap: wrap;
@@ -62,6 +128,7 @@
   }
   .infos{
     width:48%;
+    margin-top:1rem;
     padding-left:2%;
     line-height: 2rem;
     margin-bottom: 1rem;
@@ -75,7 +142,17 @@
     color: #252525;
     height:4.8rem
   }
-
+  .cart{
+    width:15%;
+    height:2.7rem;
+    border:1px solid #a4a4a4;
+    border-radius: 0.5rem;
+    padding:1%;
+  }
+  .cart img{
+    width:2.5rem;
+    height:2.5rem;
+  }
   .name{
     color:#9f9f9f;
     font-size: 1.2rem;
@@ -95,18 +172,7 @@
     display: flex;
     justify-content: space-between;
   }
-  .cart{
-    width:15%;
-    height:2.7rem;
-    border:1px solid #a4a4a4;
-    border-radius: 0.5rem;
-    padding:1%;
-  }
 
-  .cart img{
-    width:2.5rem;
-    height:2.5rem;
-  }
   .icon{
     width:3rem;
     height:3rem;
@@ -127,4 +193,5 @@
     background-color: #f9f9f9;
     color: #9f9f9f;
   }
+
 </style>
