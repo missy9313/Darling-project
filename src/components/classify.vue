@@ -6,7 +6,7 @@
 </template>
 
 <script>
-  import goSearch from '@/components/goSearch'
+  import goSearch from '@/components/home/goSearch'
   import leftBar from '@/components/leftBar'
   export default{
     name:'classify',

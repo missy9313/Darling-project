@@ -57,6 +57,7 @@
         if (!e) {
           e = window.event;
         }
+        console.log(index)
         this.$router.push({path:"/searchgoods", query: {id: index}})
       },
 //      点击搜索搜索

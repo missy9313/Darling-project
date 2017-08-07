@@ -2,7 +2,7 @@
   <div class="searchWrap">
     <!--搜索栏-->
     <div class="search" @click="goSearch">
-      <img src="../assets/timer.png" alt="">
+      <img src="../../assets/timer.png" alt="">
       <span>搜索商品</span>
     </div>
   </div>

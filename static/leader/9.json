@@ -1,0 +1,1846 @@
+{
+  "data": {
+    "goods_list": {
+      "next": true,
+      "txt": "达令好货",
+      "txt_color": "",
+      "pages": 19,
+      "count": 511,
+      "list": [
+        {
+          "info": {
+            "goods_name": "红豆薏米茶（袋泡茶），分分钟搞定薏米水，去湿去油光面(60g 红豆薏米味 60 一盒20包)",
+            "country": "国货精选",
+            "prefix": "",
+            "add_cart_num": 92,
+            "old_price": 29.9,
+            "sale_type": [
+              "0",
+              "2",
+              "123"
+            ],
+            "description": "红豆薏米茶（袋泡茶），分分钟搞定薏米水，去湿去油光面(60g 红豆薏米味 60 一盒20包)",
+            "goods_id": "281592",
+            "price_off": 8.3,
+            "brand_name": "喜善花房",
+            "if_special": 1,
+            "display_type": "flat",
+            "pc_default_image": "http://img.daling.com/data/files/zin/2017/03/14/FA163E0BD2F9H3EA0PI4ZIX1CHN.jpg",
+            "image_pc": "http://img.daling.com/data/files/zin/2017/03/14/FA163E0C4D3EH3EA0POOK1U2X3V.jpg",
+            "price": 29.9,
+            "short_goods_name": "红豆薏米茶(60g 红豆薏米味 60 一盒20包)",
+            "default_thumb": "http://img.daling.com/data/files/zin/2017/03/14/FA163E0BD2F9H3EA0PI4ZIX1CHN.jpg",
+            "market_price": 35.8,
+            "default_image": "http://img.daling.com/data/files/zin/2017/03/14/FA163E0BD2F9H3EA0PI4ZIX1CHN.jpg",
+            "cover_image": "http://img.daling.com/data/files/zin/2017/03/14/FA163E0BD2F9H3EA0PI4ZIX1CHN.jpg",
+            "stock": 8471,
+            "title_desc": "分分钟搞定薏米水"
+          }
+        },
+        {
+          "info": {
+            "goods_name": "健康低卡海苔梳打 饼干(518g)",
+            "country": "中国香港",
+            "prefix": "[香港EDO]",
+            "add_cart_num": 34182,
+            "old_price": 29.8,
+            "sale_type": [
+              "0",
+              "2",
+              "123"
+            ],
+            "description": "健康低卡海苔梳打 饼干(518g)",
+            "goods_id": "117212",
+            "price_off": 8,
+            "brand_name": "EDO",
+            "if_special": 1,
+            "display_type": "flat",
+            "pc_default_image": "http://img.daling.com/data/files/mobile/2015/10/13/14447090527549.jpg",
+            "image_pc": "http://img.daling.com/data/files/mobile/2015/08/31/14409875759144.jpg",
+            "price": 29.8,
+            "short_goods_name": "健康低卡海苔梳打饼干(518g)",
+            "default_thumb": "http://img.daling.com/data/files/mobile/2015/10/13/14447090527549.jpg",
+            "market_price": 36.9,
+            "default_image": "http://img.daling.com/data/files/mobile/2015/10/13/14447090527549.jpg",
+            "cover_image": "http://img.daling.com/data/files/mobile/2015/10/13/14447090527549.jpg",
+            "stock": 153,
+            "title_desc": "低卡低糖小咸趣"
+          }
+        },
+        {
+          "info": {
+            "goods_name": "蔓越莓扁桃仁 麦片(396g)",
+            "country": "美国",
+            "prefix": "[美国宝氏]",
+            "add_cart_num": 27650,
+            "old_price": 42.8,
+            "sale_type": [
+              "0",
+              "2",
+              "123"
+            ],
+            "description": "蔓越莓扁桃仁 麦片(396g)",
+            "goods_id": "109384",
+            "price_off": 8.7,
+            "brand_name": "宝氏",
+            "if_special": 1,
+            "display_type": "flat",
+            "pc_default_image": "http://img.daling.com/data/files/mobile/2017/07/05/14992278531791.jpg",
+            "image_pc": "http://img.daling.com/data/files/mobile/2017/07/05/14992278625745.jpg",
+            "price": 42.8,
+            "short_goods_name": "蔓越莓扁桃仁麦片(396g)",
+            "default_thumb": "http://img.daling.com/data/files/mobile/2017/07/05/14992278531791.jpg",
+            "market_price": 49,
+            "default_image": "http://img.daling.com/data/files/mobile/2017/07/05/14992278531791.jpg",
+            "cover_image": "http://img.daling.com/data/files/mobile/2017/07/05/14992278531791.jpg",
+            "stock": 61,
+            "title_desc": "麦片界的TOP STAR"
+          }
+        },
+        {
+          "info": {
+            "goods_name": "荷叶玫瑰茶清爽刮油小腰精必备(120g 酸酸的微甜)",
+            "country": "国货精选",
+            "prefix": "",
+            "add_cart_num": 88,
+            "old_price": 29.9,
+            "sale_type": [
+              "0",
+              "2",
+              "123"
+            ],
+            "description": "荷叶玫瑰茶清爽刮油小腰精必备(120g 酸酸的微甜)",
+            "goods_id": "271888",
+            "price_off": 7.6,
+            "brand_name": "喜善花房",
+            "if_special": 1,
+            "display_type": "flat",
+            "pc_default_image": "http://img.daling.com/data/files/zin/2017/02/10/FA163E0C4D3EH2AB21SCI55F4LN.jpg",
+            "image_pc": "http://img.daling.com/data/files/zin/2017/02/10/FA163E0BD2F9H2AB239OQKD77LR.jpg",
+            "price": 29.9,
+            "short_goods_name": "荷叶玫瑰茶(120g 酸酸的微甜)",
+            "default_thumb": "http://img.daling.com/data/files/zin/2017/02/10/FA163E0C4D3EH2AB21SCI55F4LN.jpg",
+            "market_price": 39,
+            "default_image": "http://img.daling.com/data/files/zin/2017/02/10/FA163E0C4D3EH2AB21SCI55F4LN.jpg",
+            "cover_image": "http://img.daling.com/data/files/zin/2017/02/10/FA163E0C4D3EH2AB21SCI55F4LN.jpg",
+            "stock": 97922,
+            "title_desc": "清肠刮油花草茶"
+          }
+        },
+        {
+          "info": {
+            "country": "韩国",
+            "prefix": "",
+            "sale_type": [
+              "0",
+              "2",
+              "123",
+              "68888"
+            ],
+            "description": "红参人参果眼膜贴去眼袋黑眼圈抗皱紧(红色 红参果)",
+            "display_type": "flat",
+            "image_pc": "http://img.daling.com/data/files/zin/2017/07/03/FA163E0BD2F9H73F4FCN5JM7805.jpg",
+            "price": 145,
+            "default_thumb": "http://img.daling.com/data/files/zin/2017/07/03/FA163E0BD2F9H73F4F1B0JDCM3V.jpg",
+            "cover_image": "http://img.daling.com/data/files/zin/2017/07/03/FA163E0BD2F9H73F4F1B0JDCM3V.jpg",
+            "stock": 0,
+            "title_desc": "淡化细纹紧致肌肤",
+            "goods_name": "红参人参果眼膜贴去眼袋黑眼圈抗皱紧(红色 红参果)",
+            "sale_type_maps": [
+              {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 190,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              },
+              {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/05/11/14629355775248.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 1,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/05/11/14629355642018.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              }
+            ],
+            "add_cart_num": 61,
+            "old_price": 145,
+            "goods_id": "297639",
+            "price_off": 4.8,
+            "brand_name": "香蒲丽",
+            "if_special": 1,
+            "pc_default_image": "http://img.daling.com/data/files/zin/2017/07/03/FA163E0BD2F9H73F4F1B0JDCM3V.jpg",
+            "short_goods_name": "红参人参果眼膜贴去眼袋黑眼圈抗皱紧(红色 红参果)",
+            "market_price": 299,
+            "default_image": "http://img.daling.com/data/files/zin/2017/07/03/FA163E0BD2F9H73F4F1B0JDCM3V.jpg",
+            "icon_display": [
+              {
+                "txt": "无敌价",
+                "back_ground_color": "#ff5d5a"
+              },
+              {
+                "txt": "限时包邮",
+                "back_ground_color": "#61cbd7"
+              }
+            ],
+            "sale_type_info": {
+              "small": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                "w": 60,
+                "h": 68,
+                "x": 190,
+                "y": 1
+              },
+              "big": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                "w": 60,
+                "h": 68,
+                "x": 550,
+                "y": 1
+              },
+              "mark": true
+            }
+          }
+        },
+        {
+          "info": {
+            "country": "韩国",
+            "prefix": "",
+            "sale_type": [
+              "0",
+              "2",
+              "123",
+              "190"
+            ],
+            "description": "梦蜗面膜美容仪套装(25ml*20片+270g)",
+            "display_type": "flat",
+            "image_pc": "http://img.daling.com/data/files/mobile/2017/07/28/15012257314489.jpg",
+            "price": 199,
+            "default_thumb": "http://img.daling.com/data/files/mobile/2017/07/28/15012257227601.jpg",
+            "cover_image": "http://img.daling.com/data/files/mobile/2017/07/28/15012257227601.jpg",
+            "stock": 54,
+            "title_desc": "一敷一按拥有美肌",
+            "goods_name": "梦蜗面膜美容仪套装(25ml*20片+270g)",
+            "sale_type_maps": [
+              {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 190,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              },
+              {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581232277639.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 190,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/16/1458123221930.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              }
+            ],
+            "add_cart_num": 53,
+            "old_price": 229,
+            "goods_id": "299447",
+            "price_off": 4.3,
+            "brand_name": "梦蜗",
+            "if_special": 1,
+            "pc_default_image": "http://img.daling.com/data/files/mobile/2017/07/28/15012257227601.jpg",
+            "short_goods_name": "梦蜗面膜美容仪套装(25ml*20片+270g)",
+            "market_price": 459,
+            "default_image": "http://img.daling.com/data/files/mobile/2017/07/28/15012257227601.jpg",
+            "icon_display": [
+              {
+                "txt": "无敌价",
+                "back_ground_color": "#ff5d5a"
+              }
+            ],
+            "sale_type_info": {
+              "small": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                "w": 60,
+                "h": 68,
+                "x": 190,
+                "y": 1
+              },
+              "big": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                "w": 60,
+                "h": 68,
+                "x": 550,
+                "y": 1
+              },
+              "mark": true
+            }
+          }
+        },
+        {
+          "info": {
+            "country": "韩国",
+            "prefix": "",
+            "sale_type": [
+              "0",
+              "1",
+              "2",
+              "68888"
+            ],
+            "description": "2017限量气垫BB霜喜鹊登枝(粉色 13号浅桃色)",
+            "display_type": "flat",
+            "image_pc": "http://img.daling.com/data/files/zin/2017/06/27/FA163E0C4D3EH6RH2W0Q5IZ3U2V.jpg",
+            "price": 299,
+            "default_thumb": "http://img.daling.com/data/files/zin/2017/06/27/FA163E0BD2F9H6RH2VQMEJPOP47.jpg",
+            "cover_image": "http://img.daling.com/data/files/zin/2017/06/27/FA163E0BD2F9H6RH2VQMEJPOP47.jpg",
+            "stock": 19,
+            "title_desc": "打造轻薄自然妆感",
+            "goods_name": "2017限量气垫BB霜喜鹊登枝",
+            "sale_type_maps": [
+              {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 230,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              },
+              {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 190,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              },
+              {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/05/11/14629355775248.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 1,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/05/11/14629355642018.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              }
+            ],
+            "add_cart_num": 154,
+            "old_price": 359,
+            "goods_id": "296865",
+            "price_off": 7.4,
+            "brand_name": "Sulwhasoo",
+            "if_special": 1,
+            "pc_default_image": "http://img.daling.com/data/files/zin/2017/06/27/FA163E0BD2F9H6RH2VQMEJPOP47.jpg",
+            "short_goods_name": "2017限量气垫BB霜喜鹊登枝",
+            "market_price": 399,
+            "default_image": "http://img.daling.com/data/files/zin/2017/06/27/FA163E0BD2F9H6RH2VQMEJPOP47.jpg",
+            "icon_display": [
+              {
+                "txt": "无敌价",
+                "back_ground_color": "#ff5d5a"
+              },
+              {
+                "txt": "限时包邮",
+                "back_ground_color": "#61cbd7"
+              }
+            ],
+            "sale_type_info": {
+              "small": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+                "w": 60,
+                "h": 68,
+                "x": 230,
+                "y": 1
+              },
+              "big": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+                "w": 60,
+                "h": 68,
+                "x": 550,
+                "y": 1
+              },
+              "mark": true
+            }
+          }
+        },
+        {
+          "info": {
+            "goods_name": "水光杰君黑色水晶面膜套组(25ml*5*4盒)",
+            "country": "韩国",
+            "prefix": "",
+            "add_cart_num": 68,
+            "old_price": 259,
+            "sale_type": [
+              "0",
+              "2",
+              "123"
+            ],
+            "description": "水光杰君黑色水晶面膜套组(25ml*5*4盒)",
+            "goods_id": "299232",
+            "price_off": 9.2,
+            "brand_name": "JAYJUN",
+            "if_special": 1,
+            "display_type": "flat",
+            "pc_default_image": "http://img.daling.com/data/files/mobile/2017/07/21/15006399742451.jpg",
+            "image_pc": "http://img.daling.com/data/files/mobile/2017/07/21/15006399941642.jpg",
+            "price": 259,
+            "short_goods_name": "水光杰君黑色水晶面膜套组(25ml*5*4盒)",
+            "default_thumb": "http://img.daling.com/data/files/mobile/2017/07/21/15006399742451.jpg",
+            "market_price": 279,
+            "default_image": "http://img.daling.com/data/files/mobile/2017/07/21/15006399742451.jpg",
+            "cover_image": "http://img.daling.com/data/files/mobile/2017/07/21/15006399742451.jpg",
+            "stock": 2576,
+            "title_desc": "水光肌养成三部曲"
+          }
+        },
+        {
+          "info": {
+            "goods_name": "77松塔千层酥饼干(192克)",
+            "country": "台湾",
+            "sale_type_maps": [
+              {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 230,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              }
+            ],
+            "prefix": "",
+            "add_cart_num": 86,
+            "old_price": 28.8,
+            "sale_type": [
+              "0",
+              "1",
+              "2"
+            ],
+            "description": "77松塔千层酥饼干(192克)",
+            "goods_id": "274714",
+            "price_off": 7.4,
+            "brand_name": "宏亚",
+            "if_special": 1,
+            "display_type": "flat",
+            "pc_default_image": "http://img.daling.com/data/files/zin/2017/02/20/FA163E0BD2F9H2KF2KN7U0FQ4IQ.jpg",
+            "image_pc": "http://img.daling.com/data/files/zin/2017/02/20/FA163E0C4D3EH2KF2KSFVECR1JR.jpg",
+            "price": 28.8,
+            "short_goods_name": "77松塔千层酥饼干(192克)",
+            "default_thumb": "http://img.daling.com/data/files/zin/2017/02/20/FA163E0BD2F9H2KF2KN7U0FQ4IQ.jpg",
+            "market_price": 38.8,
+            "default_image": "http://img.daling.com/data/files/zin/2017/02/20/FA163E0BD2F9H2KF2KN7U0FQ4IQ.jpg",
+            "cover_image": "http://img.daling.com/data/files/zin/2017/02/20/FA163E0BD2F9H2KF2KN7U0FQ4IQ.jpg",
+            "stock": 96,
+            "title_desc": "层次分明香甜无穷",
+            "sale_type_info": {
+              "small": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+                "w": 60,
+                "h": 68,
+                "x": 230,
+                "y": 1
+              },
+              "big": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+                "w": 60,
+                "h": 68,
+                "x": 550,
+                "y": 1
+              },
+              "mark": true
+            }
+          }
+        },
+        {
+          "info": {
+            "country": "韩国",
+            "prefix": "",
+            "sale_type": [
+              "0",
+              "1",
+              "2",
+              "190"
+            ],
+            "description": "红吕染烫修复损伤洗护套装(450g+450ml)",
+            "display_type": "flat",
+            "image_pc": "http://img.daling.com/data/files/mobile/2017/07/25/1500966894803.jpg",
+            "price": 99,
+            "default_thumb": "http://img.daling.com/data/files/mobile/2017/07/25/15009668839611.jpg",
+            "cover_image": "http://img.daling.com/data/files/mobile/2017/07/25/15009668839611.jpg",
+            "stock": 469,
+            "title_desc": "韩方美人养发秘法",
+            "goods_name": "红吕染烫修复损伤洗护套装(450g+450ml)",
+            "sale_type_maps": [
+              {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 230,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              },
+              {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 190,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              },
+              {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581232277639.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 190,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/16/1458123221930.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              }
+            ],
+            "add_cart_num": 56,
+            "old_price": 105,
+            "goods_id": "299444",
+            "price_off": 5,
+            "brand_name": "吕",
+            "if_special": 1,
+            "pc_default_image": "http://img.daling.com/data/files/mobile/2017/07/25/15009668839611.jpg",
+            "short_goods_name": "红吕染烫修复损伤洗护套装(450g+450ml)",
+            "market_price": 196,
+            "default_image": "http://img.daling.com/data/files/mobile/2017/07/25/15009668839611.jpg",
+            "icon_display": [
+              {
+                "txt": "无敌价",
+                "back_ground_color": "#ff5d5a"
+              }
+            ],
+            "sale_type_info": {
+              "small": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+                "w": 60,
+                "h": 68,
+                "x": 230,
+                "y": 1
+              },
+              "big": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+                "w": 60,
+                "h": 68,
+                "x": 550,
+                "y": 1
+              },
+              "mark": true
+            }
+          }
+        },
+        {
+          "list": [
+            {
+              "goods_name": "美氏婷牛奶卸妆乳 (100ml )",
+              "country": "泰国",
+              "sale_type_maps": [
+                {
+                  "small": {
+                    "img": "http://img.daling.com/data/files/mobile/2016/05/11/14629355775248.png",
+                    "w": 60,
+                    "h": 68,
+                    "x": 1,
+                    "y": 1
+                  },
+                  "big": {
+                    "img": "http://img.daling.com/data/files/mobile/2016/05/11/14629355642018.png",
+                    "w": 60,
+                    "h": 68,
+                    "x": 550,
+                    "y": 1
+                  },
+                  "mark": true
+                },
+                {
+                  "small": {
+                    "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581232277639.png",
+                    "w": 60,
+                    "h": 68,
+                    "x": 190,
+                    "y": 1
+                  },
+                  "big": {
+                    "img": "http://img.daling.com/data/files/mobile/2016/03/16/1458123221930.png",
+                    "w": 60,
+                    "h": 68,
+                    "x": 550,
+                    "y": 1
+                  },
+                  "mark": true
+                }
+              ],
+              "prefix": "[泰国Mistine]",
+              "add_cart_num": 225,
+              "old_price": 49,
+              "sale_type": [
+                "2",
+                "123",
+                "68888",
+                "190"
+              ],
+              "description": "这款泰国的Mistine牛奶卸妆乳，具有醇厚的乳液质地，能快速产生大量浓密泡沫，有弹性的柔密泡沫环绕肌肤，不只去除素颜的污垢，更可温柔卸除淡妆。特特别的是，它还加入了保湿型卸妆成分丝胶蛋白和美容液，在使用的时候可以提升肌肤的滋润感，更加有效的呵护滋养肌肤。",
+              "goods_id": "297651",
+              "price_off": 4.9,
+              "brand_name": "mistine",
+              "if_special": 1,
+              "display_type": "flat",
+              "pc_default_image": "http://img.daling.com/data/files/mobile/2015/04/17/14292419159382.jpg",
+              "image_pc": "http://img.daling.com/data/files/mobile/2015/04/17/14292419482026.jpg",
+              "price": 49,
+              "short_goods_name": "美氏婷牛奶卸妆乳 (100ml )",
+              "default_thumb": "http://img.daling.com/data/files/mobile/2015/04/17/14292419159382.jpg",
+              "market_price": 99,
+              "default_image": "http://img.daling.com/data/files/mobile/2015/04/17/14292419159382.jpg",
+              "cover_image": "http://img.daling.com/data/files/mobile/2015/04/17/14292419159382.jpg",
+              "stock": 154,
+              "title_desc": "",
+              "sale_type_info": {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/05/11/14629355775248.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 1,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/05/11/14629355642018.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              }
+            },
+            {
+              "country": "法国",
+              "prefix": "[法国Bioderma]",
+              "sale_type": [
+                "0",
+                "123"
+              ],
+              "description": "贝德玛敏感肌肤卸妆水(法国版/C版)",
+              "display_type": "flat",
+              "image_pc": "http://img.daling.com/data/files/mobile/2017/06/01/14963107673879.jpg",
+              "price": 89,
+              "default_thumb": "http://img.daling.com/data/files/mobile/2017/06/01/14963107573269.jpg",
+              "cover_image": "http://img.daling.com/data/files/mobile/2017/06/01/14963107573269.jpg",
+              "stock": 5393,
+              "title_desc": "敏感党“踏实卸”",
+              "goods_name": "贝德玛敏感肌肤卸妆水(法国版/C版)",
+              "sale_type_maps": [
+                {
+                  "small": {
+                    "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                    "w": 60,
+                    "h": 68,
+                    "x": 190,
+                    "y": 1
+                  },
+                  "big": {
+                    "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                    "w": 60,
+                    "h": 68,
+                    "x": 550,
+                    "y": 1
+                  },
+                  "mark": true
+                }
+              ],
+              "add_cart_num": 186867,
+              "old_price": 118,
+              "goods_id": "119675",
+              "price_off": 3.9,
+              "brand_name": "Bioderma",
+              "if_special": 1,
+              "pc_default_image": "http://img.daling.com/data/files/mobile/2017/06/01/14963107573269.jpg",
+              "short_goods_name": "贝德玛敏感肌肤卸妆水(法国版/C版)",
+              "market_price": 228,
+              "default_image": "http://img.daling.com/data/files/mobile/2017/06/01/14963107573269.jpg",
+              "icon_display": [
+                {
+                  "txt": "无敌价",
+                  "back_ground_color": "#ff5d5a"
+                }
+              ],
+              "sale_type_info": {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 190,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              }
+            },
+            {
+              "country": "韩国",
+              "prefix": "[韩国Leaders]",
+              "sale_type": [
+                "0",
+                "123"
+              ],
+              "description": "丽得姿水库面膜贴(25ml*10)",
+              "display_type": "flat",
+              "image_pc": "http://img.daling.com/data/files/mobile/2017/04/10/14917984251549.jpg",
+              "price": 69,
+              "default_thumb": "http://img.daling.com/data/files/mobile/2017/04/10/1491798419100.jpg",
+              "cover_image": "http://img.daling.com/data/files/mobile/2017/04/10/1491798419100.jpg",
+              "stock": 9930,
+              "title_desc": "韩国膜界补水神话",
+              "goods_name": "丽得姿水库面膜贴(25ml*10)",
+              "sale_type_maps": [
+                {
+                  "small": {
+                    "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+                    "w": 60,
+                    "h": 68,
+                    "x": 230,
+                    "y": 1
+                  },
+                  "big": {
+                    "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+                    "w": 60,
+                    "h": 68,
+                    "x": 550,
+                    "y": 1
+                  },
+                  "mark": true
+                }
+              ],
+              "add_cart_num": 241738,
+              "old_price": 69,
+              "goods_id": "112137",
+              "price_off": 4.9,
+              "brand_name": "丽得姿",
+              "if_special": 1,
+              "pc_default_image": "http://img.daling.com/data/files/mobile/2017/04/10/1491798419100.jpg",
+              "short_goods_name": "丽得姿水库面膜贴(25ml*10)",
+              "market_price": 139,
+              "default_image": "http://img.daling.com/data/files/mobile/2017/04/10/1491798419100.jpg",
+              "icon_display": [
+                {
+                  "txt": "199元选6件",
+                  "back_ground_color": "#f5773a"
+                }
+              ],
+              "sale_type_info": {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 230,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              }
+            },
+            {
+              "country": "法国",
+              "prefix": "[法国Evian]",
+              "sale_type": [
+                "0",
+                "123",
+                "190"
+              ],
+              "description": "依云天然矿泉水喷雾(400ml*2) 效期截止18年7月",
+              "display_type": "flat",
+              "image_pc": "http://img.daling.com/data/files/mobile/2017/06/14/14974287029098.jpg",
+              "price": 69,
+              "default_thumb": "http://img.daling.com/data/files/mobile/2017/06/14/14974286472081.jpg",
+              "cover_image": "http://img.daling.com/data/files/mobile/2017/06/14/14974286472081.jpg",
+              "stock": 1799,
+              "title_desc": "随时补水无添加",
+              "goods_name": "依云天然矿泉水喷雾(400ml*2) 效期截止18年7月",
+              "sale_type_maps": [
+                {
+                  "small": {
+                    "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                    "w": 60,
+                    "h": 68,
+                    "x": 190,
+                    "y": 1
+                  },
+                  "big": {
+                    "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                    "w": 60,
+                    "h": 68,
+                    "x": 550,
+                    "y": 1
+                  },
+                  "mark": true
+                },
+                {
+                  "small": {
+                    "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581232277639.png",
+                    "w": 60,
+                    "h": 68,
+                    "x": 190,
+                    "y": 1
+                  },
+                  "big": {
+                    "img": "http://img.daling.com/data/files/mobile/2016/03/16/1458123221930.png",
+                    "w": 60,
+                    "h": 68,
+                    "x": 550,
+                    "y": 1
+                  },
+                  "mark": true
+                }
+              ],
+              "add_cart_num": 11882,
+              "old_price": 119,
+              "goods_id": "176656",
+              "price_off": 2.6,
+              "brand_name": "Evian",
+              "if_special": 1,
+              "pc_default_image": "http://img.daling.com/data/files/mobile/2017/06/14/14974286472081.jpg",
+              "short_goods_name": "依云天然矿泉水喷雾(400ml*2)",
+              "market_price": 260,
+              "default_image": "http://img.daling.com/data/files/mobile/2017/06/14/14974286472081.jpg",
+              "icon_display": [
+                {
+                  "txt": "无敌价",
+                  "back_ground_color": "#ff5d5a"
+                }
+              ],
+              "sale_type_info": {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 190,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              }
+            }
+          ]
+        },
+        {
+          "info": {
+            "country": "韩国",
+            "prefix": "",
+            "sale_type": [
+              "0",
+              "123"
+            ],
+            "description": "水光樱花三部曲补水焕白面膜(10片)",
+            "display_type": "flat",
+            "image_pc": "http://img.daling.com/data/files/mobile/2016/12/09/14812625507952.jpg",
+            "price": 89,
+            "default_thumb": "http://img.daling.com/data/files/mobile/2016/06/27/14670194402707.jpg",
+            "cover_image": "http://img.daling.com/data/files/mobile/2016/06/27/14670194402707.jpg",
+            "stock": 10219,
+            "title_desc": "敷白脸蛋几个度",
+            "goods_name": "水光樱花三部曲补水焕白面膜(10片)",
+            "sale_type_maps": [
+              {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 190,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              }
+            ],
+            "add_cart_num": 30659,
+            "old_price": 109,
+            "goods_id": "147798",
+            "price_off": 4.4,
+            "brand_name": "JAYJUN",
+            "if_special": 1,
+            "pc_default_image": "http://img.daling.com/data/files/mobile/2016/06/27/14670194402707.jpg",
+            "short_goods_name": "水光樱花三部曲补水焕白面膜(10片)",
+            "market_price": 199,
+            "default_image": "http://img.daling.com/data/files/mobile/2016/06/27/14670194402707.jpg",
+            "icon_display": [
+              {
+                "txt": "无敌价",
+                "back_ground_color": "#ff5d5a"
+              }
+            ],
+            "sale_type_info": {
+              "small": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                "w": 60,
+                "h": 68,
+                "x": 190,
+                "y": 1
+              },
+              "big": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                "w": 60,
+                "h": 68,
+                "x": 550,
+                "y": 1
+              },
+              "mark": true
+            }
+          }
+        },
+        {
+
+          "info": {
+            "country": "韩国",
+            "prefix": "[韩国爱茉莉]",
+            "sale_type": [
+              "0",
+              "123"
+            ],
+            "description": "玫瑰橄榄蜂蜜护发精华(70ml)",
+            "display_type": "flat",
+            "image_pc": "http://img.daling.com/data/files/mobile/2017/07/06/14993234108776.jpg",
+            "price": 58,
+            "default_thumb": "http://img.daling.com/data/files/mobile/2014/11/05/14151577863062.JPG",
+            "cover_image": "http://img.daling.com/data/files/mobile/2014/11/05/14151577863062.JPG",
+            "stock": 4432,
+            "title_desc": "女星美发大公开",
+            "goods_name": "玫瑰橄榄蜂蜜护发精华(70ml)",
+            "sale_type_maps": [
+              {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 230,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              }
+            ],
+            "add_cart_num": 147376,
+            "old_price": 58,
+            "goods_id": "115059",
+            "price_off": 4.5,
+            "brand_name": "爱茉莉",
+            "if_special": 1,
+            "pc_default_image": "http://img.daling.com/data/files/mobile/2014/11/05/14151577863062.JPG",
+            "short_goods_name": "玫瑰蜂蜜护发精华(70ml)",
+            "market_price": 128,
+            "default_image": "http://img.daling.com/data/files/mobile/2014/11/05/14151577863062.JPG",
+            "icon_display": [
+              {
+                "txt": "199元选6件",
+                "back_ground_color": "#f5773a"
+              }
+            ],
+            "sale_type_info": {
+              "small": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236684140.png",
+                "w": 60,
+                "h": 68,
+                "x": 230,
+                "y": 1
+              },
+              "big": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/16/14581236597305.png",
+                "w": 60,
+                "h": 68,
+                "x": 550,
+                "y": 1
+              },
+              "mark": true
+            }
+          }
+        },
+        {
+          "title_color": "#000000",
+          "type": "goods",
+          "title": "",
+          "info": {
+            "goods_name": "高纯度玻尿酸(30ml)",
+            "country": "美国",
+            "prefix": "[美国Timeless]",
+            "add_cart_num": 88356,
+            "old_price": 59,
+            "sale_type": [
+              "0",
+              "123"
+            ],
+            "description": "高纯度玻尿酸(30ml)",
+            "goods_id": "114482",
+            "price_off": 5.7,
+            "brand_name": "Timeless",
+            "if_special": 1,
+            "display_type": "flat",
+            "pc_default_image": "http://img.daling.com/data/files/mobile/2015/07/09/14364332073695.jpg",
+            "image_pc": "http://img.daling.com/data/files/mobile/2015/12/03/14491273274543.jpg",
+            "price": 59,
+            "short_goods_name": "很高纯度玻尿酸(30ml)",
+            "default_thumb": "http://img.daling.com/data/files/mobile/2015/07/09/14364332073695.jpg",
+            "market_price": 103,
+            "default_image": "http://img.daling.com/data/files/mobile/2015/07/09/14364332073695.jpg",
+            "cover_image": "http://img.daling.com/data/files/mobile/2015/07/09/14364332073695.jpg",
+            "stock": 3365,
+            "title_desc": "一瓶搞定肌肤问题"
+          }
+        },
+        {
+          "title_color": "#000000",
+          "type": "goods",
+          "title": "",
+          "info": {
+            "country": "日本",
+            "prefix": "[日本freeplus]",
+            "sale_type": [
+              "0",
+              "123"
+            ],
+            "description": "芙丽芳丝净润洗面奶(100g)",
+            "display_type": "flat",
+            "image_pc": "http://img.daling.com/data/files/mobile/2016/02/03/14544839674288.jpg",
+            "price": 85,
+            "default_thumb": "http://img.daling.com/data/files/mobile/2015/01/28/14224311073899.jpg",
+            "cover_image": "http://img.daling.com/data/files/mobile/2015/01/28/14224311073899.jpg",
+            "stock": 2757,
+            "title_desc": "泡泡洁面主义",
+            "goods_name": "芙丽芳丝净润洗面奶(100g)",
+            "sale_type_maps": [
+              {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 190,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              }
+            ],
+            "add_cart_num": 171123,
+            "old_price": 102,
+            "goods_id": "109092",
+            "price_off": 5.6,
+            "brand_name": "Freeplus",
+            "if_special": 1,
+            "pc_default_image": "http://img.daling.com/data/files/mobile/2015/01/28/14224311073899.jpg",
+            "short_goods_name": "净润洗面奶(100g)",
+            "market_price": 150,
+            "default_image": "http://img.daling.com/data/files/mobile/2015/01/28/14224311073899.jpg",
+            "icon_display": [
+              {
+                "txt": "无敌价",
+                "back_ground_color": "#ff5d5a"
+              },
+              {
+                "txt": "买赠",
+                "back_ground_color": "#e55c90"
+              }
+            ],
+            "sale_type_info": {
+              "small": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                "w": 60,
+                "h": 68,
+                "x": 190,
+                "y": 1
+              },
+              "big": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                "w": 60,
+                "h": 68,
+                "x": 550,
+                "y": 1
+              },
+              "mark": true
+            }
+          }
+        },
+        {
+          "title_color": "#000000",
+          "type": "goods",
+          "title": "",
+          "info": {
+            "country": "日本",
+            "prefix": "",
+            "sale_type": [
+              "0",
+              "123"
+            ],
+            "description": "毛孔收敛水(100ml)",
+            "display_type": "flat",
+            "image_pc": "http://img.daling.com/data/files/mobile/2016/09/12/14736679269375.jpg",
+            "price": 88,
+            "default_thumb": "http://img.daling.com/data/files/zin/2016/05/27/FA163E0BD2F9G5RB1GZ83HIH8FI.jpg",
+            "cover_image": "http://img.daling.com/data/files/zin/2016/05/27/FA163E0BD2F9G5RB1GZ83HIH8FI.jpg",
+            "stock": 1116,
+            "title_desc": "收缩毛孔必备",
+            "goods_name": "毛孔收敛水(100ml)",
+            "sale_type_maps": [
+              {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 190,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              }
+            ],
+            "add_cart_num": 14852,
+            "old_price": 126,
+            "goods_id": "282718",
+            "price_off": 4.4,
+            "brand_name": "Dr.Ci:Labo城野医生",
+            "if_special": 1,
+            "pc_default_image": "http://img.daling.com/data/files/zin/2016/05/27/FA163E0BD2F9G5RB1GZ83HIH8FI.jpg",
+            "short_goods_name": "毛孔收敛水(100ml)",
+            "market_price": 198,
+            "default_image": "http://img.daling.com/data/files/zin/2016/05/27/FA163E0BD2F9G5RB1GZ83HIH8FI.jpg",
+            "icon_display": [
+              {
+                "txt": "无敌价",
+                "back_ground_color": "#ff5d5a"
+              }
+            ],
+            "sale_type_info": {
+              "small": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                "w": 60,
+                "h": 68,
+                "x": 190,
+                "y": 1
+              },
+              "big": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                "w": 60,
+                "h": 68,
+                "x": 550,
+                "y": 1
+              },
+              "mark": true
+            }
+          }
+        },
+        {
+          "title_color": "#000000",
+          "type": "goods",
+          "title": "",
+          "info": {
+            "country": "美国",
+            "prefix": "[美国Max factor]",
+            "sale_type": [
+              "123"
+            ],
+            "description": "水润保湿控油有效遮瑕透滑粉饼(01#/10g)",
+            "display_type": "flat",
+            "image_pc": "http://img.daling.com/data/files/mobile/2015/07/29/1438139030197.jpg",
+            "price": 62,
+            "default_thumb": "http://img.daling.com/data/files/mobile/2015/07/29/14381389783820.jpg",
+            "cover_image": "http://img.daling.com/data/files/mobile/2015/07/29/14381389783820.jpg",
+            "stock": 359,
+            "title_desc": "定妆圣品",
+            "goods_name": "水润保湿控油有效遮瑕透滑粉饼(01#/10g)",
+            "sale_type_maps": [
+              {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 190,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              }
+            ],
+            "add_cart_num": 20909,
+            "old_price": 99,
+            "goods_id": "115587",
+            "price_off": 3.9,
+            "brand_name": "Max factor",
+            "if_special": 1,
+            "pc_default_image": "http://img.daling.com/data/files/mobile/2015/07/29/14381389783820.jpg",
+            "short_goods_name": "水润保湿控油有效遮瑕透滑粉饼(01#/10g)",
+            "market_price": 158,
+            "default_image": "http://img.daling.com/data/files/mobile/2015/07/29/14381389783820.jpg",
+            "icon_display": [
+              {
+                "txt": "无敌价",
+                "back_ground_color": "#ff5d5a"
+              }
+            ],
+            "sale_type_info": {
+              "small": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                "w": 60,
+                "h": 68,
+                "x": 190,
+                "y": 1
+              },
+              "big": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                "w": 60,
+                "h": 68,
+                "x": 550,
+                "y": 1
+              },
+              "mark": true
+            }
+          }
+        },
+        {
+          "title_color": "#000000",
+          "type": "goods",
+          "title": "",
+          "info": {
+            "country": "韩国",
+            "prefix": "[韩国VDL]",
+            "sale_type": [
+              "0",
+              "123"
+            ],
+            "description": "光泽肌肤贝壳提亮液(30ml)",
+            "display_type": "flat",
+            "image_pc": "http://img.daling.com/data/files/mobile/2015/12/14/14500601043108.jpg",
+            "price": 89,
+            "default_thumb": "http://img.daling.com/data/files/mobile/2015/01/30/14226137396451.jpg",
+            "cover_image": "http://img.daling.com/data/files/mobile/2015/01/30/14226137396451.jpg",
+            "stock": 1020,
+            "title_desc": "心机妆迷倒他",
+            "goods_name": "光泽肌肤贝壳提亮液(30ml)",
+            "sale_type_maps": [
+              {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 190,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              }
+            ],
+            "add_cart_num": 90822,
+            "old_price": 109,
+            "goods_id": "114836",
+            "price_off": 4,
+            "brand_name": "VDL",
+            "if_special": 1,
+            "pc_default_image": "http://img.daling.com/data/files/mobile/2015/01/30/14226137396451.jpg",
+            "short_goods_name": "光泽肌肤贝壳提亮液(30ml)",
+            "market_price": 219,
+            "default_image": "http://img.daling.com/data/files/mobile/2015/01/30/14226137396451.jpg",
+            "icon_display": [
+              {
+                "txt": "无敌价",
+                "back_ground_color": "#ff5d5a"
+              }
+            ],
+            "sale_type_info": {
+              "small": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                "w": 60,
+                "h": 68,
+                "x": 190,
+                "y": 1
+              },
+              "big": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                "w": 60,
+                "h": 68,
+                "x": 550,
+                "y": 1
+              },
+              "mark": true
+            }
+          }
+        },
+        {
+          "title_color": "#000000",
+          "type": "goods",
+          "title": "",
+          "info": {
+            "country": "法国",
+            "prefix": "[法国Avene]",
+            "sale_type": [
+              "0",
+              "123"
+            ],
+            "description": "雅漾舒护活泉水喷雾(300ml)",
+            "display_type": "flat",
+            "image_pc": "http://img.daling.com/data/files/mobile/2015/07/10/14365241426760.jpg",
+            "price": 86,
+            "default_thumb": "http://img.daling.com/data/files/mobile/2017/05/15/14948225799786.jpg",
+            "cover_image": "http://img.daling.com/data/files/mobile/2017/05/15/14948225799786.jpg",
+            "stock": 591,
+            "title_desc": "一“键”补水润肤",
+            "goods_name": "雅漾舒护活泉水喷雾(300ml)",
+            "sale_type_maps": [
+              {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 190,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              }
+            ],
+            "add_cart_num": 202926,
+            "old_price": 109,
+            "goods_id": "114605",
+            "price_off": 4.6,
+            "brand_name": "Avene",
+            "if_special": 1,
+            "pc_default_image": "http://img.daling.com/data/files/mobile/2017/05/15/14948225799786.jpg",
+            "short_goods_name": "雅漾舒护活泉水喷雾(300ml)",
+            "market_price": 185,
+            "default_image": "http://img.daling.com/data/files/mobile/2017/05/15/14948225799786.jpg",
+            "icon_display": [
+              {
+                "txt": "无敌价",
+                "back_ground_color": "#ff5d5a"
+              }
+            ],
+            "sale_type_info": {
+              "small": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                "w": 60,
+                "h": 68,
+                "x": 190,
+                "y": 1
+              },
+              "big": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                "w": 60,
+                "h": 68,
+                "x": 550,
+                "y": 1
+              },
+              "mark": true
+            }
+          }
+        },
+        {
+          "title_color": "#000000",
+          "type": "goods",
+          "title": "",
+          "info": {
+            "goods_name": "欣兰黑里透白冻膜面膜(225g)",
+            "country": "台湾",
+            "prefix": "[台湾DMC]",
+            "add_cart_num": 113859,
+            "old_price": 128,
+            "sale_type": [
+              "0",
+              "123"
+            ],
+            "description": "欣兰黑里透白冻膜面膜(225g)",
+            "goods_id": "108932",
+            "price_off": 6.4,
+            "brand_name": "DMC",
+            "if_special": 1,
+            "display_type": "flat",
+            "pc_default_image": "http://img.daling.com/data/files/mobile/2015/01/22/14219219557169.jpg",
+            "image_pc": "http://img.daling.com/data/files/mobile/2016/03/17/14581982567130.jpg",
+            "price": 128,
+            "short_goods_name": "欣兰冻膜面膜(225g)",
+            "default_thumb": "http://img.daling.com/data/files/mobile/2015/01/22/14219219557169.jpg",
+            "market_price": 199,
+            "default_image": "http://img.daling.com/data/files/mobile/2015/01/22/14219219557169.jpg",
+            "cover_image": "http://img.daling.com/data/files/mobile/2015/01/22/14219219557169.jpg",
+            "stock": 1459,
+            "title_desc": "肌肤“大扫除”必备",
+            "icon_display": [
+              {
+                "txt": "买赠",
+                "back_ground_color": "#e55c90"
+              }
+            ]
+          }
+        },
+        {
+          "title_color": "#000000",
+          "type": "goods",
+          "title": "",
+          "info": {
+            "country": "美国",
+            "prefix": "",
+            "sale_type": [
+              "0",
+              "123"
+            ],
+            "description": "露华浓不脱色粉底液(混合&油性/150#/30g)",
+            "display_type": "flat",
+            "image_pc": "http://img.daling.com/data/files/mobile/2017/07/01/14988893176705.jpg",
+            "price": 65,
+            "default_thumb": "http://img.daling.com/data/files/mobile/2016/09/05/14730644894205.jpg",
+            "cover_image": "http://img.daling.com/data/files/mobile/2016/09/05/14730644894205.jpg",
+            "stock": 787,
+            "title_desc": "一整天都不脱妆",
+            "goods_name": "露华浓不脱色粉底液(混合&油性/150#/30g)",
+            "sale_type_maps": [
+              {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 190,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              }
+            ],
+            "add_cart_num": 4371,
+            "old_price": 76,
+            "goods_id": "263839",
+            "price_off": 3.8,
+            "brand_name": "Revlon",
+            "if_special": 1,
+            "pc_default_image": "http://img.daling.com/data/files/mobile/2016/09/05/14730644894205.jpg",
+            "short_goods_name": "露华浓不脱色粉底液(混合&油性/150#/30g)",
+            "market_price": 168,
+            "default_image": "http://img.daling.com/data/files/mobile/2016/09/05/14730644894205.jpg",
+            "icon_display": [
+              {
+                "txt": "无敌价",
+                "back_ground_color": "#ff5d5a"
+              }
+            ],
+            "sale_type_info": {
+              "small": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                "w": 60,
+                "h": 68,
+                "x": 190,
+                "y": 1
+              },
+              "big": {
+                "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                "w": 60,
+                "h": 68,
+                "x": 550,
+                "y": 1
+              },
+              "mark": true
+            }
+          }
+        },
+        {
+          "title_color": "#000000",
+          "type": "window",
+          "title": "",
+          "list": [
+            {
+              "country": "国货精选",
+              "prefix": "[经典国货完美]",
+              "sale_type": [
+                "0",
+                "123"
+              ],
+              "description": "补水保湿芦荟胶(40g/支*2支)",
+              "display_type": "flat",
+              "image_pc": "http://img.daling.com/data/files/mobile/2016/02/05/14546651771706.jpg",
+              "price": 55,
+              "default_thumb": "http://img.daling.com/data/files/mobile/2015/01/12/14210516604821.jpg",
+              "cover_image": "http://img.daling.com/data/files/mobile/2015/01/12/14210516604821.jpg",
+              "stock": 194,
+              "title_desc": "“全能的芦荟胶”",
+              "goods_name": "补水保湿芦荟胶(40g/支*2支)",
+              "sale_type_maps": [
+                {
+                  "small": {
+                    "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                    "w": 60,
+                    "h": 68,
+                    "x": 190,
+                    "y": 1
+                  },
+                  "big": {
+                    "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                    "w": 60,
+                    "h": 68,
+                    "x": 550,
+                    "y": 1
+                  },
+                  "mark": true
+                }
+              ],
+              "add_cart_num": 72060,
+              "old_price": 69,
+              "goods_id": "108577",
+              "price_off": 7.8,
+              "brand_name": "完美",
+              "if_special": 1,
+              "pc_default_image": "http://img.daling.com/data/files/mobile/2015/01/12/14210516604821.jpg",
+              "short_goods_name": "补水保湿芦荟胶(40g/支*2支)",
+              "market_price": 70,
+              "default_image": "http://img.daling.com/data/files/mobile/2015/01/12/14210516604821.jpg",
+              "icon_display": [
+                {
+                  "txt": "无敌价",
+                  "back_ground_color": "#ff5d5a"
+                }
+              ],
+              "sale_type_info": {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 190,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              }
+            },
+            {
+              "country": "美国",
+              "prefix": "[美国Max factor]",
+              "sale_type": [
+                "0",
+                "123"
+              ],
+              "description": "蜜丝佛陀水漾触感粉底霜(40#/11.5g/新老包装随机发)",
+              "display_type": "flat",
+              "image_pc": "http://img.daling.com/data/files/mobile/2016/01/27/14539064618894.jpg",
+              "price": 67,
+              "default_thumb": "http://img.daling.com/data/files/mobile/2015/07/29/14381383011475.jpg",
+              "cover_image": "http://img.daling.com/data/files/mobile/2015/07/29/14381383011475.jpg",
+              "stock": 373,
+              "title_desc": "对抗油光和干燥",
+              "goods_name": "蜜丝佛陀水漾触感粉底霜(40#/11.5g/新老包装随机发)",
+              "sale_type_maps": [
+                {
+                  "small": {
+                    "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                    "w": 60,
+                    "h": 68,
+                    "x": 190,
+                    "y": 1
+                  },
+                  "big": {
+                    "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                    "w": 60,
+                    "h": 68,
+                    "x": 550,
+                    "y": 1
+                  },
+                  "mark": true
+                }
+              ],
+              "add_cart_num": 61721,
+              "old_price": 78,
+              "goods_id": "115585",
+              "price_off": 4.9,
+              "brand_name": "Max factor",
+              "if_special": 1,
+              "pc_default_image": "http://img.daling.com/data/files/mobile/2015/07/29/14381383011475.jpg",
+              "short_goods_name": "蜜丝佛陀水漾触感粉底霜(40#/11.5g/新老包装随机发)",
+              "market_price": 135,
+              "default_image": "http://img.daling.com/data/files/mobile/2015/07/29/14381383011475.jpg",
+              "icon_display": [
+                {
+                  "txt": "无敌价",
+                  "back_ground_color": "#ff5d5a"
+                }
+              ],
+              "sale_type_info": {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 190,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              }
+            },
+            {
+              "country": "韩国",
+              "prefix": "[韩国Papa Recipe]",
+              "sale_type": [
+                "0",
+                "123"
+              ],
+              "description": "春雨黑卢卡蜂蜜黑炭面膜(25g*10)",
+              "display_type": "flat",
+              "image_pc": "http://img.daling.com/data/files/mobile/2017/03/23/14902449793981.jpg",
+              "price": 89,
+              "default_thumb": "http://img.daling.com/data/files/mobile/2016/06/07/1465272204201.JPG",
+              "cover_image": "http://img.daling.com/data/files/mobile/2016/06/07/1465272204201.JPG",
+              "stock": 6390,
+              "title_desc": "肤色提亮看得见",
+              "goods_name": "春雨黑卢卡蜂蜜黑炭面膜(25g*10)",
+              "sale_type_maps": [
+                {
+                  "small": {
+                    "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                    "w": 60,
+                    "h": 68,
+                    "x": 190,
+                    "y": 1
+                  },
+                  "big": {
+                    "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                    "w": 60,
+                    "h": 68,
+                    "x": 550,
+                    "y": 1
+                  },
+                  "mark": true
+                }
+              ],
+              "add_cart_num": 1019,
+              "old_price": 109,
+              "goods_id": "270449",
+              "price_off": 5.6,
+              "brand_name": "Papa Recipe",
+              "if_special": 1,
+              "pc_default_image": "http://img.daling.com/data/files/mobile/2016/06/07/1465272204201.JPG",
+              "short_goods_name": "春雨黑卢卡蜂蜜黑炭面膜(25g*10)",
+              "market_price": 158,
+              "default_image": "http://img.daling.com/data/files/mobile/2016/06/07/1465272204201.JPG",
+              "icon_display": [
+                {
+                  "txt": "无敌价",
+                  "back_ground_color": "#ff5d5a"
+                }
+              ],
+              "sale_type_info": {
+                "small": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833597481.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 190,
+                  "y": 1
+                },
+                "big": {
+                  "img": "http://img.daling.com/data/files/mobile/2016/03/17/14581833489472.png",
+                  "w": 60,
+                  "h": 68,
+                  "x": 550,
+                  "y": 1
+                },
+                "mark": true
+              }
+            },
+            {
+              "goods_name": "[韩国TheSaem]得鲜99%济州岛祛痘美白芦荟胶啫喱 面膜(300ml) - 300ml",
+              "country": "韩国",
+              "prefix": "[韩国The Saem]",
+              "add_cart_num": 8995,
+              "old_price": 25,
+              "sale_type": [
+                "0",
+                "123"
+              ],
+              "description": "[韩国TheSaem]得鲜99%济州岛祛痘美白芦荟胶啫喱 面膜(300ml) - 300ml",
+              "goods_id": "112942",
+              "price_off": 4.2,
+              "brand_name": "the saem",
+              "if_special": 1,
+              "display_type": "flat",
+              "pc_default_image": "http://img.daling.com/data/files/mobile/2017/04/05/14913602355651.jpg",
+              "image_pc": "http://img.daling.com/data/files/mobile/2017/04/05/14913602421437.jpg",
+              "price": 25,
+              "short_goods_name": "[韩国TheSaem]得鲜99%济州岛祛痘美白芦荟胶啫喱 面膜(300ml) - 300ml",
+              "default_thumb": "http://img.daling.com/data/files/mobile/2017/04/05/14913602355651.jpg",
+              "market_price": 59,
+              "default_image": "http://img.daling.com/data/files/mobile/2017/04/05/14913602355651.jpg",
+              "cover_image": "http://img.daling.com/data/files/mobile/2017/04/05/14913602355651.jpg",
+              "stock": 6586,
+              "title_desc": "GD权志龙推荐"
+            }
+          ]
+        }
+      ],
+      "txt_side_color": ""
+    },
+    "module_list": []
+  },
+  "status": 200
+}

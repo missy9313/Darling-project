@@ -3,7 +3,7 @@
     <div class="top">
       <img src="../assets/clock.png" alt="">
       <p>下一场闪购即将开抢</p>
-      <p>还有：多时间</p>
+      <!--<p>还有：多时间</p>-->
     </div>
     <notice-goods></notice-goods>
   </div>

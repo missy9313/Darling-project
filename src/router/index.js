@@ -15,17 +15,9 @@ import Exit  from '@/components/mine/exit'
 import Today from '@/components/today'
 import Notice from '@/components/notice'
 
-import invincible from '@/components/leader/invincible'
-import ticket from '@/components/leader/ticket'
-import beauty from '@/components/leader/beauty'
-import bonded from '@/components/leader/bonded'
-import overseas from '@/components/leader/overseas'
-import fashion from '@/components/leader/fashion'
-import life from '@/components/leader/life'
-import snacks from '@/components/leader/snacks'
-import cloth from '@/components/leader/cloth'
-import special from '@/components/leader/special'
-import weeknews from '@/components/leader/weeknews'
+import leaderone from '@/components/leader/leaderone'
+
+
 
 import search from '@/components/search/search'
 import searchgoods from '@/components/search/searchgoods'
@@ -43,65 +35,13 @@ export default new Router({
         {
           path:'home',
           name:'home',
-          component:Home
-        ,
+          component:Home,
           children:[
             {
-              path:'invincible',
-              name:'invincible',
-              component:invincible
-            },
-            {
-              path:'ticket',
-              name:'ticket',
-              component:ticket
-            },
-            {
-              path:'beauty',
-              name:'beauty',
-              component:beauty
-            },
-            {
-              path:'bonded',
-              name:'bonded',
-              component:bonded
-            },
-            {
-              path:'overseas',
-              name:'overseas',
-              component:overseas
-            },
-            {
-              path:'fashion',
-              name:'fashion',
-              component:fashion
-            },
-            {
-              path:'life',
-              name:'life',
-              component:life
-            },
-            {
-              path:'snacks',
-              name:'snacks',
-              component:snacks
-            },
-            {
-              path:'cloth',
-              name:'cloth',
-              component:cloth
-            },
-            {
-              path:'special',
-              name:'special',
-              component:special
+              path:'leaderone',
+              name:'leaderone',
+              component:leaderone
             }
-            ,
-            {
-              path:'weeknews',
-              name:'weeknews',
-              component:weeknews
-            },
           ]
         },
         {
@@ -163,7 +103,8 @@ export default new Router({
       path:'/entergoods',
       name:'/entergoods',
       component:enterGoods
-    }
+    },
+
 
 
   ]

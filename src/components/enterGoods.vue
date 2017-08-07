@@ -11,23 +11,31 @@
         <p style="color:#f0593f">￥<span class="price">{{goodslist.origin_price}}</span></p>
       </div>
       <!--其他信息-->
+
       <div class="othersWrap">
         <div v-for="obj in others" class="others">
           <h4>
-            {{obj.name}}
-       </h4>
+          {{obj.name}}
+          </h4>
+          <div  class="imgWrap">
+            <div v-for="item in list">
+              <img v-bind:src="item.image">
+            </div>
+          </div>
           <p>
-            {{obj.txt}}
-      </p>
+          {{obj.txt}}
+          </p>
+
         </div>
       </div>
     </div>
-    <div class="gBottom">
-      <p @click="back">〈〈&nbsp;&nbsp;返回上一页</p>
       <button class="addCart"  @click="addcart(goodslist.goods_id)">加入购物车</button>
-
+    <div class="addS">
+      亲，已成功加入购物车~
+ </div>
+    <div class="backBtn">
+      <small-leader></small-leader>
     </div>
-
   </div>
 
 </template>
@@ -35,39 +43,48 @@
 <script>
   import axios from 'axios'
   import {urls} from '../router/urlList'
+  import smallLeader from '@/components/leader/smallLeader'
   export default{
     name:"entergoods",
     data(){
         return{
         key:true,
           goodslist:"",
-          others:'',
+          others:{},
           uId:'',
           arrdata:{},
           num:1,
           d:[],
           arrdataStr:"",
-          detailsId:''
+          detailsId:'',
+          list:{}
         }
+    },
+    components:{
+      smallLeader
     },
     methods:{
         back(){
-          window.history.go(-1)
+           window.history.go(-1)
         },
       addcart(id){
+          var aa=document.querySelector('.addS');
+          aa.style.display="block";
+          var time=setTimeout(function(){
+            aa.style.display="none";
+          },1000)
         axios.get(urls.httpBtUrlOne +"static/"+ id + '.json').then((res) => {
           this.d = res.data;
         })
           .catch((error) => {
             console.log(error + "err");
           });
-//        获取用户Id
+///        获取用户Id
         this.uId=localStorage.getItem('uId');
 //        判断用户是否存在
         if(!this.uId){
           this.$router.push('/mine');
         }
-//        先获取数据
 
         axios.get(urls.details+"/"+this.uId).then((res)=>{
 //            如果数据为空时，获取可简化
@@ -116,7 +133,10 @@
     var that=this;
       axios.get(urls.httpBtUrlOne+"static/"+this.key+'.json').then(function(res){
         that.goodslist=res.data
-        that.others=that.goodslist.special
+        that.others= Object.assign({},  that.others, that.goodslist.special);
+        for(var i in that.others){
+            that.list=Object.assign({},that.list,that.others[i].list)
+        }
       },function(err){
         console.log(err)
       });
@@ -125,6 +145,18 @@
   }
 </script>
 <style scoped>
+  .imgWrap{
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .imgWrap div{
+    width:50%;
+  }
+  .imgWrap div img{
+    width:70%;
+  }
   .pic{
     width:100%;
   }
@@ -157,23 +189,8 @@
         border-bottom: 1px solid #b05bc0;
         background-color:white;
         }
-.gBottom{
-  display: flex;
-  justify-content: space-between;
-  position:fixed;
-  bottom:0;
-  background-color: white;
-  border-top:1px solid #c0c0c0;
-  width:100%;
-  height:3rem;
-}
-.gBottom p{
-   width:50%;
-  font-size: 1.5rem;
-  height:3rem;
-  line-height: 3rem;
-  color:#b05bc0;
-}
+
+
   .addCart{
     width:40%;
     background-color: #b05bc0;
@@ -181,5 +198,28 @@
     height:3rem;
     color:white;
     font-size: 1.5rem;
+    position:fixed;
+    bottom:0;
+    left:60%;
+  }
+  .addS{
+    width:30%;
+    height:5rem;
+    position:fixed;
+    top:20rem;
+    left:40%;
+    display: none;
+    background-color: rgba(0,0,0,0.5);
+    color:white;
+    text-align: center;
+    line-height: 5rem;
+    border-radius: 0.5rem;
+  }
+  .backBtn{
+    width:30%;
+    z-index: 99;
+    position:fixed;
+    bottom:5rem;
+    right:2rem;
   }
 </style>

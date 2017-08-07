@@ -22,7 +22,7 @@
 
 <script>
   import axios from 'axios';
-  import {urls} from '../router/urlList'
+  import {urls} from '../../router/urlList'
   export default{
      name:'menus',
      data(){

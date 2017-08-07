@@ -29,8 +29,6 @@ export default{
   },
   created(){
       this.userName="达令"+localStorage.getItem('user');
-      console.log(localStorage.getItem('user'))
-
   },
   components:{
     order,

@@ -3,7 +3,7 @@
 
       <div class="cartTop">
         <span style="font-size: 1.6rem">我的购物车 </span>
-        <span class="redact">编辑</span>
+        <span class="redact" @click="dels=!dels">编辑</span>
       </div>
       <!--当购物车里没有商品时显示的页面-->
     <div class="nogoods" v-show="showcart">
@@ -20,21 +20,22 @@
     <div class="goodsInfo" v-for="(obj,index,sub) in goods">
       <span class="checks"  v-bind:class="{check:obj.checked}" @click="selectedProduct(obj,sub)"></span>
         <img v-bind:src="obj.img" @click="enterGoods(index)">
-      <div>
-        <p>{{obj.name}}</p>
-        <p>{{obj.info}}</p>
-        <p>
-          ￥<span class="price">{{obj.price}}</span>
-          <span class="control">
-            <span @click="obj.num--,changeCount()" v-show="obj.num>0" class="cut">-</span>
-            <span class="count" v-show="obj.num>0">{{obj.num}}</span>
-            <span @click="obj.num++,changeCount()">+</span>
-          </span>
-           <span style="margin-right:10%" @click="del(obj.id)">删除</span>
-        </p>
+      <div class="infoWraps">
+        <div>{{obj.name}}</div>
+        <div>{{obj.info}}</div>
+        <div>
+          <span class="price">￥{{obj.price}}</span>
+          <div class="cartcontrol">
+          <div class="cart-decrease"  @click="obj.num--,changeCount()" v-show="obj.num>0"  >- </div>
+          <div class="cart-count" v-show="obj.num>0">{{obj.num}}</div>
+          <div @click="obj.num++,changeCount()" class="cart-add">+</div>
+          </div>
+          <transition name="el-zoom-in-center">
+          <span style="margin-right:10%" @click="del(obj.id)" v-show="dels">删除</span>
+          </transition>
+        </div>
       </div>
     </div>
-
   </div>
     <!--结算条-->
     <div class="account">
@@ -64,6 +65,7 @@
     name: 'cart',
     data(){
       return {
+        dels:false,
         ids: "",
         goods: "",
         showcart: true,
@@ -77,14 +79,25 @@
         change0: "",
         bool0:'',
         arrdata: "",
-        all:true
+        all:true,
+        arr:''
       }
     },
     created(){
-      if (localStorage.getItem('goodsId')) {
+//        判断是否有商品
+      if (localStorage.getItem('goodsId') ||  localStorage.getItem('uId')) {
         this.showcart = false;
         this.ids = localStorage.getItem('goodsId')
+      }else if(!localStorage.getItem('goodsId')){
+        this.showcart = true;
       }
+//       if(localStorage.getItem('uId')){
+//         this.showcart = false;
+//       }else{
+//         this.showcart = true;
+//
+//       }
+
       this.uId = localStorage.getItem('uId');
       var that = this;
       axios.get(urls.details + "/" + this.uId).then(function (res) {
@@ -107,8 +120,6 @@
         for (var i in this.goods) {
           aa += this.goods[i].num * this.goods[i].price;
           if(this.goods[i].num===0){
-              this.bool0=true;
-              this.del();
           }
         }
         this.sum = aa;
@@ -248,43 +259,53 @@
     height:6rem;
     margin-right:2%;
   }
-  .goodsInfo div{
+  .infoWraps{
     width:100%;
      line-height:2rem;
   }
-.goodsInfo p{
-  display: flex;
-  width:100%;
-  justify-content: space-between;
-}
+
 /*加减控制器*/
-.control{
-  margin-left:35%;
+.cartcontrol{
+  margin-left: 47%;
+  margin-right:7%;
   display: inline-block;
   font-size: 0;
 }
-.control span:nth-child(1){
-   display: inline-block;
-   width:2.5rem;
-   height:2rem;
-   border:1px solid #ccc;
-   border-radius: 0.3rem 0 0 0.3rem;
-   text-align: center;
+.cart-decrease{
+  display: inline-block;
+  width:2rem;
+  height:2rem;
+  border:1px solid #b05bc0;
+  border-radius:50%;
+  text-align: center;
+  font-size: 2.4rem;
+  transition:all 0.4s linear
  }
-.control span:nth-child(2){
+.move-transition{
+  opacity:1;
+  transform:translate3D(0,0,0) ;
+}
+.move-enter,.move-leave{
+  opacity: 0;
+  transform:translate3D(24px,0,0)
+}
+.cart-count{
   display: inline-block;
   width:3rem;
-  height:2rem;
-  border:1px solid #ccc;
+  height:3rem;
   text-align: center;
+  font-size: 2rem;
 }
-.control span:nth-child(3){
+.cart-add{
   display: inline-block;
-  width:2.5rem;
+  width:2rem;
   height:2rem;
-  border:1px solid #ccc;
-  border-radius:0 0.3rem 0.3rem 0;
+  border:1px solid #b05bc0;
+  background-color: #b05bc0;
+  border-radius:50%;
   text-align: center;
+  color:white;
+  font-size: 2.4rem;
 }
 .goHome{
     display: inline-block;

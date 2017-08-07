@@ -20,6 +20,9 @@
         <div class="people">已加入购物车</div>
       </div>
     </div>
+    <div class="addS">
+         亲，已成功加入购物车~
+    </div>
   </div>
 </template>
 
@@ -52,6 +55,11 @@
     methods:{
 //        加入购物车
       addcart(id){
+          var aa=document.querySelector('.addS');
+          aa.style.display="block";
+        var time=setTimeout(function(){
+            aa.style.display="none";
+        },1000)
         axios.get(urls.httpBtUrlOne +"static/"+ id + '.json').then((res) => {
             this.d = res.data;
           })
@@ -60,6 +68,7 @@
           });
 //        获取用户Id
         this.uId=localStorage.getItem('uId');
+        console.log(this.uId)
 //        判断用户是否存在
         if(!this.uId){
           this.$router.push('/mine');
@@ -116,8 +125,6 @@
 </script>
 
 <style scoped>
-
-
   .infoWrap{
     width:100%;
 
@@ -172,7 +179,6 @@
     display: flex;
     justify-content: space-between;
   }
-
   .icon{
     width:3rem;
     height:3rem;
@@ -193,5 +199,17 @@
     background-color: #f9f9f9;
     color: #9f9f9f;
   }
-
+  .addS{
+    width:30%;
+    height:5rem;
+    position:fixed;
+    top:20rem;
+    left:40%;
+    display: none;
+    background-color: rgba(0,0,0,0.5);
+    color:white;
+    text-align: center;
+    line-height: 5rem;
+    border-radius: 0.5rem;
+  }
 </style>

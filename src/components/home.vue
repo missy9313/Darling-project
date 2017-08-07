@@ -1,8 +1,5 @@
 <template>
   <div>
-    <!--<div class="hhh">-->
-       <!--客官请稍后，玩命加载中~-->
-    <!--</div>-->
       <go-search></go-search>
       <leader></leader>
       <menus></menus>
@@ -11,35 +8,74 @@
         <img src="../assets/footer.b1cf18.png" alt="">
         <p>北京普缇客科技有限公司 Copyright@2016达令</p>
       </div>
+    <el-button type="primary" @click="openFullScreen" v-loading.fullscreen.lock="fullscreenLoading"
+               style="background-color:rgba(0,0,0,0) ;border:none">
 
+    </el-button>
+  <!--<div class="goTop">-->
+    <!--<go-top></go-top>-->
+  <!--</div>-->
   </div>
 
 </template>
 
 <script>
-import goSearch from '@/components/goSearch'
+import goSearch from '@/components/home/goSearch'
 import leader from '@/components/leader'
-import menus from '@/components/menus'
-import homeGoods from '@/components/homeGoods'
+import menus from '@/components/home/menus'
+import homeGoods from '@/components/home/homeGoods'
+//import goTop from '@/components/goTop'
 
   export default{
     name:'home',
+    data(){
+        return{
+          fullscreenLoading:false,
+          scroll:'',
+          top:''
+        }
+    },
     components:{
       goSearch,
       leader,
       menus,
-      homeGoods
-    }
-    ,
-//    created(){
-//        window.onload=function(){
-//            var hh=document.querySelector('.hhh');
-//            hh.style.display='none';
+      homeGoods,
+//      goTop
+    },
+    created(){
+      this.openFullScreen();
+    },
+    mounted() {
+//      window.addEventListener('scroll', this.goTop)
+    },
+    methods:{
+      openFullScreen() {
+        this.fullscreenLoading = true;
+        setTimeout(() => {
+          this.fullscreenLoading = false;
+        }, 1500);
+      },
+//      goTop(){
+//        this.scroll = document.body.scrollTop;
+//       this.top=document.querySelector('.goTop');
+//        if(parseInt(document.body.scrollTop)>5500){
+//          this.top.style.display='block';
+//        }else{
+//          this.top.style.display='none';
 //        }
-//    }
+//      }
+
+
+    }
   }
 </script>
 <style scoped>
+.goTop{
+  position:fixed;
+  top:30rem;
+  right:2rem;
+  display: none;
+}
   .homeBottom{
     width:100%;
     height:15rem;
@@ -54,18 +90,6 @@ import homeGoods from '@/components/homeGoods'
     text-align: center;
     color: #ccc;
   }
-  /*.hhh{*/
-    /*width:100%;*/
-    /*height:100rem;*/
-    /*background-color:rgba(255,255,255,0.7);*/
-    /*position: absolute;*/
-    /*top:0;*/
-    /*left:0;*/
-    /*z-index: 999;*/
-    /*text-align: center;*/
-    /*color:#b05bc0;*/
-    /*line-height:30rem;*/
-    /*font-size: 3rem;*/
-  /*}*/
+
 
 </style>

@@ -2,19 +2,20 @@
   <div class="classifyWrap">
     <!--分类页面的左侧控制栏-->
       <ul class="leftBar">
-        <li class="leftLi" v-for="(obj,index) in bar" @click="choose(index)">
-          {{obj.title}}
+        <li class="leftLi" v-for="(obj,index) in bar" @click="choose(index)" >
+         {{obj.title}}
        </li>
       </ul>
+
     <!--右侧内容显示-->
-    <div class="goodsWrap">
+    <div class="goodsWrap" >
          <template v-for="item in goods.block_list" >
            <div class="classTitle">
              {{item.title}}
               </div>
             <template v-for="item1 in item.list">
               <div class="classWrap">
-                  <img v-bind:src="item1.category_img_url" alt="图图不见了呢">
+                  <span><img v-bind:src="item1.category_img_url" alt="图图不见了呢"></span>
                   <p>{{item1.alt}}</p>
               </div>
             </template>
@@ -33,7 +34,8 @@
     data(){
         return{
           bar:true,
-          goods:{}
+          goods:{},
+
         }
     },
     created(){
@@ -132,8 +134,15 @@
   width:100%;
   text-align: center;
 }
+.classWrap span{
+  display: inline-block;
+  width:60%;
+  height:6rem;
+  border:1px solid white;
+  line-height: 6rem;
+}
   .classWrap img{
-    width:60%;
-    height:5.4rem;
+  width:100%;
+    height:100%;
   }
 </style>

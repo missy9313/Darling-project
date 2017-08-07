@@ -6,7 +6,7 @@
       </div>
       <div v-for="item in goodsinfo" class="info">
         <img v-bind:src='item.list[0].cover'>
-        <div class="timer">还剩多少时间</div>
+        <div class="timer">还剩</div>
       </div>
     </div>
 

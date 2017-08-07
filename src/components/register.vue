@@ -47,19 +47,22 @@
         this.mBtn1=document.querySelector('.mBtn1');
         this.yMa=document.querySelector('.yMa');
         this.mBtn2=document.querySelector('.mBtn2');
-        let mobileReg =/^[1][34578]\d{9}$/;
+        var mobileReg =/^[1][34578]\d{9}$/;
         if(mobileReg.test(this.phoneNum.value)){
           this.mBtn1.style.display="block";
           this.mBtn2.style.backgroundColor="#B349BD";
           this.user=this.phoneNum.value;
-          var self=this;
-          axios.post(urls.details,{
-              username:self.user,
-              password:"123"
-          }).then(function(res){
-            localStorage.setItem('user',self.user);
-            localStorage.setItem('uId',res.data.id)
-          })
+          localStorage.setItem('user',this.user);
+//          var that=this;
+//          axios.post(urls.details,{
+//            username:that.user,
+//            password:"123"
+//          }).then(function(res){
+//            localStorage.setItem('user',this.user);
+//            localStorage.setItem('uId',res.data.id);
+//          },function(err){
+//            console.log(err)
+//          });
 
           return this.bool1=true;
 
@@ -108,8 +111,42 @@
             this.loginBtn.style.backgroundColor='#B349BD';
         }
       },
+      find(){
+          var self=this;
+        axios.post(urls.details+'/login',{
+          username:self.user,
+          password:"123"
+        }).then(function(res){
+          localStorage.setItem('user',self.user);
+          localStorage.setItem('uId',res.data.uid);
+        },function(err){
+          console.log('登录'+err)
+        })
+      },
       login(){
+         var that=this;
+        axios.get(urls.details).then(function(res){
+            var self=that;
+           for(var i=0;i<res.data.length;i++){
+               var s=res.data[i].username;
+             if(s.indexOf(that.user)>-1){
+                that.find();
+             }else{
+                 axios.post(urls.details,{
+            username:self.user,
+            password:"123"
+          }).then(function(res){
+              localStorage.setItem('user',self.user);
+              localStorage.setItem('uId',res.data.id);
+          },function(err){
+            console.log(err)
+          });
+             }
+           }
+
+        })
         if(this.bool1 && this.bool2 ){
+
           this.loginBtn.style.backgroundColor='#B349BD';
           this.$router.push('/login')
         }

@@ -6,7 +6,7 @@
       </div>
       <div v-for="item in goodsinfo" class="info">
         <img v-bind:src='item.list[0].cover'>
-        <div class="timer">还剩多少时间</div>
+        <div class="timer"></div>
       </div>
 
     </div>
@@ -18,22 +18,23 @@
   import axios from 'axios';
   import {urls} from '../router/urlList'
   export default{
-    name:'superGoods',
+    name: 'superGoods',
     data(){
-      return{
-        title:true,
-        goodsinfo:true
+      return {
+        title: true,
+        goodsinfo: true,
+        timer: ''
       }
     },
     created(){
-      var self=this;
-      axios.get(urls.httpBtUrlOne+urls.httpBtUrlTwo).then(function(res){
-        self.goods=res.data.data.complex;
-        for(var i=0;i<self.goods.length;i++){
-          self.title=self.goods[0].txt
+            var self = this;
+      axios.get(urls.httpBtUrlOne + urls.httpBtUrlTwo).then(function (res) {
+        self.goods = res.data.data.complex;
+        for (var i = 0; i < self.goods.length; i++) {
+          self.title = self.goods[0].txt
         }
-        self.goodsinfo=res.data.data.complex[0].list;
-      },function(err){
+        self.goodsinfo = res.data.data.complex[0].list;
+      }, function (err) {
         console.log(err)
       })
     }

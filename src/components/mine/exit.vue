@@ -30,6 +30,7 @@
         },
       cancel(){
         this.sure.style.display='none';
+        window.history.go(-1);
       },
       yes(){
           localStorage.clear();

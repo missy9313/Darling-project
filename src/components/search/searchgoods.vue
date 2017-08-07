@@ -19,15 +19,27 @@
         <div class="people">已加入购物车</div>
       </div>
     </div>
+    <!--<div class="goTop">-->
+      <!--<go-top></go-top>-->
+    <!--</div>-->
+    <div class="backBtn">
+      <small-leader></small-leader>
+    </div>
   </div>
 </template>
 
 <script>
   import axios from 'axios'
   import {urls} from '../../router/urlList'
-  import GoSearch from "../goSearch";
+  import GoSearch from "../home/goSearch";
+//  import goTop from '@/components/goTop'
+  import smallLeader from '@/components/leader/smallLeader'
   export default{
-    components: {GoSearch},
+    components: {
+        GoSearch,
+//        goTop
+      smallLeader
+    },
     name:"searchgoods",
     data(){
         return{
@@ -39,7 +51,7 @@
     },
 
   mounted(){
-
+//    window.addEventListener('scroll', this.goTop)
   },
     created(){
       this.sel=this.$route.query.id;
@@ -54,11 +66,36 @@
                 console.log(err)
               });
           }
+    },
+    methods:{
+//      goTop(){
+//        this.scroll = document.body.scrollTop;
+//        var top=document.querySelector('.goTop');
+//        if(parseInt(document.body.scrollTop)>1500){
+//          top.style.display='block';
+//        }else{
+//          top.style.display='none';
+//        }
+//      }
+//
     }
 
   }
 </script>
 <style scoped>
+  .backBtn{
+    width:30%;
+    z-index: 99;
+    position:fixed;
+    bottom:5rem;
+    right:2rem;
+  }
+  .goTop{
+    position:fixed;
+    top:30rem;
+    right:2rem;
+    display: none;
+  }
   .infoWrap{
     width:100%;
     padding-top: 2rem;
