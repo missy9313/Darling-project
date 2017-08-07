@@ -15,7 +15,7 @@
               </div>
             <template v-for="item1 in item.list">
               <div class="classWrap">
-                  <span><img v-bind:src="item1.category_img_url" alt="图图不见了呢"></span>
+                  <span><img v-bind:src="item1.category_img_url" alt="Loading"></span>
                   <p>{{item1.alt}}</p>
               </div>
             </template>

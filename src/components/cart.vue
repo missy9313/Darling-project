@@ -31,7 +31,7 @@
           <div @click="obj.num++,changeCount()" class="cart-add">+</div>
           </div>
           <transition name="el-zoom-in-center">
-          <span style="margin-right:10%" @click="del(obj.id)" v-show="dels">删除</span>
+          <span style="margin-right:10%;color:red" @click="del(obj.id)" v-show="dels">删除</span>
           </transition>
         </div>
       </div>

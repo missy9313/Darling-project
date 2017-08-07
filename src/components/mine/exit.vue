@@ -1,5 +1,6 @@
 <template>
   <div>
+    <div class="top" @click="back">《《BACK</div>
     <div class="exit" @click="exit">
       退出账户
     </div>
@@ -35,12 +36,24 @@
       yes(){
           localStorage.clear();
           this.$router.push('/home');
+      },
+      back(){
+        window.history.go(-1);
       }
     }
   }
 </script>
 
 <style scoped>
+  .top{
+    width:100%;
+    height:4.4rem;
+    background-color: #efefef;
+    font-size: 1.4rem;
+    line-height: 4.4rem;
+    color:#666;
+
+  }
 .exit{
   width:90%;
   margin-top: 10rem;

@@ -47,8 +47,8 @@ export default{
   margin-bottom: 1rem;
 }
   .mTitle img{
-    width:15%;
-    height:4rem;
+    width:11%;
+    height:4.5rem;
     border-radius: 50%;
     margin:0.5rem;
   }
