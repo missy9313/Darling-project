@@ -35,7 +35,7 @@
     name:'guess',
     data(){
       return{
-        title:true,
+        title:"hi darling",
         goodsinfo:true
       }
     },
@@ -68,6 +68,8 @@
     text-align: center;
     font-size: 1.5rem;
     line-height: 5rem;
+    font-weight: 700;
+    color:pink;
   }
   .infoWrap{
     width:100%;

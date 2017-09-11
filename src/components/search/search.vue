@@ -18,13 +18,13 @@
            <div v-for="(obj,index) in searchList" @click="see(index)">{{obj.title}}</div>
         </div>
       </div>
-      <div class="historySearch">
-        <p class="sTitle">我的搜索历史</p>
-        <div class="historyWrap">
-          <!--<div v-for="obj in searchList">{{obj.title}}</div>-->
-        </div>
-      </div>
-      <div class="clear">清空搜索历史</div>
+      <!--<div class="historySearch">-->
+        <!--<p class="sTitle">我的搜索历史</p>-->
+        <!--<div class="historyWrap">-->
+          <!--&lt;!&ndash;<div v-for="obj in searchList">{{obj.title}}</div>&ndash;&gt;-->
+        <!--</div>-->
+      <!--</div>-->
+      <!--<div class="clear">清空搜索历史</div>-->
     </div>
   </div>
 </template>
@@ -57,7 +57,6 @@
         if (!e) {
           e = window.event;
         }
-        console.log(index)
         this.$router.push({path:"/searchgoods", query: {id: index}})
       },
 //      点击搜索搜索
@@ -69,8 +68,8 @@
       },
       searching(){
           this.inputs=document.querySelector('.search')
-         this.$router.push({path:"/searchgoods", query: {key:this.searchgoods}})
-         this.searched=this.inputs.value;
+          this.$router.push({path:"/searchgoods", query: {key:this.searchgoods}})
+          this.searched=this.inputs.value;
       }
     },
     created(){

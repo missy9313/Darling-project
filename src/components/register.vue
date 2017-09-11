@@ -1,8 +1,8 @@
 <template>
   <div>
-    <input type="text" placeholder="请输入手机号" v-on:change="tel" v-on:focus='hide' class="phone" v-on:blur="log">
+    <input type="text" placeholder="请输入手机号" v-on:blur="tel"  class="phone" >
     <div class="getMa">
-      <input type="text" placeholder="请输入验证码" class="yMa" v-on:change="yangzheng" v-on:focus='hide' v-on:blur="log">
+      <input type="text" placeholder="请输入验证码" class="yMa" v-on:change="yangzheng" v-on:blur="log">
       <button class="mBtn1" @click="getYma">获取验证码</button>
     </div>
     <div class="getMa">
@@ -11,7 +11,7 @@
     </div>
     <button class="loginBtn" @click="login">登录</button>
     <img src="../assets/logo.e8155d.png" alt="">
-    <div class="wrong"></div>
+    <!--<div class="wrong"></div>-->
   </div>
 
 </template>
@@ -19,6 +19,7 @@
 <script>
   import axios from 'axios'
   import {urls} from '../router/urlList';
+  import { Toast } from 'mint-ui';
   export default{
     name:'mine',
     data(){
@@ -52,7 +53,7 @@
           this.mBtn1.style.display="block";
           this.mBtn2.style.backgroundColor="#B349BD";
           this.user=this.phoneNum.value;
-          localStorage.setItem('user',this.user);
+//          localStorage.setItem('user',this.user);
 //          var that=this;
 //          axios.post(urls.details,{
 //            username:that.user,
@@ -67,8 +68,12 @@
           return this.bool1=true;
 
         }else{
-          this.wrong.style.display='block';
-          this.wrong.textContent='手机号码有误，请重新输入';
+//            如果错误显示提示窗口
+          let instance = Toast('手机号码有误，请重新输入');
+          setTimeout(() => {
+            instance.close();
+          }, 2000);
+
       }
       },
 //      获取验证码
@@ -80,8 +85,10 @@
        if(this.yMa.value===this.mBtn1.textContent){
             return this.bool2=true;
        }else{
-         this.wrong.style.display='block';
-         this.wrong.textContent='验证码输入错误，请重新输入';
+         let ins = Toast('验证码有误，请重新输入');
+         setTimeout(() => {
+           ins.close();
+         }, 2000);
        }
      },
 //      获取短信验证码
@@ -90,6 +97,7 @@
         this.mBtn2.style.backgroundColor="#c0c0c0";
         let str=60;
         var that=this;
+        that.mBtn2.textContent='已发送';
           var countDown=setInterval(function(){
             str--;
             that.mBtn2.textContent=str+'后重新获取';
@@ -100,10 +108,10 @@
             }
           },1000);
       },
-      hide(){
-        this.wrong=document.querySelector('.wrong');
-        this.wrong.style.display='none';
-      },
+//      hide(){
+//        this.wrong=document.querySelector('.wrong');
+//        this.wrong.style.display='none';
+//      },
       //    登录
       log(){
         this.loginBtn=document.querySelector(".loginBtn");
@@ -143,12 +151,15 @@
           });
              }
            }
-
         })
         if(this.bool1 && this.bool2 ){
-
           this.loginBtn.style.backgroundColor='#B349BD';
-          this.$router.push('/login')
+//          this.$router.push('/login')
+          localStorage.setItem('user',this.user);
+//          当LocalStorage保存到用户信息的时候，重新加载页面
+          this.$router.go(0)
+
+
         }
 
       }
@@ -218,18 +229,5 @@
     font-size: 1.8rem;
     background-color: #c5c5c5;
   }
-  .wrong{
-    width:50%;
-    height:10rem;
-    border-radius: 0.5rem;
-    background-color: rgba(0,0,0,0.5);
-    line-height: 10rem;
-    text-align: center;
-    position: fixed;
-    top:15rem;
-    left:25%;
-    display: none;
-    color: white;
-    font-size: 1.5rem;
-  }
+
 </style>

@@ -6,7 +6,7 @@
       </div>
       <div v-for="item in goodsinfo" class="info">
         <img v-bind:src='item.list[0].cover'>
-        <div class="timer">还剩多少时间</div>
+        <div class="timer">High 起来</div>
       </div>
     </div>
 
@@ -20,7 +20,7 @@
     name:'onGoing',
     data(){
       return{
-        title:true,
+        title:"hi darling",
         goodsinfo:true
       }
     },
@@ -53,8 +53,10 @@
     width:100%;
     height:5rem;
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     line-height: 5rem;
+    font-weight: 700;
+    color:mediumpurple;
   }
   .goodsWrap img{
     width:100%;
@@ -66,5 +68,7 @@
     text-align: center;
     height:4rem;
     line-height: 4rem;
+    font-size: 1.4rem;
+    color:plum;
   }
 </style>

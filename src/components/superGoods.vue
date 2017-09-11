@@ -8,7 +8,6 @@
         <img v-bind:src='item.list[0].cover'>
         <div class="timer"></div>
       </div>
-
     </div>
 
   </div>
@@ -21,14 +20,14 @@
     name: 'superGoods',
     data(){
       return {
-        title: true,
+        title:"hi darling",
         goodsinfo: true,
         timer: ''
       }
     },
     created(){
             var self = this;
-      axios.get(urls.httpBtUrlOne + urls.httpBtUrlTwo).then(function (res) {
+        axios.get(urls.httpBtUrlOne + urls.httpBtUrlTwo).then(function (res) {
         self.goods = res.data.data.complex;
         for (var i = 0; i < self.goods.length; i++) {
           self.title = self.goods[0].txt
@@ -55,8 +54,10 @@
     width:100%;
     height:5rem;
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     line-height: 5rem;
+    font-weight: 700;
+    color: plum;
   }
   .goodsWrap img{
     width:100%;

@@ -33,79 +33,78 @@ export default new Router({
       //二级路由
       children:[
         {
-          path:'home',
+          path:'/home',
           name:'home',
           component:Home,
           children:[
             {
-              path:'leaderone',
+              path:'/leaderone',
               name:'leaderone',
               component:leaderone
             }
           ]
         },
+
         {
-          path:'classify',
+          path:'/classify',
           name:'classify',
           component:Classify
         },
         {
-          path:'discount',
+          path:'/discount',
           name:'discount',
           component:Discount,
           children:[
             {
-              path:'today',
+              path:'/',
               name:'today',
               component:Today
             },
             {
-              path:'notice',
+              path:'/notice',
               name:'notice',
               component: Notice
-            }
-
+            },
+            {
+              path:'/entergoods',
+              name:'/entergoods',
+              component:enterGoods
+            },
           ]
         },
+
         {
-          path:'cart',
+          path:'/cart',
           component:Cart,
           name:'cart'
         },
         {
-          path:'mine',
+          path:'/mine',
           component:Mine,
           name:'mine'
         },
         {
-          path:'login',
+          path:'/login',
           component:Login,
           name:'login'
         },
         {
-          path:'exit',
+          path:'/exit',
           component:Exit,
           name:'exit'
+        },
+        {
+          path:'/search',
+          name:'search',
+          component:search
+        },
+
+        {
+          path:'/searchgoods',
+          name:'/searchgoods',
+          component:searchgoods
         }
       ]
-    },
-    {
-      path:'/search',
-      name:'search',
-      component:search
-    },
-    {
-      path:'/searchgoods',
-      name:'/searchgoods',
-      component:searchgoods
-    },
-    {
-      path:'/entergoods',
-      name:'/entergoods',
-      component:enterGoods
-    },
-
-
-
+    }
   ]
 })

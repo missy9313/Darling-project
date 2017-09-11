@@ -1,4 +1,5 @@
 <template>
+
     <div class="leadgoodsWrap">
       <template v-for="obj in goods" >
         <div v-for="item in obj " class="leadgoodsinfo" >
@@ -14,6 +15,10 @@
           </div>
        </div>
      </template>
+      <el-button type="primary" @click="openFullScreen" v-loading.fullscreen.lock="fullscreenLoading"
+                 style="background-color:rgba(0,0,0,0) ;border:none">
+
+      </el-button>
     </div>
 </template>
 
@@ -24,6 +29,7 @@
     name:'leaderone',
     data(){
       return{
+        fullscreenLoading:false,
         goodsinfo:true,
         key:'',
         infos:'',
@@ -36,7 +42,7 @@
     },
     methods:{
        news(){
-//              this.key=this.$route.query.key;
+//       this.key=this.$route.query.key;
          this.key=localStorage.getItem('leaderone');
          var self=this;
          axios.get(urls.httpBtUrlOne+'static/leader/'+this.key+".json").then(function(res){
@@ -46,19 +52,27 @@
            console.log(err)
          })
 
-       }
+       },
+      openFullScreen() {
+        this.fullscreenLoading = true;
+        setTimeout(() => {
+          this.fullscreenLoading = false;
+        }, 1500);
+      }
     },
     created(){
+      this.openFullScreen();
         this.news();
     }
   }
 </script>
 
 <style scoped>
+
   .leadgoodsWrap{
     width:100%;
     background-color: white;
-    margin-top:2.5rem;
+    margin-top:4rem;
     position:absolute;
     z-index: 29;
   }

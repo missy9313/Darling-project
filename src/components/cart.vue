@@ -1,6 +1,5 @@
  <template>
   <div>
-
       <div class="cartTop">
         <span style="font-size: 1.6rem">我的购物车 </span>
         <span class="redact" @click="dels=!dels">编辑</span>
@@ -18,32 +17,37 @@
     <!--当购物车有商品时-->
   <div class="hasgoods">
     <div class="goodsInfo" v-for="(obj,index,sub) in goods">
-      <span class="checks"  v-bind:class="{check:obj.checked}" @click="selectedProduct(obj,sub)"></span>
+      <input type="checkbox" class="checks" @click="selectedProduct(obj,sub)" >
         <img v-bind:src="obj.img" @click="enterGoods(index)">
       <div class="infoWraps">
-        <div>{{obj.name}}</div>
+        <div >
+          <p>{{obj.name}}</p>
+        </div>
         <div>{{obj.info}}</div>
-        <div>
+        <div class='controlWrap'>
           <span class="price">￥{{obj.price}}</span>
           <div class="cartcontrol">
           <div class="cart-decrease"  @click="obj.num--,changeCount()" v-show="obj.num>0"  >- </div>
-          <div class="cart-count" v-show="obj.num>0">{{obj.num}}</div>
+          <div class="count" v-show="obj.num>0" >{{obj.num}}</div>
           <div @click="obj.num++,changeCount()" class="cart-add">+</div>
           </div>
-          <transition name="el-zoom-in-center">
-          <span style="margin-right:10%;color:red" @click="del(obj.id)" v-show="dels">删除</span>
-          </transition>
+          <!--<transition name="el-zoom-in-center">-->
+          <!--<span style="margin-right:10%;color:red" @click="del(obj.id)" v-show="dels">删除</span>-->
+          <!--</transition>-->
         </div>
+        <transition name="el-zoom-in-center">
+          <span style="margin-right:1%;color:red" @click="del(obj.id)" v-show="dels">删除</span>
+        </transition>
       </div>
     </div>
   </div>
     <!--结算条-->
     <div class="account">
       <div class="accountWrap">
-        <div class="check">
-          <span class="noCheck"  v-if="all" @click="checkAll"></span>
-          <span class="checkAll"  v-else  @click="checkAll"></span>
-          <span>全选</span>
+
+        <div class="checksAll">
+          <input type="checkbox" @click="checkAll">
+          <span style="font-size: 1.5rem">全选</span>
        </div>
        <div class="money">
         <p>合计:<span style="color:#f0593f;font-size: 1.5rem">￥{{sum}}</span></p>
@@ -80,7 +84,10 @@
         bool0:'',
         arrdata: "",
         all:true,
-        arr:''
+        arr:'',
+        prices:'',
+        counts:''
+
       }
     },
     created(){
@@ -91,20 +98,14 @@
       }else if(!localStorage.getItem('goodsId')){
         this.showcart = true;
       }
-//       if(localStorage.getItem('uId')){
-//         this.showcart = false;
-//       }else{
-//         this.showcart = true;
-//
-//       }
-
+//   获取用户的uId,根据用户信息获取对应数据
       this.uId = localStorage.getItem('uId');
       var that = this;
       axios.get(urls.details + "/" + this.uId).then(function (res) {
         that.goods = JSON.parse(res.data.data);
-        for (var i in that.goods) {
-          that.sum += that.goods[i].num * that.goods[i].price;
-        }
+//        for (var i in that.goods) {
+//          that.sum += that.goods[i].num * that.goods[i].price;
+//        }
       }, function (err) {
         console.log(err)
       })
@@ -119,29 +120,30 @@
         var aa = 0;
         for (var i in this.goods) {
           aa += this.goods[i].num * this.goods[i].price;
-          if(this.goods[i].num===0){
-          }
         }
         this.sum = aa;
 //        修改变更后的后台数据
         this.change(this.goods)
-
       },
 //      删除商品
       del(ids,e){
           if(!e){
               e=window.event;
           }
+
+
          if(this.bool0){
          this.$confirm('是否要删除该商品', '提示', {
           confirmButtonText: '确定',
           cancelButtonText: '取消',
           type: 'warning'
         }).then(() => {
-      //调用函数将值传回服务器   然后调用load()渲染页面,    这个方法好处是可以使服务器数据和本地同步,但是服务器请求比较多, 另一种可以做一个编辑按钮,然后进行加 减 删除等操作,点击完成 然后上传
+      //调用函数将值传回服务器   然后调用load()渲染页面,
+     // 这个方法好处是可以使服务器数据和本地同步,但是服务器请求比较多, 另一种可以做一个编辑按钮,然后进行加 减 删除等操作,点击完成 然后上传
              delete this.arrdata[ids];
              this.change(this.arrdata);
-             e.target.parentNode.parentNode.parentNode.remove();
+             e.target.parentNode.parentNode.remove();
+             this.sum=0;
              this.$message({
                type: 'success',
                message: '删除成功!',
@@ -181,40 +183,40 @@
 
       },
 //      选择商品
-      selectedProduct: function (obj, sub) {
+      selectedProduct(obj, sub) {
         this.checks = document.querySelectorAll('.checks');
-          obj.checked = !obj.checked;
-//          未选中状态
-          var len=this.checks.length;
-          for (var i = 0; i < len; i++) {
-            if (obj.checked) {
-              this.checks[sub].style.backgroundColor = "white";
-              return this.bool0=false;
-            }
-//                选中状态
-            else {
-              this.checks[sub].style.backgroundColor = "#b05bc0";
-              return this.bool0=true;
-            }
+        this.prices=document.querySelectorAll('.price');
+        var len=this.checks.length;
+        for(var k=0;k<len;k++){
+          if(this.checks[k].checked){
+            this.sum+=this.prices[k].textContent.slice(1)*obj.num
+            return this.bool0=true;
+          }else{
+            this.sum=0
           }
+        }
+
         },
-//全选
-      checkAll() { //全选/取消全选
+//全选//全选/取消全选
+      checkAll() {
         this.checks = document.querySelectorAll('.checks');
           if(this.all===true){
-            for(var i=0;i<this.checks.length;i++){
-              this.checks[i].style.backgroundColor = "#b05bc0";
+            for(var k=0;k<this.checks.length;k++){
+              this.$set(this.checks[k],"checked",true)
+            }
+            for (var j in this.goods) {
+              this.sum += this.goods[j].num * this.goods[j].price;
             }
             this.all=false;
           }else{
+            for(var k=0;k<this.checks.length;k++){
+              this.$set(this.checks[k],"checked",false)
+            }
             for(var i=0;i<this.checks.length;i++){
-              this.checks[i].style.backgroundColor = "white";
+              this.sum=0;
             }
             this.all=true;
           }
-
-
-
       }
     }
   }
@@ -266,7 +268,7 @@
 
 /*加减控制器*/
 .cartcontrol{
-  margin-left: 47%;
+  margin-left: 35%;
   margin-right:7%;
   display: inline-block;
   font-size: 0;
@@ -281,15 +283,13 @@
   font-size: 2.4rem;
   transition:all 0.4s linear
  }
-.move-transition{
-  opacity:1;
-  transform:translate3D(0,0,0) ;
+.controlWrap{
+  width:100%;
+  display: flex;
+  justify-content: space-between;
 }
-.move-enter,.move-leave{
-  opacity: 0;
-  transform:translate3D(24px,0,0)
-}
-.cart-count{
+
+.count{
   display: inline-block;
   width:3rem;
   height:3rem;
@@ -331,14 +331,15 @@
   }
   .accountWrap{
     display: flex;
-    width:35%;
+    width:46%;
     justify-content: space-around;
     line-height:2rem;
     margin-top: 0.3rem;
   }
-  .check{
+  .checksAll{
     display: flex;
-    margin-top:1rem;
+    font-size: 1.5rem;
+    align-items: center;
   }
   .checkAll{
     margin-right: 0.5rem;
@@ -388,7 +389,7 @@
     font-size: 1.5rem;
   }
   .goBuy{
-    width:40%;
+    width:35%;
     height:4.9rem;
     background-color: #b05bc0;
     color:white;

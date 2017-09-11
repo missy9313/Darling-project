@@ -18,7 +18,7 @@
     name:'hotGoods',
     data(){
       return{
-        title:true,
+        title:"hi darling",
         goodsinfo:true
       }
     },
@@ -26,6 +26,7 @@
       hotInfo
     },
     created(){
+//        获取所需数据
       var self=this;
       axios.get('../../static/home.json').then(function(res){
         self.goods=res.data.data.complex;
@@ -56,6 +57,8 @@
     text-align: center;
     font-size: 1.5rem;
     line-height: 5rem;
+    font-weight: 700;
+    color:rebeccapurple;
   }
   .newLeader{
     width:100%;

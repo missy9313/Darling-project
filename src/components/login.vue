@@ -19,7 +19,8 @@ export default{
   name:'login',
   data(){
     return{
-        userName:''
+        userName:'',
+        user:''
     }
     },
   methods:{
@@ -28,7 +29,12 @@ export default{
     }
   },
   created(){
-      this.userName="达令"+localStorage.getItem('user');
+      this.user=localStorage.getItem('user');
+    var name1=this.user.slice(0,3);
+    var p1=this.user.slice(3,7);
+    var name2=p1.replace(p1,"****");
+    var name3=this.user.slice(7,11);
+      this.userName="达令"+name1+name2+name3;
   },
   components:{
     order,

@@ -14,7 +14,7 @@
        <div class="buyInfo">
          <p class="price"><span>￥</span>{{obj.price}}</p>
          <div class="cart">
-            <p>万人加入购物车</p>
+            <p>10万人加入购物车</p>
            <img src="../assets/cart0.png">
          </div>
        </div>

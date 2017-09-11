@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <div>
+  <div class="enterWrap">
+    <div >
       <!--展示图-->
       <div class="pic">
         <img v-bind:src="goodslist.image">
@@ -11,7 +11,6 @@
         <p style="color:#f0593f">￥<span class="price">{{goodslist.origin_price}}</span></p>
       </div>
       <!--其他信息-->
-
       <div class="othersWrap">
         <div v-for="obj in others" class="others">
           <h4>
@@ -25,14 +24,17 @@
           <p>
           {{obj.txt}}
           </p>
-
         </div>
       </div>
     </div>
-      <button class="addCart"  @click="addcart(goodslist.goods_id)">加入购物车</button>
+      <div class="bottoms"  >
+        <div @click="back">《《返回上一页</div>
+        <!--<router-link to="./discount/notice">《《返回上一页</router-link>-->
+        <button class="addCart"  @click="addcart(goodslist.goods_id)">加入购物车</button>
+      </div>
     <div class="addS">
       亲，已成功加入购物车~
- </div>
+     </div>
     <div class="backBtn">
       <small-leader></small-leader>
     </div>
@@ -44,11 +46,12 @@
   import axios from 'axios'
   import {urls} from '../router/urlList'
   import smallLeader from '@/components/leader/smallLeader'
+
   export default{
     name:"entergoods",
     data(){
         return{
-        key:true,
+          key:true,
           goodslist:"",
           others:{},
           uId:'',
@@ -65,9 +68,13 @@
     },
     methods:{
         back(){
-           window.history.go(-1)
+//           this.$router.push('/discount/notice')
+
+          this.$router.go(-1)
         },
+
       addcart(id){
+
           var aa=document.querySelector('.addS');
           aa.style.display="block";
           var time=setTimeout(function(){
@@ -128,7 +135,9 @@
         })
       }
   },
+//    props:['enters'],
   created(){
+//        this.enters();
     this.key=this.$route.query.key;
     var that=this;
       axios.get(urls.httpBtUrlOne+"static/"+this.key+'.json').then(function(res){
@@ -142,9 +151,17 @@
       });
 
   }
+
+
+
   }
 </script>
 <style scoped>
+  .enterWrap{
+    position: absolute;
+    top:0;
+    /*z-index: 99;*/
+  }
   .imgWrap{
     width:100%;
     display: flex;
@@ -159,6 +176,7 @@
   }
   .pic{
     width:100%;
+
   }
     .pic img{
       width:100%;
@@ -195,12 +213,10 @@
     width:40%;
     background-color: #b05bc0;
     border:none;
-    height:3rem;
+    height:4.9rem;
+    line-height: 4.9rem;
     color:white;
     font-size: 1.5rem;
-    position:fixed;
-    bottom:0;
-    left:60%;
   }
   .addS{
     width:30%;
@@ -221,5 +237,17 @@
     position:fixed;
     bottom:5rem;
     right:2rem;
+  }
+  .bottoms{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    height:4.9rem;
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+    border-top:1px solid #ccc;
+    line-height:4.9rem;
+    z-index:99;
   }
 </style>

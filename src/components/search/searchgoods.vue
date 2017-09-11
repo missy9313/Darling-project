@@ -2,6 +2,7 @@
   <div>
     <go-search></go-search>
     <div class="infoWrap">
+      <div style="margin-top: 5rem">{{keys}}</div>
       <div v-for="obj in goodslist" class="infos">
         <div class="icon">
           <!--<img v-bind:src="obj.icons.img" >-->
@@ -44,6 +45,7 @@
     data(){
         return{
           sel:true,
+          keys:'',
           arr:[],
           goodslist:'',
           searchgoods:true
@@ -55,7 +57,8 @@
   },
     created(){
       this.sel=this.$route.query.id;
-      this.key=this.$route.query.searchgoods;
+      this.keys=this.$route.query.key;
+console.log(this.keys)
       this.arr=["static/masker.json"];
 //      热门推荐里的搜索选择
        var that=this;
@@ -66,6 +69,13 @@
                 console.log(err)
               });
           }
+//      for(var j=0;j<this.arr.length;j++){
+//        axios.get(urls.httpBtUrlOne+this.arr[0]).then(function(res){
+//          that.goodslist=res.data.data.list
+//        },function(err){
+//          console.log(err)
+//        });
+//      }
     },
     methods:{
 //      goTop(){

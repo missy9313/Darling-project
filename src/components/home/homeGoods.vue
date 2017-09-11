@@ -1,6 +1,6 @@
 <template>
   <div>
-    <super-goods></super-goods>
+    <super-goods ></super-goods>
     <on-going></on-going>
     <heart-goods></heart-goods>
     <act-goods></act-goods>

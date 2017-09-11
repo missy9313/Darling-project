@@ -4,7 +4,6 @@
       <div class="wrap">
         <div v-for="(obj,index) in list">
           <p @click="goSee(index)" class="title">{{obj.title}}</p>
-
         </div>
       </div>
     </div>
@@ -20,14 +19,14 @@
       </div>
     </transition>
       <router-view ref="jj"></router-view>
-
-
   </div>
 </template>
 
 <script>
+
   export default{
-    name:'leader',
+    name:'leaders',
+
     data(){
         return{
           willShow:false,
@@ -114,8 +113,7 @@
             if(!e){
                 e=window.event;
             }
-
-
+//选择字体变色
         var titleList=document.querySelectorAll('.title');
             for(var i=0;i<titleList.length;i++) {
               if (e.target===titleList[i]) {
@@ -126,7 +124,8 @@
                 titleList[i].style.fontWeight='400';
               }
             }
-        this.$router.push('/home/leaderone');
+//            跨页面传值
+        this.$router.push('/leaderone');
         localStorage.setItem('leaderone',index)
         if(this.$refs.jj){
           this.$refs.jj.news();
@@ -219,4 +218,11 @@ p{
     width:19%;
     margin: 1rem;
   }
+.backBtn{
+  width:30%;
+  z-index: 99;
+  position:fixed;
+  bottom:5rem;
+  right:2rem;
+}
 </style>

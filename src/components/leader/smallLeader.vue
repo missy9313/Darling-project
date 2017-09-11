@@ -2,7 +2,7 @@
   <div class="aa">
     <transition name="el-zoom-in-bottom">
       <ul v-show="show2" class="smWrap">
-        <li v-for="obj in tablist" class="smLi">
+        <li v-for="obj in list" class="smLi">
           <router-link :to="obj.to" >{{obj.title}}</router-link >
         </li>
       </ul>
@@ -14,10 +14,12 @@
 <script>
   export default {
     name:'smallLeader',
+
     data(){
         return{
             show2:false,
-              tablist:[
+
+             list:[
                 { to:'/home',
                   title:'首页',
                 },
@@ -36,8 +38,6 @@
               ]
             }
           }
-
-
   }
 </script>
 

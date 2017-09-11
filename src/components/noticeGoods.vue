@@ -1,14 +1,10 @@
 <template>
   <div>
     <!--各种即将抢购产品-->
-    <div class="infoWrap">
+    <div class="infoWrap" >
       <div v-for="obj in notice" class="infos" >
-        <!--<div class="icon">-->
-          <!--&lt;!&ndash;<img v-bind:src="obj.icons.img" >&ndash;&gt;-->
-        <!--</div>-->
         <img v-bind:src="obj.image" alt="宝贝没了" @click="enterGoods(obj.goods_id)">
         <p class="showName">{{obj.goods_show_name}}
-       <!--<span>{{obj.icon_display.txt}}</span>-->
         </p>
         <p class="name">{{obj.goods_name}}</p>
         <div class="buyInfo">
@@ -23,12 +19,19 @@
     <div class="addS">
          亲，已成功加入购物车~
     </div>
+    <el-button type="primary" @click="openFullScreen" v-loading.fullscreen.lock="fullscreenLoading"
+               style="background-color:rgba(0,0,0,0) ;border:none">
+
+    </el-button>
   </div>
 </template>
 
 <script>
   import axios from 'axios';
   import {urls} from '../router/urlList';
+
+
+
   export default{
     name:'noticeGoods',
     data(){
@@ -39,27 +42,74 @@
         num:1,
         d:[],
         arrdataStr:"",
-        detailsId:''
+        detailsId:'',
+        goodshow:true,
+        fullscreenLoading:false
+
       }
     },
     created(){
+      if (sessionStorage.getItem(location.hash)){
+        setTimeout(function () {
+          document.body.scrollTop=sessionStorage.getItem(location.hash);
+          sessionStorage.removeItem(location.hash);
+        },200);
+      }
       var self=this;
       axios.get(urls.httpBtUrlOne+urls.httpBtUrlSix).then(function(res){
         self.notice=res.data.data.flash_list[0].list
       },function(err){
         console.log(err)
       })
+      this.openFullScreen();
 
 
     },
+//  回到点击位置
+    mounted(){
+//      var map = {};
+//      window.onhashchange = function() {
+//        document.body.scrollTop = 0;
+//      }
+//      /*  2 再屏蔽掉浏览器自动恢复滚动位置行为带来的影响
+//       a 在 hashchange 时强制 document.body.scrollTop = 0
+//       b 在 scroll 事件里面, 当 document.body.scrollTop = 0 的时候不做 存操作.*/
+//      window.onscroll = function() {
+//        if (document.body.scrollTop) {
+//          // 存
+//          map[location.hash] = document.body.scrollTop;
+//        } else {
+//          var timer = null;
+//          //3 在读操作里面, 设置一个定时任务, 去判断 document.body.scrollTop 的值和你保存的位置是不是相同的
+//          timer = setInterval(function(){
+//            if (document.body.scrollTop === map[location.hash]) {
+//              map={}
+//              clearInterval(timer);
+//
+//            } else {
+//              document.body.scrollTop = map[location.hash];
+//            }
+//          }, 200);
+//        }
+//      }
+    },
     methods:{
+//        屏幕加载时的等待显示
+      openFullScreen() {
+        this.fullscreenLoading = true;
+        setTimeout(() => {
+          this.fullscreenLoading = false;
+        }, 1500);
+      },
 //        加入购物车
       addcart(id){
+//          已加入购物车信息提示
           var aa=document.querySelector('.addS');
           aa.style.display="block";
-        var time=setTimeout(function(){
+         var time=setTimeout(function(){
             aa.style.display="none";
-        },1000)
+        },1000);
+//        获取数据
         axios.get(urls.httpBtUrlOne +"static/"+ id + '.json').then((res) => {
             this.d = res.data;
           })
@@ -118,6 +168,7 @@
       },
 //      进入详情页
       enterGoods(ids){
+        sessionStorage[location.hash] = document.body.scrollTop;
         this.$router.push({path:"/entergoods", query: {key:ids}})
       }
     }
@@ -211,5 +262,10 @@
     text-align: center;
     line-height: 5rem;
     border-radius: 0.5rem;
+  }
+  .goodsWrap{
+    position:absolute;
+    top:0;
+    z-index: 99;
   }
 </style>

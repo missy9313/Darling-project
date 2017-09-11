@@ -2,8 +2,8 @@
    <div>
       <router-view></router-view>
       <ul class="tabBar" >
-        <li  v-for="obj in tablist">
-          <router-link :to="obj.to" :class="obj.cla"  :activeClass="obj.activeCla" >
+        <li  v-for="(obj,index,aa) in tablist">
+          <router-link :to="obj.to" :class="obj.cla"  :activeClass="obj.activeCla">
           </router-link>
           <p>{{obj.title}}</p>
         </li>
@@ -31,7 +31,6 @@ export default {
               title:'约惠',
               cla:"discountCla",
               activeCla:'activeDiscount'
-
             },
             { to:'/cart',
               title:'购物车',
@@ -45,10 +44,9 @@ export default {
             }
           ]
       }
-  },
-  created(){
-  this.$router.push('/home')
-}
+  }
+
+
 }
 </script>
 
@@ -59,11 +57,11 @@ export default {
   position:fixed;
   bottom:0;
   height:4.9rem;
-  background-color: white;
+  background-color:white;
   text-align: center;
   display: flex;
   justify-content: space-between;
-  border-top:1px solid #000;
+  border-top:1px solid plum;
   z-index:39;
 }
 .tabBar li{

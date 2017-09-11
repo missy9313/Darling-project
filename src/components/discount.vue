@@ -17,23 +17,23 @@
     data () {
       return{
         list:[
-          { to:'/discount/today',
+          { to:'/discount',
             title:'今日约惠',
             cla:"disCla",
             activeCla:'actCla'
           }
           ,
-          { to:'/discount/notice',
+          { to:'/notice',
             title:'约惠预告',
             cla:"disCla",
             activeCla:'actCla'
           }
         ]
       }
-    },
-    created(){
-        this.$router.push('/discount/today')
     }
+//    created(){
+//        this.$router.push('/today')
+//    }
   }
 </script>
 
